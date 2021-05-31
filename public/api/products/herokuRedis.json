@@ -18,7 +18,7 @@
         "hex": "#2c3474"
       }
     ],
-    "package":  {},
+    "package": {},
     "logos": [
       {
         "name": "herokuRedis",
