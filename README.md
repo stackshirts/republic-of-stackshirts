@@ -9,5 +9,9 @@
   - `.vercelignore` ignores `/pages/api` (which we only use in dev)
   - And points all `/api` requests to the `/public/api` folder, mapping to JSON files
   - svgs live in `/public/static`
+
+## How to hang out
+
+- Use discussions!
   
 
