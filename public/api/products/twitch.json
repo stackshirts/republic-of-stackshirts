@@ -1,0 +1,59 @@
+{
+  "id": "twitch",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Twitch",
+    "url": "http://www.twitch.tv/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#5c3c84"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "twitch",
+        "pathname": "/static/logos/twitch/twitch.svg",
+        "width": 256,
+        "height": 268,
+        "src": "https://www.republicofstackshirts.com/static/logos/twitch/twitch.svg"
+      },
+      {
+        "name": "twitchIcon",
+        "pathname": "/static/logos/twitch/twitchIcon.svg",
+        "width": 256,
+        "height": 268,
+        "src": "https://www.republicofstackshirts.com/static/logos/twitch/twitchIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "video": {
+        "id": "video",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "socialNetwork": {
+        "id": "socialNetwork",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

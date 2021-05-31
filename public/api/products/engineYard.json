@@ -1,0 +1,67 @@
+{
+  "id": "engineYard",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Engine Yard",
+    "url": "https://www.engineyard.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#ec242c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "engineYard",
+        "pathname": "/static/logos/engineYard/engineYard.svg",
+        "width": 253,
+        "height": 187,
+        "src": "https://www.republicofstackshirts.com/static/logos/engineYard/engineYard.svg"
+      },
+      {
+        "name": "engineYardIcon",
+        "pathname": "/static/logos/engineYard/engineYardIcon.svg",
+        "width": 253,
+        "height": 187,
+        "src": "https://www.republicofstackshirts.com/static/logos/engineYard/engineYardIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "codeDeployment": {
+        "id": "codeDeployment",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "codeManager": {
+        "id": "codeManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "paas": {
+        "id": "paas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

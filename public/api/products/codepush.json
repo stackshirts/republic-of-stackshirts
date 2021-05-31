@@ -1,0 +1,75 @@
+{
+  "id": "codepush",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "CodePush",
+    "url": "https://microsoft.github.io/code-push/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#54acdc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "codepush",
+        "pathname": "/static/logos/codepush/codepush.svg",
+        "width": 256,
+        "height": 118,
+        "src": "https://www.republicofstackshirts.com/static/logos/codepush/codepush.svg"
+      },
+      {
+        "name": "codepushIcon",
+        "pathname": "/static/logos/codepush/codepushIcon.svg",
+        "width": 256,
+        "height": 118,
+        "src": "https://www.republicofstackshirts.com/static/logos/codepush/codepushIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "mobile": {
+        "id": "mobile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "distributionPlatform": {
+        "id": "distributionPlatform",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "cordova": {
+        "id": "cordova",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "reactNative": {
+        "id": "reactNative",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

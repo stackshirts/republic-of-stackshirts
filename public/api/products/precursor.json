@@ -1,0 +1,59 @@
+{
+  "id": "precursor",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Precursor",
+    "url": "https://precursorapp.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#343434"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "precursor",
+        "pathname": "/static/logos/precursor/precursor.svg",
+        "width": 256,
+        "height": 299,
+        "src": "https://www.republicofstackshirts.com/static/logos/precursor/precursor.svg"
+      },
+      {
+        "name": "precursorIcon",
+        "pathname": "/static/logos/precursor/precursorIcon.svg",
+        "width": 256,
+        "height": 299,
+        "src": "https://www.republicofstackshirts.com/static/logos/precursor/precursorIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "prototyping": {
+        "id": "prototyping",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ui": {
+        "id": "ui",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

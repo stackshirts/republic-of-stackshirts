@@ -1,0 +1,59 @@
+{
+  "id": "dojo",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Dojo Toolkit",
+    "url": "https://dojotoolkit.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#8c8c8c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "dojo",
+        "pathname": "/static/logos/dojo/dojo.svg",
+        "width": 512,
+        "height": 239,
+        "src": "https://www.republicofstackshirts.com/static/logos/dojo/dojo.svg"
+      },
+      {
+        "name": "dojoIcon",
+        "pathname": "/static/logos/dojo/dojoIcon.svg",
+        "width": 512,
+        "height": 239,
+        "src": "https://www.republicofstackshirts.com/static/logos/dojo/dojoIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "library": {
+        "id": "library",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

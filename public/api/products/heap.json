@@ -1,0 +1,59 @@
+{
+  "id": "heap",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Heap",
+    "url": "https://heapanalytics.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#ed4c5c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "heap",
+        "pathname": "/static/logos/heap/heap.svg",
+        "width": 256,
+        "height": 296,
+        "src": "https://www.republicofstackshirts.com/static/logos/heap/heap.svg"
+      },
+      {
+        "name": "heapIcon",
+        "pathname": "/static/logos/heap/heapIcon.svg",
+        "width": 256,
+        "height": 296,
+        "src": "https://www.republicofstackshirts.com/static/logos/heap/heapIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "funnelAnalytics": {
+        "id": "funnelAnalytics",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "analytics": {
+        "id": "analytics",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

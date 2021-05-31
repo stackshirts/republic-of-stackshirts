@@ -1,0 +1,67 @@
+{
+  "id": "percy",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Percy",
+    "url": "https://percy.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#b355b3"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "percy",
+        "pathname": "/static/logos/percy/percy.svg",
+        "width": 256,
+        "height": 162,
+        "src": "https://www.republicofstackshirts.com/static/logos/percy/percy.svg"
+      },
+      {
+        "name": "percyIcon",
+        "pathname": "/static/logos/percy/percyIcon.svg",
+        "width": 256,
+        "height": 162,
+        "src": "https://www.republicofstackshirts.com/static/logos/percy/percyIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "continuousIntegration": {
+        "id": "continuousIntegration",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "versionControl": {
+        "id": "versionControl",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ui": {
+        "id": "ui",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

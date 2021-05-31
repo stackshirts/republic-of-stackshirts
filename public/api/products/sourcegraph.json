@@ -1,0 +1,75 @@
+{
+  "id": "sourcegraph",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Sourcegraph",
+    "url": "https://sourcegraph.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f96316"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "sourcegraph",
+        "pathname": "/static/logos/sourcegraph/sourcegraph.svg",
+        "width": 256,
+        "height": 262,
+        "src": "https://www.republicofstackshirts.com/static/logos/sourcegraph/sourcegraph.svg"
+      },
+      {
+        "name": "sourcegraphIcon",
+        "pathname": "/static/logos/sourcegraph/sourcegraphIcon.svg",
+        "width": 256,
+        "height": 262,
+        "src": "https://www.republicofstackshirts.com/static/logos/sourcegraph/sourcegraphIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "codeSearch": {
+        "id": "codeSearch",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "go": {
+        "id": "go",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "typescript": {
+        "id": "typescript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "c": {
+        "id": "c",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

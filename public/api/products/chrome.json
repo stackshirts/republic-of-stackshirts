@@ -1,0 +1,51 @@
+{
+  "id": "chrome",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Chrome",
+    "url": "http://www.google.com/chrome/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#63bb5b"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "chrome",
+        "pathname": "/static/logos/chrome/chrome.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/chrome/chrome.svg"
+      },
+      {
+        "name": "chromeIcon",
+        "pathname": "/static/logos/chrome/chromeIcon.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/chrome/chromeIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "browser": {
+        "id": "browser",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

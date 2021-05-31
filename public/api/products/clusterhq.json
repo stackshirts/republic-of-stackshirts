@@ -1,0 +1,59 @@
+{
+  "id": "clusterhq",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "ClusterHQ",
+    "url": "https://clusterhq.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#e0433a"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "clusterhq",
+        "pathname": "/static/logos/clusterhq/clusterhq.svg",
+        "width": 256,
+        "height": 285,
+        "src": "https://www.republicofstackshirts.com/static/logos/clusterhq/clusterhq.svg"
+      },
+      {
+        "name": "clusterhqIcon",
+        "pathname": "/static/logos/clusterhq/clusterhqIcon.svg",
+        "width": 256,
+        "height": 285,
+        "src": "https://www.republicofstackshirts.com/static/logos/clusterhq/clusterhqIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "docker": {
+        "id": "docker",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "containers": {
+        "id": "containers",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

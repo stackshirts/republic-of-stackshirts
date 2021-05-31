@@ -1,0 +1,83 @@
+{
+  "id": "cordova",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Cordova",
+    "url": "https://cordova.apache.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#444444"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "cordova",
+        "pathname": "/static/logos/cordova/cordova.svg",
+        "width": 256,
+        "height": 245,
+        "src": "https://www.republicofstackshirts.com/static/logos/cordova/cordova.svg"
+      },
+      {
+        "name": "cordovaIcon",
+        "pathname": "/static/logos/cordova/cordovaIcon.svg",
+        "width": 256,
+        "height": 245,
+        "src": "https://www.republicofstackshirts.com/static/logos/cordova/cordovaIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "crossPlatform": {
+        "id": "crossPlatform",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "applicationFramework": {
+        "id": "applicationFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mobile": {
+        "id": "mobile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "cli": {
+        "id": "cli",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

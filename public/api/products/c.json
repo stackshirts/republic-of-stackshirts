@@ -1,0 +1,51 @@
+{
+  "id": "c",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "C++",
+    "url": "https://isocpp.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#acbbcb"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "c",
+        "pathname": "/static/logos/c/c.svg",
+        "width": 256,
+        "height": 288,
+        "src": "https://www.republicofstackshirts.com/static/logos/c/c.svg"
+      },
+      {
+        "name": "cIcon",
+        "pathname": "/static/logos/c/cIcon.svg",
+        "width": 256,
+        "height": 288,
+        "src": "https://www.republicofstackshirts.com/static/logos/c/cIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "language": {
+        "id": "language",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

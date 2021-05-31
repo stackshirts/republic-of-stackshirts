@@ -1,0 +1,67 @@
+{
+  "id": "couchbase",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Couchbase",
+    "url": "http://www.couchbase.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#ec2424"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "couchbase",
+        "pathname": "/static/logos/couchbase/couchbase.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/couchbase/couchbase.svg"
+      },
+      {
+        "name": "couchbaseIcon",
+        "pathname": "/static/logos/couchbase/couchbaseIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/couchbase/couchbaseIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "database": {
+        "id": "database",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "nosql": {
+        "id": "nosql",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "dbaas": {
+        "id": "dbaas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

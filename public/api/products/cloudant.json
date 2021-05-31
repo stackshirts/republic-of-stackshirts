@@ -1,0 +1,67 @@
+{
+  "id": "cloudant",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Cloudant",
+    "url": "https://cloudant.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#74c3e3"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "cloudant",
+        "pathname": "/static/logos/cloudant/cloudant.svg",
+        "width": 256,
+        "height": 249,
+        "src": "https://www.republicofstackshirts.com/static/logos/cloudant/cloudant.svg"
+      },
+      {
+        "name": "cloudantIcon",
+        "pathname": "/static/logos/cloudant/cloudantIcon.svg",
+        "width": 256,
+        "height": 249,
+        "src": "https://www.republicofstackshirts.com/static/logos/cloudant/cloudantIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "database": {
+        "id": "database",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "nosql": {
+        "id": "nosql",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "dbaas": {
+        "id": "dbaas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

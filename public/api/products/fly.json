@@ -1,0 +1,51 @@
+{
+  "id": "fly",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Fly",
+    "url": "https://fly.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#A048DE"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "fly",
+        "pathname": "/static/logos/fly/fly.svg",
+        "width": 256,
+        "height": 400,
+        "src": "https://www.republicofstackshirts.com/static/logos/fly/fly.svg"
+      },
+      {
+        "name": "flyIcon",
+        "pathname": "/static/logos/fly/flyIcon.svg",
+        "width": 256,
+        "height": 400,
+        "src": "https://www.republicofstackshirts.com/static/logos/fly/flyIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "loadBalancer": {
+        "id": "loadBalancer",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

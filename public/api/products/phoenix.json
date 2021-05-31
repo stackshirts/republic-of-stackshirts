@@ -1,0 +1,67 @@
+{
+  "id": "phoenix",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Phoenix",
+    "url": "http://www.phoenixframework.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#fc4c04"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "phoenix",
+        "pathname": "/static/logos/phoenix/phoenix.svg",
+        "width": 256,
+        "height": 175,
+        "src": "https://www.republicofstackshirts.com/static/logos/phoenix/phoenix.svg"
+      },
+      {
+        "name": "phoenixIcon",
+        "pathname": "/static/logos/phoenix/phoenixIcon.svg",
+        "width": 256,
+        "height": 175,
+        "src": "https://www.republicofstackshirts.com/static/logos/phoenix/phoenixIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "fullStackFramework": {
+        "id": "fullStackFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "elixir": {
+        "id": "elixir",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "erlang": {
+        "id": "erlang",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

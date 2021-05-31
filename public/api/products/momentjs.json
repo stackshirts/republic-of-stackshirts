@@ -1,0 +1,59 @@
+{
+  "id": "momentjs",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Moment.js",
+    "url": "http://momentjs.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#346464"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "momentjs",
+        "pathname": "/static/logos/momentjs/momentjs.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/momentjs/momentjs.svg"
+      },
+      {
+        "name": "momentjsIcon",
+        "pathname": "/static/logos/momentjs/momentjsIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/momentjs/momentjsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "library": {
+        "id": "library",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

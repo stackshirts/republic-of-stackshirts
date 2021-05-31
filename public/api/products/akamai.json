@@ -1,0 +1,59 @@
+{
+  "id": "akamai",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Akamai",
+    "url": "https://www.akamai.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#049bcc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "akamai",
+        "pathname": "/static/logos/akamai/akamai.svg",
+        "width": 512,
+        "height": 209,
+        "src": "https://www.republicofstackshirts.com/static/logos/akamai/akamai.svg"
+      },
+      {
+        "name": "akamaiIcon",
+        "pathname": "/static/logos/akamai/akamaiIcon.svg",
+        "width": 512,
+        "height": 209,
+        "src": "https://www.republicofstackshirts.com/static/logos/akamai/akamaiIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "cdn": {
+        "id": "cdn",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "iaaS": {
+        "id": "iaaS",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

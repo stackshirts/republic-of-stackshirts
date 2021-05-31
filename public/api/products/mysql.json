@@ -1,0 +1,59 @@
+{
+  "id": "mysql",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "MySQL",
+    "url": "http://dev.mysql.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#04546c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "mysql",
+        "pathname": "/static/logos/mysql/mysql.svg",
+        "width": 256,
+        "height": 252,
+        "src": "https://www.republicofstackshirts.com/static/logos/mysql/mysql.svg"
+      },
+      {
+        "name": "mysqlIcon",
+        "pathname": "/static/logos/mysql/mysqlIcon.svg",
+        "width": 256,
+        "height": 252,
+        "src": "https://www.republicofstackshirts.com/static/logos/mysql/mysqlIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "database": {
+        "id": "database",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "sql": {
+        "id": "sql",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

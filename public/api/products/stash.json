@@ -1,0 +1,67 @@
+{
+  "id": "stash",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Stash",
+    "url": "https://www.atlassian.com/software/stash",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#244c74"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "stash",
+        "pathname": "/static/logos/stash/stash.svg",
+        "width": 256,
+        "height": 253,
+        "src": "https://www.republicofstackshirts.com/static/logos/stash/stash.svg"
+      },
+      {
+        "name": "stashIcon",
+        "pathname": "/static/logos/stash/stashIcon.svg",
+        "width": 256,
+        "height": 253,
+        "src": "https://www.republicofstackshirts.com/static/logos/stash/stashIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "git": {
+        "id": "git",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "codeManager": {
+        "id": "codeManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "enterprise": {
+        "id": "enterprise",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

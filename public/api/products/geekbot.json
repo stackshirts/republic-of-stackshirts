@@ -1,0 +1,67 @@
+{
+  "id": "geekbot",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "geekbot",
+    "url": "https://geekbot.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#5c928d"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "geekbot",
+        "pathname": "/static/logos/geekbot/geekbot.svg",
+        "width": 256,
+        "height": 284,
+        "src": "https://www.republicofstackshirts.com/static/logos/geekbot/geekbot.svg"
+      },
+      {
+        "name": "geekbotIcon",
+        "pathname": "/static/logos/geekbot/geekbotIcon.svg",
+        "width": 256,
+        "height": 284,
+        "src": "https://www.republicofstackshirts.com/static/logos/geekbot/geekbotIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "teamCollaboration": {
+        "id": "teamCollaboration",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "standup": {
+        "id": "standup",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "slack": {
+        "id": "slack",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

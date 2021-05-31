@@ -1,0 +1,59 @@
+{
+  "id": "codecademy",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "codecademy",
+    "url": "https://www.codecademy.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#244454"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "codecademy",
+        "pathname": "/static/logos/codecademy/codecademy.svg",
+        "width": 512,
+        "height": 108,
+        "src": "https://www.republicofstackshirts.com/static/logos/codecademy/codecademy.svg"
+      },
+      {
+        "name": "codecademyIcon",
+        "pathname": "/static/logos/codecademy/codecademyIcon.svg",
+        "width": 512,
+        "height": 108,
+        "src": "https://www.republicofstackshirts.com/static/logos/codecademy/codecademyIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "learning": {
+        "id": "learning",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "courses": {
+        "id": "courses",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "forever",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Forever",
+    "url": "https://github.com/foreverjs/forever",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#040404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "forever",
+        "pathname": "/static/logos/forever/forever.svg",
+        "width": 256,
+        "height": 127,
+        "src": "https://www.republicofstackshirts.com/static/logos/forever/forever.svg"
+      },
+      {
+        "name": "foreverIcon",
+        "pathname": "/static/logos/forever/foreverIcon.svg",
+        "width": 256,
+        "height": 127,
+        "src": "https://www.republicofstackshirts.com/static/logos/forever/foreverIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "scriptRunner": {
+        "id": "scriptRunner",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "cli": {
+        "id": "cli",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "nodeJs": {
+        "id": "nodeJs",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

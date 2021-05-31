@@ -1,0 +1,59 @@
+{
+  "id": "productboard",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "ProductBoard",
+    "url": "https://www.productboard.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#35abdb"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "productboard",
+        "pathname": "/static/logos/productboard/productboard.svg",
+        "width": 256,
+        "height": 171,
+        "src": "https://www.republicofstackshirts.com/static/logos/productboard/productboard.svg"
+      },
+      {
+        "name": "productboardIcon",
+        "pathname": "/static/logos/productboard/productboardIcon.svg",
+        "width": 256,
+        "height": 171,
+        "src": "https://www.republicofstackshirts.com/static/logos/productboard/productboardIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "projectManager": {
+        "id": "projectManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "cdn": {
+        "id": "cdn",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

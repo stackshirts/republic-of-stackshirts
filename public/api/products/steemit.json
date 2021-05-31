@@ -1,0 +1,51 @@
+{
+  "id": "steemit",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Steemit",
+    "url": "https://steemit.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1a5099"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "steemit",
+        "pathname": "/static/logos/steemit/steemit.svg",
+        "width": 256,
+        "height": 270,
+        "src": "https://www.republicofstackshirts.com/static/logos/steemit/steemit.svg"
+      },
+      {
+        "name": "steemitIcon",
+        "pathname": "/static/logos/steemit/steemitIcon.svg",
+        "width": 256,
+        "height": 270,
+        "src": "https://www.republicofstackshirts.com/static/logos/steemit/steemitIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "socialNews": {
+        "id": "socialNews",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

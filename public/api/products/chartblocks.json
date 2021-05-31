@@ -1,0 +1,59 @@
+{
+  "id": "chartblocks",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Chartblocks",
+    "url": "http://aws.amazon.com/mobile/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#2f98d3"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "chartblocks",
+        "pathname": "/static/logos/chartblocks/chartblocks.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/chartblocks/chartblocks.svg"
+      },
+      {
+        "name": "chartblocksIcon",
+        "pathname": "/static/logos/chartblocks/chartblocksIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/chartblocks/chartblocksIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "businessIntelligence": {
+        "id": "businessIntelligence",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "charts": {
+        "id": "charts",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

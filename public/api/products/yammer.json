@@ -1,0 +1,59 @@
+{
+  "id": "yammer",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Yammer",
+    "url": "https://www.yammer.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#245494"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "yammer",
+        "pathname": "/static/logos/yammer/yammer.svg",
+        "width": 256,
+        "height": 218,
+        "src": "https://www.republicofstackshirts.com/static/logos/yammer/yammer.svg"
+      },
+      {
+        "name": "yammerIcon",
+        "pathname": "/static/logos/yammer/yammerIcon.svg",
+        "width": 256,
+        "height": 218,
+        "src": "https://www.republicofstackshirts.com/static/logos/yammer/yammerIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "socialNetwork": {
+        "id": "socialNetwork",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "enterpriseTools": {
+        "id": "enterpriseTools",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "materializecss",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Materialize",
+    "url": "http://materializecss.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#eb7077"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "materializecss",
+        "pathname": "/static/logos/materializecss/materializecss.svg",
+        "width": 256,
+        "height": 131,
+        "src": "https://www.republicofstackshirts.com/static/logos/materializecss/materializecss.svg"
+      },
+      {
+        "name": "materializecssIcon",
+        "pathname": "/static/logos/materializecss/materializecssIcon.svg",
+        "width": 256,
+        "height": 131,
+        "src": "https://www.republicofstackshirts.com/static/logos/materializecss/materializecssIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "frontEndFramework": {
+        "id": "frontEndFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "css": {
+        "id": "css",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "materialDesign": {
+        "id": "materialDesign",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

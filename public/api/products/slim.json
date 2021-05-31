@@ -1,0 +1,67 @@
+{
+  "id": "slim",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Slim",
+    "url": "http://www.slimframework.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#94bc5c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "slim",
+        "pathname": "/static/logos/slim/slim.svg",
+        "width": 256,
+        "height": 274,
+        "src": "https://www.republicofstackshirts.com/static/logos/slim/slim.svg"
+      },
+      {
+        "name": "slimIcon",
+        "pathname": "/static/logos/slim/slimIcon.svg",
+        "width": 256,
+        "height": 274,
+        "src": "https://www.republicofstackshirts.com/static/logos/slim/slimIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "webAppFramework": {
+        "id": "webAppFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "microframework": {
+        "id": "microframework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "php": {
+        "id": "php",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

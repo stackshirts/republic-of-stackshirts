@@ -1,0 +1,81 @@
+{
+  "id": "meteor",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Meteor",
+    "url": "https://www.meteor.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#dc4c4c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "meteorShort",
+        "pathname": "/static/logos/meteor/meteorShort.svg",
+        "width": 256,
+        "height": 251,
+        "src": "https://www.republicofstackshirts.com/static/logos/meteor/meteorShort.svg"
+      },
+      {
+        "name": "meteor",
+        "pathname": "/static/logos/meteor/meteor.svg",
+        "width": 512,
+        "height": 124,
+        "src": "https://www.republicofstackshirts.com/static/logos/meteor/meteor.svg"
+      },
+      {
+        "name": "meteorShortIcon",
+        "pathname": "/static/logos/meteor/meteorShortIcon.svg",
+        "width": 256,
+        "height": 251,
+        "src": "https://www.republicofstackshirts.com/static/logos/meteor/meteorShortIcon.svg"
+      },
+      {
+        "name": "meteorIcon",
+        "pathname": "/static/logos/meteor/meteorIcon.svg",
+        "width": 512,
+        "height": 124,
+        "src": "https://www.republicofstackshirts.com/static/logos/meteor/meteorIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "fullStackFramework": {
+        "id": "fullStackFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "cli": {
+        "id": "cli",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

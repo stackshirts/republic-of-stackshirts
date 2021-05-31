@@ -1,0 +1,67 @@
+{
+  "id": "modernizr",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Modernizr",
+    "url": "http://modernizr.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#dc1c74"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "modernizr",
+        "pathname": "/static/logos/modernizr/modernizr.svg",
+        "width": 256,
+        "height": 123,
+        "src": "https://www.republicofstackshirts.com/static/logos/modernizr/modernizr.svg"
+      },
+      {
+        "name": "modernizrIcon",
+        "pathname": "/static/logos/modernizr/modernizrIcon.svg",
+        "width": 256,
+        "height": 123,
+        "src": "https://www.republicofstackshirts.com/static/logos/modernizr/modernizrIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "library": {
+        "id": "library",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "featureDetection": {
+        "id": "featureDetection",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

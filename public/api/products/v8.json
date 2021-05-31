@@ -1,0 +1,59 @@
+{
+  "id": "v8",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "V8",
+    "url": "https://developers.google.com/v8/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3c8beb"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "v8",
+        "pathname": "/static/logos/v8/v8.svg",
+        "width": 256,
+        "height": 224,
+        "src": "https://www.republicofstackshirts.com/static/logos/v8/v8.svg"
+      },
+      {
+        "name": "v8Icon",
+        "pathname": "/static/logos/v8/v8Icon.svg",
+        "width": 256,
+        "height": 224,
+        "src": "https://www.republicofstackshirts.com/static/logos/v8/v8Icon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "engine": {
+        "id": "engine",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

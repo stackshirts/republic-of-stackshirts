@@ -1,0 +1,75 @@
+{
+  "id": "taiga",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Taiga",
+    "url": "https://taiga.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#9ce5a6"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "taiga",
+        "pathname": "/static/logos/taiga/taiga.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/taiga/taiga.svg"
+      },
+      {
+        "name": "taigaIcon",
+        "pathname": "/static/logos/taiga/taigaIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/taiga/taigaIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "projectManager": {
+        "id": "projectManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "agile": {
+        "id": "agile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "scrum": {
+        "id": "scrum",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "kanban": {
+        "id": "kanban",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

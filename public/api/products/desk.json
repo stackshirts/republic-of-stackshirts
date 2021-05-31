@@ -1,0 +1,59 @@
+{
+  "id": "desk",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Desk.com",
+    "url": "http://www.desk.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#249cdc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "desk",
+        "pathname": "/static/logos/desk/desk.svg",
+        "width": 256,
+        "height": 106,
+        "src": "https://www.republicofstackshirts.com/static/logos/desk/desk.svg"
+      },
+      {
+        "name": "deskIcon",
+        "pathname": "/static/logos/desk/deskIcon.svg",
+        "width": 256,
+        "height": 106,
+        "src": "https://www.republicofstackshirts.com/static/logos/desk/deskIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "customerSupport": {
+        "id": "customerSupport",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "helpDesk": {
+        "id": "helpDesk",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "backerkit",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "BackerKit",
+    "url": "https://www.backerkit.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#2c2c2c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "backerkit",
+        "pathname": "/static/logos/backerkit/backerkit.svg",
+        "width": 256,
+        "height": 249,
+        "src": "https://www.republicofstackshirts.com/static/logos/backerkit/backerkit.svg"
+      },
+      {
+        "name": "backerkitIcon",
+        "pathname": "/static/logos/backerkit/backerkitIcon.svg",
+        "width": 256,
+        "height": 249,
+        "src": "https://www.republicofstackshirts.com/static/logos/backerkit/backerkitIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "crowdfunding": {
+        "id": "crowdfunding",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

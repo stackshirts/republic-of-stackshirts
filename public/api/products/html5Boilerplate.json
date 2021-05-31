@@ -1,0 +1,59 @@
+{
+  "id": "html5Boilerplate",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "HTML5 Boilerplate",
+    "url": "https://html5boilerplate.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#e28324"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "html5Boilerplate",
+        "pathname": "/static/logos/html5Boilerplate/html5Boilerplate.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/html5Boilerplate/html5Boilerplate.svg"
+      },
+      {
+        "name": "html5BoilerplateIcon",
+        "pathname": "/static/logos/html5Boilerplate/html5BoilerplateIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/html5Boilerplate/html5BoilerplateIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "html": {
+        "id": "html",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "boilerplate": {
+        "id": "boilerplate",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

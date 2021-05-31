@@ -1,0 +1,75 @@
+{
+  "id": "kontena",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Kontena",
+    "url": "http://www.kontena.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#6a834d"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "kontena",
+        "pathname": "/static/logos/kontena/kontena.svg",
+        "width": 256,
+        "height": 299,
+        "src": "https://www.republicofstackshirts.com/static/logos/kontena/kontena.svg"
+      },
+      {
+        "name": "kontenaIcon",
+        "pathname": "/static/logos/kontena/kontenaIcon.svg",
+        "width": 256,
+        "height": 299,
+        "src": "https://www.republicofstackshirts.com/static/logos/kontena/kontenaIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "docker": {
+        "id": "docker",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "containers": {
+        "id": "containers",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "paas": {
+        "id": "paas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ruby": {
+        "id": "ruby",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

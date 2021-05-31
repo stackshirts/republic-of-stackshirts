@@ -1,0 +1,59 @@
+{
+  "id": "laravel",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Laravel",
+    "url": "http://laravel.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f45444"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "laravel",
+        "pathname": "/static/logos/laravel/laravel.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/laravel/laravel.svg"
+      },
+      {
+        "name": "laravelIcon",
+        "pathname": "/static/logos/laravel/laravelIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/laravel/laravelIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "fullStackFramework": {
+        "id": "fullStackFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "php": {
+        "id": "php",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

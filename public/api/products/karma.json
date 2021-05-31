@@ -1,0 +1,83 @@
+{
+  "id": "karma",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Karma",
+    "url": "http://karma-runner.github.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#54c3ab"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "karma",
+        "pathname": "/static/logos/karma/karma.svg",
+        "width": 256,
+        "height": 198,
+        "src": "https://www.republicofstackshirts.com/static/logos/karma/karma.svg"
+      },
+      {
+        "name": "karmaIcon",
+        "pathname": "/static/logos/karma/karmaIcon.svg",
+        "width": 256,
+        "height": 198,
+        "src": "https://www.republicofstackshirts.com/static/logos/karma/karmaIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "testingFramework": {
+        "id": "testingFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "unitTesting": {
+        "id": "unitTesting",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "tdd": {
+        "id": "tdd",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "angular": {
+        "id": "angular",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

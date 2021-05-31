@@ -1,0 +1,83 @@
+{
+  "id": "youtrack",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "YouTrack",
+    "url": "https://www.jetbrains.com/youtrack/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f8378e"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "youtrack",
+        "pathname": "/static/logos/youtrack/youtrack.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/youtrack/youtrack.svg"
+      },
+      {
+        "name": "youtrackIcon",
+        "pathname": "/static/logos/youtrack/youtrackIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/youtrack/youtrackIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "projectManager": {
+        "id": "projectManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "issueTracker": {
+        "id": "issueTracker",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "agile": {
+        "id": "agile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "scrum": {
+        "id": "scrum",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "kanban": {
+        "id": "kanban",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

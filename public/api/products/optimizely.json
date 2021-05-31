@@ -1,0 +1,51 @@
+{
+  "id": "optimizely",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Optimizely",
+    "url": "https://www.optimizely.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#747474"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "optimizely",
+        "pathname": "/static/logos/optimizely/optimizely.svg",
+        "width": 512,
+        "height": 110,
+        "src": "https://www.republicofstackshirts.com/static/logos/optimizely/optimizely.svg"
+      },
+      {
+        "name": "optimizelyIcon",
+        "pathname": "/static/logos/optimizely/optimizelyIcon.svg",
+        "width": 512,
+        "height": 110,
+        "src": "https://www.republicofstackshirts.com/static/logos/optimizely/optimizelyIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "abTesting": {
+        "id": "abTesting",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

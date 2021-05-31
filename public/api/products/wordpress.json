@@ -1,0 +1,81 @@
+{
+  "id": "wordpress",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Wordpress",
+    "url": "https://wordpress.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#444444"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "wordpressShort",
+        "pathname": "/static/logos/wordpress/wordpressShort.svg",
+        "width": 256,
+        "height": 255,
+        "src": "https://www.republicofstackshirts.com/static/logos/wordpress/wordpressShort.svg"
+      },
+      {
+        "name": "wordpress",
+        "pathname": "/static/logos/wordpress/wordpress.svg",
+        "width": 512,
+        "height": 117,
+        "src": "https://www.republicofstackshirts.com/static/logos/wordpress/wordpress.svg"
+      },
+      {
+        "name": "wordpressShortIcon",
+        "pathname": "/static/logos/wordpress/wordpressShortIcon.svg",
+        "width": 256,
+        "height": 255,
+        "src": "https://www.republicofstackshirts.com/static/logos/wordpress/wordpressShortIcon.svg"
+      },
+      {
+        "name": "wordpressIcon",
+        "pathname": "/static/logos/wordpress/wordpressIcon.svg",
+        "width": 512,
+        "height": 117,
+        "src": "https://www.republicofstackshirts.com/static/logos/wordpress/wordpressIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "contentManager": {
+        "id": "contentManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "php": {
+        "id": "php",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mysql": {
+        "id": "mysql",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

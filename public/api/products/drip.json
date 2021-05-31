@@ -1,0 +1,67 @@
+{
+  "id": "drip",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Drip",
+    "url": "https://www.getdrip.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#444344"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "drip",
+        "pathname": "/static/logos/drip/drip.svg",
+        "width": 512,
+        "height": 245,
+        "src": "https://www.republicofstackshirts.com/static/logos/drip/drip.svg"
+      },
+      {
+        "name": "dripIcon",
+        "pathname": "/static/logos/drip/dripIcon.svg",
+        "width": 512,
+        "height": 245,
+        "src": "https://www.republicofstackshirts.com/static/logos/drip/dripIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "emailMarketing": {
+        "id": "emailMarketing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "lifecycleMarketing": {
+        "id": "lifecycleMarketing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "marketing": {
+        "id": "marketing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

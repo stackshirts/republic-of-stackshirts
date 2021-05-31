@@ -1,0 +1,75 @@
+{
+  "id": "buck",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Buck",
+    "url": "https://buckbuild.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#4c6ca4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "buck",
+        "pathname": "/static/logos/buck/buck.svg",
+        "width": 256,
+        "height": 223,
+        "src": "https://www.republicofstackshirts.com/static/logos/buck/buck.svg"
+      },
+      {
+        "name": "buckIcon",
+        "pathname": "/static/logos/buck/buckIcon.svg",
+        "width": 256,
+        "height": 223,
+        "src": "https://www.republicofstackshirts.com/static/logos/buck/buckIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "buildTool": {
+        "id": "buildTool",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "android": {
+        "id": "android",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mobile": {
+        "id": "mobile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "facebook": {
+        "id": "facebook",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

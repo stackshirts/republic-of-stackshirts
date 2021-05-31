@@ -1,0 +1,59 @@
+{
+  "id": "rollbar",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Rollbar",
+    "url": "https://rollbar.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#d2ba2a"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "rollbar",
+        "pathname": "/static/logos/rollbar/rollbar.svg",
+        "width": 256,
+        "height": 201,
+        "src": "https://www.republicofstackshirts.com/static/logos/rollbar/rollbar.svg"
+      },
+      {
+        "name": "rollbarIcon",
+        "pathname": "/static/logos/rollbar/rollbarIcon.svg",
+        "width": 256,
+        "height": 201,
+        "src": "https://www.republicofstackshirts.com/static/logos/rollbar/rollbarIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "exceptionTracker": {
+        "id": "exceptionTracker",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "monitoring": {
+        "id": "monitoring",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

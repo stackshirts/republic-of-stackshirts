@@ -1,0 +1,67 @@
+{
+  "id": "phalcon",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Phalcon",
+    "url": "https://phalconphp.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#95cbad"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "phalcon",
+        "pathname": "/static/logos/phalcon/phalcon.svg",
+        "width": 256,
+        "height": 292,
+        "src": "https://www.republicofstackshirts.com/static/logos/phalcon/phalcon.svg"
+      },
+      {
+        "name": "phalconIcon",
+        "pathname": "/static/logos/phalcon/phalconIcon.svg",
+        "width": 256,
+        "height": 292,
+        "src": "https://www.republicofstackshirts.com/static/logos/phalcon/phalconIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "fullStackFramework": {
+        "id": "fullStackFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "php": {
+        "id": "php",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "c": {
+        "id": "c",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

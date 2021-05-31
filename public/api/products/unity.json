@@ -1,0 +1,51 @@
+{
+  "id": "unity",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Unity",
+    "url": "https://unity3d.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#242c34"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "unity",
+        "pathname": "/static/logos/unity/unity.svg",
+        "width": 256,
+        "height": 263,
+        "src": "https://www.republicofstackshirts.com/static/logos/unity/unity.svg"
+      },
+      {
+        "name": "unityIcon",
+        "pathname": "/static/logos/unity/unityIcon.svg",
+        "width": 256,
+        "height": 263,
+        "src": "https://www.republicofstackshirts.com/static/logos/unity/unityIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "gameEngine": {
+        "id": "gameEngine",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

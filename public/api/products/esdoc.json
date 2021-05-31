@@ -1,0 +1,59 @@
+{
+  "id": "esdoc",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "ESDoc",
+    "url": "https://esdoc.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#e55151"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "esdoc",
+        "pathname": "/static/logos/esdoc/esdoc.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/esdoc/esdoc.svg"
+      },
+      {
+        "name": "esdocIcon",
+        "pathname": "/static/logos/esdoc/esdocIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/esdoc/esdocIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "documentation": {
+        "id": "documentation",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

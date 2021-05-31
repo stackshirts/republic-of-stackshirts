@@ -1,0 +1,75 @@
+{
+  "id": "chef",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Chef",
+    "url": "https://www.chef.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#445464"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "chef",
+        "pathname": "/static/logos/chef/chef.svg",
+        "width": 256,
+        "height": 274,
+        "src": "https://www.republicofstackshirts.com/static/logos/chef/chef.svg"
+      },
+      {
+        "name": "chefIcon",
+        "pathname": "/static/logos/chef/chefIcon.svg",
+        "width": 256,
+        "height": 274,
+        "src": "https://www.republicofstackshirts.com/static/logos/chef/chefIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "configurationManager": {
+        "id": "configurationManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "codeDeployment": {
+        "id": "codeDeployment",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "iaaS": {
+        "id": "iaaS",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ruby": {
+        "id": "ruby",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

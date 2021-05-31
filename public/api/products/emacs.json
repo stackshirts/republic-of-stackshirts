@@ -1,0 +1,51 @@
+{
+  "id": "emacs",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Emacs",
+    "url": "http://www.gnu.org/software/emacs/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1d1b1e"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "emacs",
+        "pathname": "/static/logos/emacs/emacs.svg",
+        "width": 256,
+        "height": 216,
+        "src": "https://www.republicofstackshirts.com/static/logos/emacs/emacs.svg"
+      },
+      {
+        "name": "emacsIcon",
+        "pathname": "/static/logos/emacs/emacsIcon.svg",
+        "width": 256,
+        "height": 216,
+        "src": "https://www.republicofstackshirts.com/static/logos/emacs/emacsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "codeEditor": {
+        "id": "codeEditor",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

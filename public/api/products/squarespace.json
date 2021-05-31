@@ -1,0 +1,59 @@
+{
+  "id": "squarespace",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Squarespace",
+    "url": "http://www.squarespace.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1c1c1c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "squarespace",
+        "pathname": "/static/logos/squarespace/squarespace.svg",
+        "width": 256,
+        "height": 204,
+        "src": "https://www.republicofstackshirts.com/static/logos/squarespace/squarespace.svg"
+      },
+      {
+        "name": "squarespaceIcon",
+        "pathname": "/static/logos/squarespace/squarespaceIcon.svg",
+        "width": 256,
+        "height": 204,
+        "src": "https://www.republicofstackshirts.com/static/logos/squarespace/squarespaceIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "contentManager": {
+        "id": "contentManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "websiteBuilder": {
+        "id": "websiteBuilder",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

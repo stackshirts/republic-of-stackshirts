@@ -1,0 +1,51 @@
+{
+  "id": "loggly",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "loggly",
+    "url": "http://loggly.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#0c0c0c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "loggly",
+        "pathname": "/static/logos/loggly/loggly.svg",
+        "width": 512,
+        "height": 171,
+        "src": "https://www.republicofstackshirts.com/static/logos/loggly/loggly.svg"
+      },
+      {
+        "name": "logglyIcon",
+        "pathname": "/static/logos/loggly/logglyIcon.svg",
+        "width": 512,
+        "height": 171,
+        "src": "https://www.republicofstackshirts.com/static/logos/loggly/logglyIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "logManager": {
+        "id": "logManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

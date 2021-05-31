@@ -1,0 +1,51 @@
+{
+  "id": "shields",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Shields.io",
+    "url": "http://shields.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#040404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "shields",
+        "pathname": "/static/logos/shields/shields.svg",
+        "width": 256,
+        "height": 75,
+        "src": "https://www.republicofstackshirts.com/static/logos/shields/shields.svg"
+      },
+      {
+        "name": "shieldsIcon",
+        "pathname": "/static/logos/shields/shieldsIcon.svg",
+        "width": 256,
+        "height": 75,
+        "src": "https://www.republicofstackshirts.com/static/logos/shields/shieldsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "badges": {
+        "id": "badges",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

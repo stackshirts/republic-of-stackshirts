@@ -1,0 +1,51 @@
+{
+  "id": "paypal",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "PayPal",
+    "url": "https://www.paypal.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#2493c3"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "paypal",
+        "pathname": "/static/logos/paypal/paypal.svg",
+        "width": 256,
+        "height": 302,
+        "src": "https://www.republicofstackshirts.com/static/logos/paypal/paypal.svg"
+      },
+      {
+        "name": "paypalIcon",
+        "pathname": "/static/logos/paypal/paypalIcon.svg",
+        "width": 256,
+        "height": 302,
+        "src": "https://www.republicofstackshirts.com/static/logos/paypal/paypalIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "paymentService": {
+        "id": "paymentService",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

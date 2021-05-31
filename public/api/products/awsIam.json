@@ -1,0 +1,67 @@
+{
+  "id": "awsIam",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "AWS IAM (Identity and Access Management)",
+    "url": "https://aws.amazon.com/iam/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#739b3b"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "awsIam",
+        "pathname": "/static/logos/awsIam/awsIam.svg",
+        "width": 256,
+        "height": 490,
+        "src": "https://www.republicofstackshirts.com/static/logos/awsIam/awsIam.svg"
+      },
+      {
+        "name": "awsIamIcon",
+        "pathname": "/static/logos/awsIam/awsIamIcon.svg",
+        "width": 256,
+        "height": 490,
+        "src": "https://www.republicofstackshirts.com/static/logos/awsIam/awsIamIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "userManagement": {
+        "id": "userManagement",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "authentication": {
+        "id": "authentication",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "iaaS": {
+        "id": "iaaS",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

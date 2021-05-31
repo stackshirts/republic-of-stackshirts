@@ -1,0 +1,67 @@
+{
+  "id": "kong",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Kong",
+    "url": "http://netflix.github.io/falcor/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#16353e"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "kong",
+        "pathname": "/static/logos/kong/kong.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/kong/kong.svg"
+      },
+      {
+        "name": "kongIcon",
+        "pathname": "/static/logos/kong/kongIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/kong/kongIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "apiTools": {
+        "id": "apiTools",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "apiManager": {
+        "id": "apiManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

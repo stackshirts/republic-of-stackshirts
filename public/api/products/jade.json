@@ -1,0 +1,59 @@
+{
+  "id": "jade",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Jade",
+    "url": "http://jade-lang.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#c4242c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "jade",
+        "pathname": "/static/logos/jade/jade.svg",
+        "width": 256,
+        "height": 388,
+        "src": "https://www.republicofstackshirts.com/static/logos/jade/jade.svg"
+      },
+      {
+        "name": "jadeIcon",
+        "pathname": "/static/logos/jade/jadeIcon.svg",
+        "width": 256,
+        "height": 388,
+        "src": "https://www.republicofstackshirts.com/static/logos/jade/jadeIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "template": {
+        "id": "template",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "preprocessor": {
+        "id": "preprocessor",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

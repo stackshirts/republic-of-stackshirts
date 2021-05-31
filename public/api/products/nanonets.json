@@ -1,0 +1,59 @@
+{
+  "id": "nanonets",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Nanonets",
+    "url": "https://nanonets.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3e7ebc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "nanonets",
+        "pathname": "/static/logos/nanonets/nanonets.svg",
+        "width": 256,
+        "height": 206,
+        "src": "https://www.republicofstackshirts.com/static/logos/nanonets/nanonets.svg"
+      },
+      {
+        "name": "nanonetsIcon",
+        "pathname": "/static/logos/nanonets/nanonetsIcon.svg",
+        "width": 256,
+        "height": 206,
+        "src": "https://www.republicofstackshirts.com/static/logos/nanonets/nanonetsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "mlaas": {
+        "id": "mlaas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "dataProcessing": {
+        "id": "dataProcessing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

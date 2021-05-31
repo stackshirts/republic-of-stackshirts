@@ -1,0 +1,67 @@
+{
+  "id": "redspread",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Redspread",
+    "url": "https://redspread.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#fc341c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "redspread",
+        "pathname": "/static/logos/redspread/redspread.svg",
+        "width": 512,
+        "height": 187,
+        "src": "https://www.republicofstackshirts.com/static/logos/redspread/redspread.svg"
+      },
+      {
+        "name": "redspreadIcon",
+        "pathname": "/static/logos/redspread/redspreadIcon.svg",
+        "width": 512,
+        "height": 187,
+        "src": "https://www.republicofstackshirts.com/static/logos/redspread/redspreadIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "containers": {
+        "id": "containers",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "docker": {
+        "id": "docker",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "kubbernets": {
+        "id": "kubbernets",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

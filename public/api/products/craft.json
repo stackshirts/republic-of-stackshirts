@@ -1,0 +1,59 @@
+{
+  "id": "craft",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Craft",
+    "url": "https://craftcms.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#cc5444"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "craft",
+        "pathname": "/static/logos/craft/craft.svg",
+        "width": 512,
+        "height": 269,
+        "src": "https://www.republicofstackshirts.com/static/logos/craft/craft.svg"
+      },
+      {
+        "name": "craftIcon",
+        "pathname": "/static/logos/craft/craftIcon.svg",
+        "width": 512,
+        "height": 269,
+        "src": "https://www.republicofstackshirts.com/static/logos/craft/craftIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "contentManager": {
+        "id": "contentManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "blogPlatform": {
+        "id": "blogPlatform",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "rum",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Rum",
+    "url": "https://github.com/tonsky/rum",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#810404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "rum",
+        "pathname": "/static/logos/rum/rum.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/rum/rum.svg"
+      },
+      {
+        "name": "rumIcon",
+        "pathname": "/static/logos/rum/rumIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/rum/rumIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "clojureScriptFramework": {
+        "id": "clojureScriptFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "clojure": {
+        "id": "clojure",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "react": {
+        "id": "react",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

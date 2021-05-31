@@ -1,0 +1,51 @@
+{
+  "id": "deploy",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Deploy",
+    "url": "https://www.deployhq.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#9cc45c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "deploy",
+        "pathname": "/static/logos/deploy/deploy.svg",
+        "width": 512,
+        "height": 152,
+        "src": "https://www.republicofstackshirts.com/static/logos/deploy/deploy.svg"
+      },
+      {
+        "name": "deployIcon",
+        "pathname": "/static/logos/deploy/deployIcon.svg",
+        "width": 512,
+        "height": 152,
+        "src": "https://www.republicofstackshirts.com/static/logos/deploy/deployIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "codeDeployment": {
+        "id": "codeDeployment",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "azure",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Microsoft Azure",
+    "url": "https://azure.microsoft.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#008cdb"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "azure",
+        "pathname": "/static/logos/azure/azure.svg",
+        "width": 256,
+        "height": 169,
+        "src": "https://www.republicofstackshirts.com/static/logos/azure/azure.svg"
+      },
+      {
+        "name": "azureIcon",
+        "pathname": "/static/logos/azure/azureIcon.svg",
+        "width": 256,
+        "height": 169,
+        "src": "https://www.republicofstackshirts.com/static/logos/azure/azureIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "cloudComputing": {
+        "id": "cloudComputing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "paas": {
+        "id": "paas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

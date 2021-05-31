@@ -1,0 +1,59 @@
+{
+  "id": "sparkcentral",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Sparkcentral",
+    "url": "http://www.sparkcentral.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#4494dc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "sparkcentral",
+        "pathname": "/static/logos/sparkcentral/sparkcentral.svg",
+        "width": 256,
+        "height": 292,
+        "src": "https://www.republicofstackshirts.com/static/logos/sparkcentral/sparkcentral.svg"
+      },
+      {
+        "name": "sparkcentralIcon",
+        "pathname": "/static/logos/sparkcentral/sparkcentralIcon.svg",
+        "width": 256,
+        "height": 292,
+        "src": "https://www.republicofstackshirts.com/static/logos/sparkcentral/sparkcentralIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "socialMediaTools": {
+        "id": "socialMediaTools",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "helpDesk": {
+        "id": "helpDesk",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

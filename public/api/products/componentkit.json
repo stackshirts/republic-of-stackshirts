@@ -1,0 +1,75 @@
+{
+  "id": "componentkit",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "ComponentKit",
+    "url": "http://componentkit.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#23c1da"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "componentkit",
+        "pathname": "/static/logos/componentkit/componentkit.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/componentkit/componentkit.svg"
+      },
+      {
+        "name": "componentkitIcon",
+        "pathname": "/static/logos/componentkit/componentkitIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/componentkit/componentkitIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "mobileFramework": {
+        "id": "mobileFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mobile": {
+        "id": "mobile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ios": {
+        "id": "ios",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "facebook": {
+        "id": "facebook",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

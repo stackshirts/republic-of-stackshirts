@@ -1,0 +1,75 @@
+{
+  "id": "pusher",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Pusher",
+    "url": "https://pusher.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3c444c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "pusher",
+        "pathname": "/static/logos/pusher/pusher.svg",
+        "width": 256,
+        "height": 350,
+        "src": "https://www.republicofstackshirts.com/static/logos/pusher/pusher.svg"
+      },
+      {
+        "name": "pusherIcon",
+        "pathname": "/static/logos/pusher/pusherIcon.svg",
+        "width": 256,
+        "height": 350,
+        "src": "https://www.republicofstackshirts.com/static/logos/pusher/pusherIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "cloudComputing": {
+        "id": "cloudComputing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "api": {
+        "id": "api",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "realTime": {
+        "id": "realTime",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "database": {
+        "id": "database",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

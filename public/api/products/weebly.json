@@ -1,0 +1,59 @@
+{
+  "id": "weebly",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Weebly",
+    "url": "http://www.weebly.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3494e4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "weebly",
+        "pathname": "/static/logos/weebly/weebly.svg",
+        "width": 256,
+        "height": 197,
+        "src": "https://www.republicofstackshirts.com/static/logos/weebly/weebly.svg"
+      },
+      {
+        "name": "weeblyIcon",
+        "pathname": "/static/logos/weebly/weeblyIcon.svg",
+        "width": 256,
+        "height": 197,
+        "src": "https://www.republicofstackshirts.com/static/logos/weebly/weeblyIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "contentManager": {
+        "id": "contentManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "websiteBuilder": {
+        "id": "websiteBuilder",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

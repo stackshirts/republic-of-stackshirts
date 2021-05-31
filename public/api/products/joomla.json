@@ -1,0 +1,67 @@
+{
+  "id": "joomla",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Joomla",
+    "url": "http://www.joomla.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#fcac44"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "joomla",
+        "pathname": "/static/logos/joomla/joomla.svg",
+        "width": 256,
+        "height": 258,
+        "src": "https://www.republicofstackshirts.com/static/logos/joomla/joomla.svg"
+      },
+      {
+        "name": "joomlaIcon",
+        "pathname": "/static/logos/joomla/joomlaIcon.svg",
+        "width": 256,
+        "height": 258,
+        "src": "https://www.republicofstackshirts.com/static/logos/joomla/joomlaIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "contentManager": {
+        "id": "contentManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "php": {
+        "id": "php",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mysql": {
+        "id": "mysql",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

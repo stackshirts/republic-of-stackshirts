@@ -1,0 +1,67 @@
+{
+  "id": "cssnext",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "cssnext",
+    "url": "http://cssnext.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#5379bc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "cssnext",
+        "pathname": "/static/logos/cssnext/cssnext.svg",
+        "width": 256,
+        "height": 311,
+        "src": "https://www.republicofstackshirts.com/static/logos/cssnext/cssnext.svg"
+      },
+      {
+        "name": "cssnextIcon",
+        "pathname": "/static/logos/cssnext/cssnextIcon.svg",
+        "width": 256,
+        "height": 311,
+        "src": "https://www.republicofstackshirts.com/static/logos/cssnext/cssnextIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "css": {
+        "id": "css",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "polyfill": {
+        "id": "polyfill",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "transformer": {
+        "id": "transformer",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

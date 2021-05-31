@@ -1,0 +1,73 @@
+{
+  "id": "mailchimp",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Mailchimp",
+    "url": "http://mailchimp.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#0c0c0c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "mailchimpFreddie",
+        "pathname": "/static/logos/mailchimp/mailchimpFreddie.svg",
+        "width": 256,
+        "height": 291,
+        "src": "https://www.republicofstackshirts.com/static/logos/mailchimp/mailchimpFreddie.svg"
+      },
+      {
+        "name": "mailchimp",
+        "pathname": "/static/logos/mailchimp/mailchimp.svg",
+        "width": 512,
+        "height": 126,
+        "src": "https://www.republicofstackshirts.com/static/logos/mailchimp/mailchimp.svg"
+      },
+      {
+        "name": "mailchimpFreddieIcon",
+        "pathname": "/static/logos/mailchimp/mailchimpFreddieIcon.svg",
+        "width": 256,
+        "height": 291,
+        "src": "https://www.republicofstackshirts.com/static/logos/mailchimp/mailchimpFreddieIcon.svg"
+      },
+      {
+        "name": "mailchimpIcon",
+        "pathname": "/static/logos/mailchimp/mailchimpIcon.svg",
+        "width": 512,
+        "height": 126,
+        "src": "https://www.republicofstackshirts.com/static/logos/mailchimp/mailchimpIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "emailMarketing": {
+        "id": "emailMarketing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "marketing": {
+        "id": "marketing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

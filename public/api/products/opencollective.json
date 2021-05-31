@@ -1,0 +1,67 @@
+{
+  "id": "opencollective",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "open collective",
+    "url": "https://opencollective.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#b8d3f4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "opencollective",
+        "pathname": "/static/logos/opencollective/opencollective.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/opencollective/opencollective.svg"
+      },
+      {
+        "name": "opencollectiveIcon",
+        "pathname": "/static/logos/opencollective/opencollectiveIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/opencollective/opencollectiveIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "micropayment": {
+        "id": "micropayment",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "donation": {
+        "id": "donation",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "openSource": {
+        "id": "openSource",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

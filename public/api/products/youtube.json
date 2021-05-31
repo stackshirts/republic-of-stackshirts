@@ -1,0 +1,51 @@
+{
+  "id": "youtube",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "YouTube",
+    "url": "https://www.youtube.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#d22222"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "youtube",
+        "pathname": "/static/logos/youtube/youtube.svg",
+        "width": 256,
+        "height": 180,
+        "src": "https://www.republicofstackshirts.com/static/logos/youtube/youtube.svg"
+      },
+      {
+        "name": "youtubeIcon",
+        "pathname": "/static/logos/youtube/youtubeIcon.svg",
+        "width": 256,
+        "height": 180,
+        "src": "https://www.republicofstackshirts.com/static/logos/youtube/youtubeIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "videoSharing": {
+        "id": "videoSharing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

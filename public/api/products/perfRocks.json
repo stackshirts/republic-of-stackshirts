@@ -1,0 +1,67 @@
+{
+  "id": "perfRocks",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Perf Rocks",
+    "url": "http://perf.rocks/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3c4c64"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "perfRocks",
+        "pathname": "/static/logos/perfRocks/perfRocks.svg",
+        "width": 512,
+        "height": 99,
+        "src": "https://www.republicofstackshirts.com/static/logos/perfRocks/perfRocks.svg"
+      },
+      {
+        "name": "perfRocksIcon",
+        "pathname": "/static/logos/perfRocks/perfRocksIcon.svg",
+        "width": 512,
+        "height": 99,
+        "src": "https://www.republicofstackshirts.com/static/logos/perfRocks/perfRocksIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "webPerformance": {
+        "id": "webPerformance",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "optimization": {
+        "id": "optimization",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "community": {
+        "id": "community",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

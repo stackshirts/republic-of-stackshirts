@@ -1,0 +1,51 @@
+{
+  "id": "graylog",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Graylog",
+    "url": "https://www.graylog.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#8c8c94"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "graylog",
+        "pathname": "/static/logos/graylog/graylog.svg",
+        "width": 256,
+        "height": 248,
+        "src": "https://www.republicofstackshirts.com/static/logos/graylog/graylog.svg"
+      },
+      {
+        "name": "graylogIcon",
+        "pathname": "/static/logos/graylog/graylogIcon.svg",
+        "width": 256,
+        "height": 248,
+        "src": "https://www.republicofstackshirts.com/static/logos/graylog/graylogIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "logManager": {
+        "id": "logManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

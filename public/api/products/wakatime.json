@@ -1,0 +1,59 @@
+{
+  "id": "wakatime",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "WakaTime",
+    "url": "https://wakatime.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#040404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "wakatime",
+        "pathname": "/static/logos/wakatime/wakatime.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/wakatime/wakatime.svg"
+      },
+      {
+        "name": "wakatimeIcon",
+        "pathname": "/static/logos/wakatime/wakatimeIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/wakatime/wakatimeIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "timeTracking": {
+        "id": "timeTracking",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "codingMetrics": {
+        "id": "codingMetrics",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

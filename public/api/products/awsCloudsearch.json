@@ -1,0 +1,59 @@
+{
+  "id": "awsCloudsearch",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "AWS CloudSearch",
+    "url": "https://aws.amazon.com/cloudsearch/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#dda648"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "awsCloudsearch",
+        "pathname": "/static/logos/awsCloudsearch/awsCloudsearch.svg",
+        "width": 256,
+        "height": 310,
+        "src": "https://www.republicofstackshirts.com/static/logos/awsCloudsearch/awsCloudsearch.svg"
+      },
+      {
+        "name": "awsCloudsearchIcon",
+        "pathname": "/static/logos/awsCloudsearch/awsCloudsearchIcon.svg",
+        "width": 256,
+        "height": 310,
+        "src": "https://www.republicofstackshirts.com/static/logos/awsCloudsearch/awsCloudsearchIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "searchService": {
+        "id": "searchService",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "iaaS": {
+        "id": "iaaS",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

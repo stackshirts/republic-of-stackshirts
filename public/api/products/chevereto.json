@@ -1,0 +1,51 @@
+{
+  "id": "chevereto",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "chevereto",
+    "url": "https://chevereto.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#34acdc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "chevereto",
+        "pathname": "/static/logos/chevereto/chevereto.svg",
+        "width": 512,
+        "height": 79,
+        "src": "https://www.republicofstackshirts.com/static/logos/chevereto/chevereto.svg"
+      },
+      {
+        "name": "cheveretoIcon",
+        "pathname": "/static/logos/chevereto/cheveretoIcon.svg",
+        "width": 512,
+        "height": 79,
+        "src": "https://www.republicofstackshirts.com/static/logos/chevereto/cheveretoIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "imageHosting": {
+        "id": "imageHosting",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

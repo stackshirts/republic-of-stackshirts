@@ -1,0 +1,59 @@
+{
+  "id": "launchrock",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Launchrock",
+    "url": "https://www.launchrock.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#dc0404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "launchrock",
+        "pathname": "/static/logos/launchrock/launchrock.svg",
+        "width": 256,
+        "height": 271,
+        "src": "https://www.republicofstackshirts.com/static/logos/launchrock/launchrock.svg"
+      },
+      {
+        "name": "launchrockIcon",
+        "pathname": "/static/logos/launchrock/launchrockIcon.svg",
+        "width": 256,
+        "height": 271,
+        "src": "https://www.republicofstackshirts.com/static/logos/launchrock/launchrockIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "landingPages": {
+        "id": "landingPages",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "marketing": {
+        "id": "marketing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "floodio",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Flood IO",
+    "url": "https://flood.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#2c8cec"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "floodio",
+        "pathname": "/static/logos/floodio/floodio.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/floodio/floodio.svg"
+      },
+      {
+        "name": "floodioIcon",
+        "pathname": "/static/logos/floodio/floodioIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/floodio/floodioIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "loadTesting": {
+        "id": "loadTesting",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

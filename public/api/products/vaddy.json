@@ -1,0 +1,51 @@
+{
+  "id": "vaddy",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "VAddy",
+    "url": "http://vaddy.net/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#63af3b"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "vaddy",
+        "pathname": "/static/logos/vaddy/vaddy.svg",
+        "width": 256,
+        "height": 254,
+        "src": "https://www.republicofstackshirts.com/static/logos/vaddy/vaddy.svg"
+      },
+      {
+        "name": "vaddyIcon",
+        "pathname": "/static/logos/vaddy/vaddyIcon.svg",
+        "width": 256,
+        "height": 254,
+        "src": "https://www.republicofstackshirts.com/static/logos/vaddy/vaddyIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "security": {
+        "id": "security",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

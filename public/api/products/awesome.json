@@ -1,0 +1,51 @@
+{
+  "id": "awesome",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#fc63ab"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "awesome",
+        "pathname": "/static/logos/awesome/awesome.svg",
+        "width": 256,
+        "height": 190,
+        "src": "https://www.republicofstackshirts.com/static/logos/awesome/awesome.svg"
+      },
+      {
+        "name": "awesomeIcon",
+        "pathname": "/static/logos/awesome/awesomeIcon.svg",
+        "width": 256,
+        "height": 190,
+        "src": "https://www.republicofstackshirts.com/static/logos/awesome/awesomeIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "reference": {
+        "id": "reference",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

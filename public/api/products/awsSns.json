@@ -1,0 +1,67 @@
+{
+  "id": "awsSns",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "AWS SNS (Simple Notification Service)",
+    "url": "https://aws.amazon.com/sns/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#c37b9b"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "awsSns",
+        "pathname": "/static/logos/awsSns/awsSns.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/awsSns/awsSns.svg"
+      },
+      {
+        "name": "awsSnsIcon",
+        "pathname": "/static/logos/awsSns/awsSnsIcon.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/awsSns/awsSnsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "pushNotification": {
+        "id": "pushNotification",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mobile": {
+        "id": "mobile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "iaaS": {
+        "id": "iaaS",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "capistrano",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Capistrano",
+    "url": "http://capistranorb.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3c548c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "capistrano",
+        "pathname": "/static/logos/capistrano/capistrano.svg",
+        "width": 256,
+        "height": 269,
+        "src": "https://www.republicofstackshirts.com/static/logos/capistrano/capistrano.svg"
+      },
+      {
+        "name": "capistranoIcon",
+        "pathname": "/static/logos/capistrano/capistranoIcon.svg",
+        "width": 256,
+        "height": 269,
+        "src": "https://www.republicofstackshirts.com/static/logos/capistrano/capistranoIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "configurationManager": {
+        "id": "configurationManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "automationTool": {
+        "id": "automationTool",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

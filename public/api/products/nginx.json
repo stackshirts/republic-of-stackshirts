@@ -1,0 +1,51 @@
+{
+  "id": "nginx",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "NGINX",
+    "url": "https://www.nginx.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#049c04"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "nginx",
+        "pathname": "/static/logos/nginx/nginx.svg",
+        "width": 512,
+        "height": 108,
+        "src": "https://www.republicofstackshirts.com/static/logos/nginx/nginx.svg"
+      },
+      {
+        "name": "nginxIcon",
+        "pathname": "/static/logos/nginx/nginxIcon.svg",
+        "width": 512,
+        "height": 108,
+        "src": "https://www.republicofstackshirts.com/static/logos/nginx/nginxIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "webServer": {
+        "id": "webServer",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

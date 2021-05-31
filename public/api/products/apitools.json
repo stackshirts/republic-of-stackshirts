@@ -1,0 +1,59 @@
+{
+  "id": "apitools",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "APItools",
+    "url": "https://www.apitools.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#2cb4ac"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "apitools",
+        "pathname": "/static/logos/apitools/apitools.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/apitools/apitools.svg"
+      },
+      {
+        "name": "apitoolsIcon",
+        "pathname": "/static/logos/apitools/apitoolsIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/apitools/apitoolsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "apiTools": {
+        "id": "apiTools",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "apiMonitoring": {
+        "id": "apiMonitoring",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

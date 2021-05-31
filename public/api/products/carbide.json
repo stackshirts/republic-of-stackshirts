@@ -1,0 +1,59 @@
+{
+  "id": "carbide",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Carbide",
+    "url": "https://alpha.trycarbide.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#4b608e"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "carbide",
+        "pathname": "/static/logos/carbide/carbide.svg",
+        "width": 256,
+        "height": 313,
+        "src": "https://www.republicofstackshirts.com/static/logos/carbide/carbide.svg"
+      },
+      {
+        "name": "carbideIcon",
+        "pathname": "/static/logos/carbide/carbideIcon.svg",
+        "width": 256,
+        "height": 313,
+        "src": "https://www.republicofstackshirts.com/static/logos/carbide/carbideIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "codeEditor": {
+        "id": "codeEditor",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ide": {
+        "id": "ide",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "eager",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Eager",
+    "url": "https://eager.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#a60c8f"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "eager",
+        "pathname": "/static/logos/eager/eager.svg",
+        "width": 256,
+        "height": 113,
+        "src": "https://www.republicofstackshirts.com/static/logos/eager/eager.svg"
+      },
+      {
+        "name": "eagerIcon",
+        "pathname": "/static/logos/eager/eagerIcon.svg",
+        "width": 256,
+        "height": 113,
+        "src": "https://www.republicofstackshirts.com/static/logos/eager/eagerIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "appStore": {
+        "id": "appStore",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "appveyor",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "AppVeyor",
+    "url": "https://www.appveyor.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#04b4e4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "appveyor",
+        "pathname": "/static/logos/appveyor/appveyor.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/appveyor/appveyor.svg"
+      },
+      {
+        "name": "appveyorIcon",
+        "pathname": "/static/logos/appveyor/appveyorIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/appveyor/appveyorIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "continuousIntegration": {
+        "id": "continuousIntegration",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "codeDeployment": {
+        "id": "codeDeployment",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

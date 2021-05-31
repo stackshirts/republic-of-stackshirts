@@ -1,0 +1,51 @@
+{
+  "id": "runnable",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Runnable",
+    "url": "https://runnable.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#ccacd4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "runnable",
+        "pathname": "/static/logos/runnable/runnable.svg",
+        "width": 256,
+        "height": 217,
+        "src": "https://www.republicofstackshirts.com/static/logos/runnable/runnable.svg"
+      },
+      {
+        "name": "runnableIcon",
+        "pathname": "/static/logos/runnable/runnableIcon.svg",
+        "width": 256,
+        "height": 217,
+        "src": "https://www.republicofstackshirts.com/static/logos/runnable/runnableIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "sandboxEnvironment": {
+        "id": "sandboxEnvironment",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

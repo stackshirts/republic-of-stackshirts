@@ -1,0 +1,51 @@
+{
+  "id": "monero",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Monero",
+    "url": "https://getmonero.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#fc6404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "monero",
+        "pathname": "/static/logos/monero/monero.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/monero/monero.svg"
+      },
+      {
+        "name": "moneroIcon",
+        "pathname": "/static/logos/monero/moneroIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/monero/moneroIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "virtualCurrency": {
+        "id": "virtualCurrency",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "circleci",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "CircleCI",
+    "url": "https://circleci.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#343434"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "circleci",
+        "pathname": "/static/logos/circleci/circleci.svg",
+        "width": 256,
+        "height": 259,
+        "src": "https://www.republicofstackshirts.com/static/logos/circleci/circleci.svg"
+      },
+      {
+        "name": "circleciIcon",
+        "pathname": "/static/logos/circleci/circleciIcon.svg",
+        "width": 256,
+        "height": 259,
+        "src": "https://www.republicofstackshirts.com/static/logos/circleci/circleciIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "continuousIntegration": {
+        "id": "continuousIntegration",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

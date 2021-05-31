@@ -1,0 +1,67 @@
+{
+  "id": "marvel",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Marvel",
+    "url": "https://marvelapp.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1c94ec"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "marvel",
+        "pathname": "/static/logos/marvel/marvel.svg",
+        "width": 256,
+        "height": 178,
+        "src": "https://www.republicofstackshirts.com/static/logos/marvel/marvel.svg"
+      },
+      {
+        "name": "marvelIcon",
+        "pathname": "/static/logos/marvel/marvelIcon.svg",
+        "width": 256,
+        "height": 178,
+        "src": "https://www.republicofstackshirts.com/static/logos/marvel/marvelIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "prototyping": {
+        "id": "prototyping",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ui": {
+        "id": "ui",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mobile": {
+        "id": "mobile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

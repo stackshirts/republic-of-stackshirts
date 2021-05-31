@@ -1,0 +1,67 @@
+{
+  "id": "webassembly",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "WebAssembly",
+    "url": "http://webassembly.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#654ff0"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "webassembly",
+        "pathname": "/static/logos/webassembly/webassembly.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/webassembly/webassembly.svg"
+      },
+      {
+        "name": "webassemblyIcon",
+        "pathname": "/static/logos/webassembly/webassemblyIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/webassembly/webassemblyIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "bytecode": {
+        "id": "bytecode",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "compiler": {
+        "id": "compiler",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

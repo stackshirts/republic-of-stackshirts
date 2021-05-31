@@ -1,0 +1,83 @@
+{
+  "id": "mocha",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Mocha",
+    "url": "http://mochajs.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#8c644c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "mocha",
+        "pathname": "/static/logos/mocha/mocha.svg",
+        "width": 256,
+        "height": 291,
+        "src": "https://www.republicofstackshirts.com/static/logos/mocha/mocha.svg"
+      },
+      {
+        "name": "mochaIcon",
+        "pathname": "/static/logos/mocha/mochaIcon.svg",
+        "width": 256,
+        "height": 291,
+        "src": "https://www.republicofstackshirts.com/static/logos/mocha/mochaIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "testingFramework": {
+        "id": "testingFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "unitTesting": {
+        "id": "unitTesting",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "bdd": {
+        "id": "bdd",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "tdd": {
+        "id": "tdd",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

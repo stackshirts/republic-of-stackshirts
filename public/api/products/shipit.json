@@ -1,0 +1,51 @@
+{
+  "id": "shipit",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Shipit",
+    "url": "https://github.com/shipitjs/shipit",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#ed9222"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "shipit",
+        "pathname": "/static/logos/shipit/shipit.svg",
+        "width": 512,
+        "height": 135,
+        "src": "https://www.republicofstackshirts.com/static/logos/shipit/shipit.svg"
+      },
+      {
+        "name": "shipitIcon",
+        "pathname": "/static/logos/shipit/shipitIcon.svg",
+        "width": 512,
+        "height": 135,
+        "src": "https://www.republicofstackshirts.com/static/logos/shipit/shipitIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "codeDeployment": {
+        "id": "codeDeployment",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

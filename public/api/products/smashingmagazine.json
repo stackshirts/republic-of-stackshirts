@@ -1,0 +1,67 @@
+{
+  "id": "smashingmagazine",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Smashing Magazine",
+    "url": "http://www.smashingmagazine.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f47d3c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "smashingmagazine",
+        "pathname": "/static/logos/smashingmagazine/smashingmagazine.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/smashingmagazine/smashingmagazine.svg"
+      },
+      {
+        "name": "smashingmagazineIcon",
+        "pathname": "/static/logos/smashingmagazine/smashingmagazineIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/smashingmagazine/smashingmagazineIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "tutorials": {
+        "id": "tutorials",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "blog": {
+        "id": "blog",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "reference": {
+        "id": "reference",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

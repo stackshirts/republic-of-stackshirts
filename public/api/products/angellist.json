@@ -1,0 +1,59 @@
+{
+  "id": "angellist",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "AngelList",
+    "url": "https://angel.co/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#040404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "angellist",
+        "pathname": "/static/logos/angellist/angellist.svg",
+        "width": 256,
+        "height": 369,
+        "src": "https://www.republicofstackshirts.com/static/logos/angellist/angellist.svg"
+      },
+      {
+        "name": "angellistIcon",
+        "pathname": "/static/logos/angellist/angellistIcon.svg",
+        "width": 256,
+        "height": 369,
+        "src": "https://www.republicofstackshirts.com/static/logos/angellist/angellistIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "startups": {
+        "id": "startups",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "investment": {
+        "id": "investment",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

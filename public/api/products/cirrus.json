@@ -1,0 +1,59 @@
+{
+  "id": "cirrus",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Cirrus",
+    "url": "http://www.mastercard.com/ie/consumer/cirrus-card.html",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#2271ce"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "cirrus",
+        "pathname": "/static/logos/cirrus/cirrus.svg",
+        "width": 256,
+        "height": 199,
+        "src": "https://www.republicofstackshirts.com/static/logos/cirrus/cirrus.svg"
+      },
+      {
+        "name": "cirrusIcon",
+        "pathname": "/static/logos/cirrus/cirrusIcon.svg",
+        "width": 256,
+        "height": 199,
+        "src": "https://www.republicofstackshirts.com/static/logos/cirrus/cirrusIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "debitCard": {
+        "id": "debitCard",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "finance": {
+        "id": "finance",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

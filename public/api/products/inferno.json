@@ -1,0 +1,67 @@
+{
+  "id": "inferno",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Inferno",
+    "url": "https://github.com/trueadm/inferno",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#494949"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "inferno",
+        "pathname": "/static/logos/inferno/inferno.svg",
+        "width": 256,
+        "height": 266,
+        "src": "https://www.republicofstackshirts.com/static/logos/inferno/inferno.svg"
+      },
+      {
+        "name": "infernoIcon",
+        "pathname": "/static/logos/inferno/infernoIcon.svg",
+        "width": 256,
+        "height": 266,
+        "src": "https://www.republicofstackshirts.com/static/logos/inferno/infernoIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "react": {
+        "id": "react",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "frontEnd": {
+        "id": "frontEnd",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

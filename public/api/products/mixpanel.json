@@ -1,0 +1,67 @@
+{
+  "id": "mixpanel",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Mixpanel",
+    "url": "https://mixpanel.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#34547c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "mixpanel",
+        "pathname": "/static/logos/mixpanel/mixpanel.svg",
+        "width": 512,
+        "height": 168,
+        "src": "https://www.republicofstackshirts.com/static/logos/mixpanel/mixpanel.svg"
+      },
+      {
+        "name": "mixpanelIcon",
+        "pathname": "/static/logos/mixpanel/mixpanelIcon.svg",
+        "width": 512,
+        "height": 168,
+        "src": "https://www.republicofstackshirts.com/static/logos/mixpanel/mixpanelIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "funnelAnalytics": {
+        "id": "funnelAnalytics",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "analytics": {
+        "id": "analytics",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "saas": {
+        "id": "saas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

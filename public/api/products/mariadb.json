@@ -1,0 +1,67 @@
+{
+  "id": "mariadb",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "MariaDB",
+    "url": "https://mariadb.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#c9d2de"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "mariadb",
+        "pathname": "/static/logos/mariadb/mariadb.svg",
+        "width": 256,
+        "height": 170,
+        "src": "https://www.republicofstackshirts.com/static/logos/mariadb/mariadb.svg"
+      },
+      {
+        "name": "mariadbIcon",
+        "pathname": "/static/logos/mariadb/mariadbIcon.svg",
+        "width": 256,
+        "height": 170,
+        "src": "https://www.republicofstackshirts.com/static/logos/mariadb/mariadbIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "database": {
+        "id": "database",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "sql": {
+        "id": "sql",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mysql": {
+        "id": "mysql",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

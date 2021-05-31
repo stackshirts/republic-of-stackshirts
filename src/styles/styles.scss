@@ -1,0 +1,116 @@
+// Our own variables
+$yellow: #FFCE50;
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,100&display=swap');
+
+@import "~nprogress/nprogress.css";
+@import "prism.css";
+
+// Bootstrap theme configuration
+$enable-responsive-font-sizes: true;
+$grid-gutter-width: 2rem;
+$font-size: 1rem !default;
+$font-size-lg: 1.125rem !default;
+$font-size-sm: .80rem !default;
+$font-family-sans-serif: "IBM Plex Mono", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
+$font-family-monospace: $font-family-sans-serif;
+$link-decoration: underline;
+$input-height-lg: calc(3.375rem + 2px);
+$input-padding-y: 0.6375rem;
+$input-padding-x: 0.6375rem;
+$input-padding-x-lg: 1.4rem;
+$display1-size: 2rem;
+$display2-size: 1.75rem;
+$display3-size: 1.5rem;
+
+$headings-margin-bottom: 1rem;
+$headings-color: #000;
+$h1-font-size: 1.5rem;
+$h2-font-size: 1rem;
+$h3-font-size: 1rem;
+$h4-font-size: 1rem;
+$h5-font-size: 1rem;
+$h6-font-size: 1rem;
+$headings-font-weight: 900;
+
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+
+$spacers: map-merge($spacers, (
+        2rem: 2rem,
+        4rem: 4rem,
+        6rem: 6rem,
+));
+$theme-colors: map-merge($theme-colors, (
+        "primary": $yellow,
+        "secondary": #052825,
+        "default": #ccc,
+));
+
+@import "~bootstrap/scss/buttons";
+@import "~bootstrap/scss/reboot";
+@import "~bootstrap/scss/list-group";
+@import "~bootstrap/scss/grid";
+@import "~bootstrap/scss/utilities";
+@import "~bootstrap/scss/tooltip";
+@import "~bootstrap/scss/type";
+@import "~bootstrap/scss/badge";
+@import "~bootstrap/scss/card";
+@import "~bootstrap/scss/utilities/background";
+@import "~bootstrap/scss/button-group";
+@import "~bootstrap/scss/forms";
+@import "~bootstrap/scss/custom-forms";
+@import "~bootstrap/scss/code";
+
+h1, .h1 {
+  color: $black;
+  margin-bottom: 1.45rem;
+}
+
+h2, .h2 {
+  color: $gray-700;
+}
+
+.root, #root {
+  height: 100vh;
+  width: 100vw;
+}
+
+.flex-grow {
+  flex-grow: 1;
+}
+
+.fill {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.center {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.main {
+  padding-top: 2rem;
+  padding-bottom: 6rem;
+}
+
+label {
+  font-size: $font-size-sm;
+  color: $gray-600;
+}
+
+pre {
+  background: #eee;
+  padding: .5rem;
+  border-radius: 3px;
+  border: 1px solid #aaa;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}

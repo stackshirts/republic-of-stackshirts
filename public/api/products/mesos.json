@@ -1,0 +1,59 @@
+{
+  "id": "mesos",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Mesos",
+    "url": "http://mesos.apache.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#04acdc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "mesos",
+        "pathname": "/static/logos/mesos/mesos.svg",
+        "width": 256,
+        "height": 291,
+        "src": "https://www.republicofstackshirts.com/static/logos/mesos/mesos.svg"
+      },
+      {
+        "name": "mesosIcon",
+        "pathname": "/static/logos/mesos/mesosIcon.svg",
+        "width": 256,
+        "height": 291,
+        "src": "https://www.republicofstackshirts.com/static/logos/mesos/mesosIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "distributedComputing": {
+        "id": "distributedComputing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "serverManagement": {
+        "id": "serverManagement",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

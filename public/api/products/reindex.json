@@ -1,0 +1,59 @@
+{
+  "id": "reindex",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Reindex",
+    "url": "https://www.reindex.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#7ccccb"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "reindex",
+        "pathname": "/static/logos/reindex/reindex.svg",
+        "width": 256,
+        "height": 266,
+        "src": "https://www.republicofstackshirts.com/static/logos/reindex/reindex.svg"
+      },
+      {
+        "name": "reindexIcon",
+        "pathname": "/static/logos/reindex/reindexIcon.svg",
+        "width": 256,
+        "height": 266,
+        "src": "https://www.republicofstackshirts.com/static/logos/reindex/reindexIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "graphql": {
+        "id": "graphql",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "saas": {
+        "id": "saas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

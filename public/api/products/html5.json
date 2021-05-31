@@ -1,0 +1,51 @@
+{
+  "id": "html5",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "HTML5",
+    "url": "http://www.w3.org/TR/html5/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#e85326"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "html5",
+        "pathname": "/static/logos/html5/html5.svg",
+        "width": 256,
+        "height": 361,
+        "src": "https://www.republicofstackshirts.com/static/logos/html5/html5.svg"
+      },
+      {
+        "name": "html5Icon",
+        "pathname": "/static/logos/html5/html5Icon.svg",
+        "width": 256,
+        "height": 361,
+        "src": "https://www.republicofstackshirts.com/static/logos/html5/html5Icon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "language": {
+        "id": "language",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

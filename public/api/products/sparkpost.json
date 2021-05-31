@@ -1,0 +1,59 @@
+{
+  "id": "sparkpost",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "SparkPost",
+    "url": "https://www.sparkpost.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#fc6424"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "sparkpost",
+        "pathname": "/static/logos/sparkpost/sparkpost.svg",
+        "width": 512,
+        "height": 134,
+        "src": "https://www.republicofstackshirts.com/static/logos/sparkpost/sparkpost.svg"
+      },
+      {
+        "name": "sparkpostIcon",
+        "pathname": "/static/logos/sparkpost/sparkpostIcon.svg",
+        "width": 512,
+        "height": 134,
+        "src": "https://www.republicofstackshirts.com/static/logos/sparkpost/sparkpostIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "transactionalEmail": {
+        "id": "transactionalEmail",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "marketing": {
+        "id": "marketing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

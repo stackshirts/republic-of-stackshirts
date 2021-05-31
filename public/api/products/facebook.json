@@ -1,0 +1,51 @@
+{
+  "id": "facebook",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Facebook",
+    "url": "https://www.facebook.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3c5484"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "facebook",
+        "pathname": "/static/logos/facebook/facebook.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/facebook/facebook.svg"
+      },
+      {
+        "name": "facebookIcon",
+        "pathname": "/static/logos/facebook/facebookIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/facebook/facebookIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "socialNetwork": {
+        "id": "socialNetwork",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

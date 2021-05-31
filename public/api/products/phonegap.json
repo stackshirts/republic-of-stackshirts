@@ -1,0 +1,97 @@
+{
+  "id": "phonegap",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "PhoneGap",
+    "url": "http://phonegap.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#040404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "phonegap",
+        "pathname": "/static/logos/phonegap/phonegap.svg",
+        "width": 256,
+        "height": 279,
+        "src": "https://www.republicofstackshirts.com/static/logos/phonegap/phonegap.svg"
+      },
+      {
+        "name": "phonegapBot",
+        "pathname": "/static/logos/phonegap/phonegapBot.svg",
+        "width": 256,
+        "height": 216,
+        "src": "https://www.republicofstackshirts.com/static/logos/phonegap/phonegapBot.svg"
+      },
+      {
+        "name": "phonegapIcon",
+        "pathname": "/static/logos/phonegap/phonegapIcon.svg",
+        "width": 256,
+        "height": 279,
+        "src": "https://www.republicofstackshirts.com/static/logos/phonegap/phonegapIcon.svg"
+      },
+      {
+        "name": "phonegapBotIcon",
+        "pathname": "/static/logos/phonegap/phonegapBotIcon.svg",
+        "width": 256,
+        "height": 216,
+        "src": "https://www.republicofstackshirts.com/static/logos/phonegap/phonegapBotIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "crossPlatform": {
+        "id": "crossPlatform",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "applicationFramework": {
+        "id": "applicationFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mobile": {
+        "id": "mobile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "cli": {
+        "id": "cli",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

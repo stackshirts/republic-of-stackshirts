@@ -1,0 +1,51 @@
+{
+  "id": "firefox",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Firefox",
+    "url": "https://firefox.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#d45a24"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "firefox",
+        "pathname": "/static/logos/firefox/firefox.svg",
+        "width": 256,
+        "height": 271,
+        "src": "https://www.republicofstackshirts.com/static/logos/firefox/firefox.svg"
+      },
+      {
+        "name": "firefoxIcon",
+        "pathname": "/static/logos/firefox/firefoxIcon.svg",
+        "width": 256,
+        "height": 271,
+        "src": "https://www.republicofstackshirts.com/static/logos/firefox/firefoxIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "browser": {
+        "id": "browser",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

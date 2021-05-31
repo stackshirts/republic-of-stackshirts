@@ -1,0 +1,59 @@
+{
+  "id": "awsEc2",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "AWS EC2 (Elastic Compute Cloud)",
+    "url": "https://aws.amazon.com/ec2/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#9c5424"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "awsEc2",
+        "pathname": "/static/logos/awsEc2/awsEc2.svg",
+        "width": 256,
+        "height": 310,
+        "src": "https://www.republicofstackshirts.com/static/logos/awsEc2/awsEc2.svg"
+      },
+      {
+        "name": "awsEc2Icon",
+        "pathname": "/static/logos/awsEc2/awsEc2Icon.svg",
+        "width": 256,
+        "height": 310,
+        "src": "https://www.republicofstackshirts.com/static/logos/awsEc2/awsEc2Icon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "cloudComputing": {
+        "id": "cloudComputing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "iaaS": {
+        "id": "iaaS",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

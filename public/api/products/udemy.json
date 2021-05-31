@@ -1,0 +1,59 @@
+{
+  "id": "udemy",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Udemy",
+    "url": "https://www.udemy.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#4cb44c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "udemy",
+        "pathname": "/static/logos/udemy/udemy.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/udemy/udemy.svg"
+      },
+      {
+        "name": "udemyIcon",
+        "pathname": "/static/logos/udemy/udemyIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/udemy/udemyIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "learning": {
+        "id": "learning",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "courses": {
+        "id": "courses",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

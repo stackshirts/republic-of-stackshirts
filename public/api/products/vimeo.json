@@ -1,0 +1,65 @@
+{
+  "id": "vimeo",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Vimeo",
+    "url": "https://vimeo.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1cb4ec"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "vimeoShort",
+        "pathname": "/static/logos/vimeo/vimeoShort.svg",
+        "width": 256,
+        "height": 223,
+        "src": "https://www.republicofstackshirts.com/static/logos/vimeo/vimeoShort.svg"
+      },
+      {
+        "name": "vimeo",
+        "pathname": "/static/logos/vimeo/vimeo.svg",
+        "width": 512,
+        "height": 146,
+        "src": "https://www.republicofstackshirts.com/static/logos/vimeo/vimeo.svg"
+      },
+      {
+        "name": "vimeoShortIcon",
+        "pathname": "/static/logos/vimeo/vimeoShortIcon.svg",
+        "width": 256,
+        "height": 223,
+        "src": "https://www.republicofstackshirts.com/static/logos/vimeo/vimeoShortIcon.svg"
+      },
+      {
+        "name": "vimeoIcon",
+        "pathname": "/static/logos/vimeo/vimeoIcon.svg",
+        "width": 512,
+        "height": 146,
+        "src": "https://www.republicofstackshirts.com/static/logos/vimeo/vimeoIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "videoSharing": {
+        "id": "videoSharing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

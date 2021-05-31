@@ -1,0 +1,59 @@
+{
+  "id": "hostedGraphite",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Hosted Graphite",
+    "url": "https://www.hostedgraphite.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#ec7c54"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "hostedGraphite",
+        "pathname": "/static/logos/hostedGraphite/hostedGraphite.svg",
+        "width": 256,
+        "height": 294,
+        "src": "https://www.republicofstackshirts.com/static/logos/hostedGraphite/hostedGraphite.svg"
+      },
+      {
+        "name": "hostedGraphiteIcon",
+        "pathname": "/static/logos/hostedGraphite/hostedGraphiteIcon.svg",
+        "width": 256,
+        "height": 294,
+        "src": "https://www.republicofstackshirts.com/static/logos/hostedGraphite/hostedGraphiteIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "monitoring": {
+        "id": "monitoring",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "serverMonitoring": {
+        "id": "serverMonitoring",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

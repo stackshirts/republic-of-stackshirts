@@ -1,0 +1,73 @@
+{
+  "id": "typescript",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Typescript",
+    "url": "https://www.typescriptlang.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#007acc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "typescriptShort",
+        "pathname": "/static/logos/typescript/typescriptShort.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/typescript/typescriptShort.svg"
+      },
+      {
+        "name": "typescript",
+        "pathname": "/static/logos/typescript/typescript.svg",
+        "width": 512,
+        "height": 125,
+        "src": "https://www.republicofstackshirts.com/static/logos/typescript/typescript.svg"
+      },
+      {
+        "name": "typescriptShortIcon",
+        "pathname": "/static/logos/typescript/typescriptShortIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/typescript/typescriptShortIcon.svg"
+      },
+      {
+        "name": "typescriptIcon",
+        "pathname": "/static/logos/typescript/typescriptIcon.svg",
+        "width": 512,
+        "height": 125,
+        "src": "https://www.republicofstackshirts.com/static/logos/typescript/typescriptIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "language": {
+        "id": "language",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

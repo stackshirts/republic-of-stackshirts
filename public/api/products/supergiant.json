@@ -1,0 +1,75 @@
+{
+  "id": "supergiant",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Supergiant",
+    "url": "http://supergiant.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3c9bfb"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "supergiant",
+        "pathname": "/static/logos/supergiant/supergiant.svg",
+        "width": 256,
+        "height": 258,
+        "src": "https://www.republicofstackshirts.com/static/logos/supergiant/supergiant.svg"
+      },
+      {
+        "name": "supergiantIcon",
+        "pathname": "/static/logos/supergiant/supergiantIcon.svg",
+        "width": 256,
+        "height": 258,
+        "src": "https://www.republicofstackshirts.com/static/logos/supergiant/supergiantIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "docker": {
+        "id": "docker",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "containers": {
+        "id": "containers",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "kubernetes": {
+        "id": "kubernetes",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "caas": {
+        "id": "caas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

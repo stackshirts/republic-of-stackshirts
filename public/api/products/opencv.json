@@ -1,0 +1,59 @@
+{
+  "id": "opencv",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "OpenCV",
+    "url": "http://opencv.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#ff0101"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "opencv",
+        "pathname": "/static/logos/opencv/opencv.svg",
+        "width": 256,
+        "height": 317,
+        "src": "https://www.republicofstackshirts.com/static/logos/opencv/opencv.svg"
+      },
+      {
+        "name": "opencvIcon",
+        "pathname": "/static/logos/opencv/opencvIcon.svg",
+        "width": 256,
+        "height": 317,
+        "src": "https://www.republicofstackshirts.com/static/logos/opencv/opencvIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "crossPlatform": {
+        "id": "crossPlatform",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "3D": {
+        "id": "3D",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

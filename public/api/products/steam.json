@@ -1,0 +1,67 @@
+{
+  "id": "steam",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Steam",
+    "url": "http://store.steampowered.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1a1918"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "steam",
+        "pathname": "/static/logos/steam/steam.svg",
+        "width": 256,
+        "height": 259,
+        "src": "https://www.republicofstackshirts.com/static/logos/steam/steam.svg"
+      },
+      {
+        "name": "steamIcon",
+        "pathname": "/static/logos/steam/steamIcon.svg",
+        "width": 256,
+        "height": 259,
+        "src": "https://www.republicofstackshirts.com/static/logos/steam/steamIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "games": {
+        "id": "games",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "onlineGaming": {
+        "id": "onlineGaming",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "digitalDistribuiton": {
+        "id": "digitalDistribuiton",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

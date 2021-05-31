@@ -1,0 +1,67 @@
+{
+  "id": "myth",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Myth",
+    "url": "http://www.myth.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#040404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "myth",
+        "pathname": "/static/logos/myth/myth.svg",
+        "width": 256,
+        "height": 113,
+        "src": "https://www.republicofstackshirts.com/static/logos/myth/myth.svg"
+      },
+      {
+        "name": "mythIcon",
+        "pathname": "/static/logos/myth/mythIcon.svg",
+        "width": 256,
+        "height": 113,
+        "src": "https://www.republicofstackshirts.com/static/logos/myth/mythIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "css": {
+        "id": "css",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "preprocessor": {
+        "id": "preprocessor",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "polyfill": {
+        "id": "polyfill",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

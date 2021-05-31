@@ -1,0 +1,51 @@
+{
+  "id": "microsoftEdge",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Microsoft Edge",
+    "url": "https://www.microsoft.com/en-us/windows/microsoft-edge",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3474bc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "microsoftEdge",
+        "pathname": "/static/logos/microsoftEdge/microsoftEdge.svg",
+        "width": 256,
+        "height": 278,
+        "src": "https://www.republicofstackshirts.com/static/logos/microsoftEdge/microsoftEdge.svg"
+      },
+      {
+        "name": "microsoftEdgeIcon",
+        "pathname": "/static/logos/microsoftEdge/microsoftEdgeIcon.svg",
+        "width": 256,
+        "height": 278,
+        "src": "https://www.republicofstackshirts.com/static/logos/microsoftEdge/microsoftEdgeIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "browser": {
+        "id": "browser",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

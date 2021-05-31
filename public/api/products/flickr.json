@@ -1,0 +1,65 @@
+{
+  "id": "flickr",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "flickr",
+    "url": "https://www.flickr.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#dc2474"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "flickrShort",
+        "pathname": "/static/logos/flickr/flickrShort.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/flickr/flickrShort.svg"
+      },
+      {
+        "name": "flickr",
+        "pathname": "/static/logos/flickr/flickr.svg",
+        "width": 512,
+        "height": 155,
+        "src": "https://www.republicofstackshirts.com/static/logos/flickr/flickr.svg"
+      },
+      {
+        "name": "flickrShortIcon",
+        "pathname": "/static/logos/flickr/flickrShortIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/flickr/flickrShortIcon.svg"
+      },
+      {
+        "name": "flickrIcon",
+        "pathname": "/static/logos/flickr/flickrIcon.svg",
+        "width": 512,
+        "height": 155,
+        "src": "https://www.republicofstackshirts.com/static/logos/flickr/flickrIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "photos": {
+        "id": "photos",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

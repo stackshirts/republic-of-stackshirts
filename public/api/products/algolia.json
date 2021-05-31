@@ -1,0 +1,51 @@
+{
+  "id": "algolia",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Algolia",
+    "url": "https://www.algolia.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#5468FF"
+      }
+    ],
+    "package": {},
+    "logos": [
+      {
+        "name": "algolia",
+        "pathname": "/static/logos/algolia/algolia.e575ee2836.svg",
+        "width": 114,
+        "height": 114,
+        "src": "https://www.republicofstackshirts.com/static/logos/algolia/algolia.e575ee2836.svg"
+      },
+      {
+        "name": "algoliaIcon",
+        "pathname": "/static/logos/algolia/algoliaIcon.88d8d1199f.svg",
+        "width": 113,
+        "height": 114,
+        "src": "https://www.republicofstackshirts.com/static/logos/algolia/algoliaIcon.88d8d1199f.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "searchService": {
+        "id": "searchService",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

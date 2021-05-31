@@ -1,0 +1,67 @@
+{
+  "id": "puppet",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Puppet",
+    "url": "https://puppetlabs.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#7c64a4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "puppet",
+        "pathname": "/static/logos/puppet/puppet.svg",
+        "width": 256,
+        "height": 243,
+        "src": "https://www.republicofstackshirts.com/static/logos/puppet/puppet.svg"
+      },
+      {
+        "name": "puppetIcon",
+        "pathname": "/static/logos/puppet/puppetIcon.svg",
+        "width": 256,
+        "height": 243,
+        "src": "https://www.republicofstackshirts.com/static/logos/puppet/puppetIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "configurationManager": {
+        "id": "configurationManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "iaaS": {
+        "id": "iaaS",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ruby": {
+        "id": "ruby",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

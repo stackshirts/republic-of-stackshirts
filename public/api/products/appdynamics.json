@@ -1,0 +1,59 @@
+{
+  "id": "appdynamics",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "AppDynamics",
+    "url": "http://www.appdynamics.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#44ac4c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "appdynamics",
+        "pathname": "/static/logos/appdynamics/appdynamics.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/appdynamics/appdynamics.svg"
+      },
+      {
+        "name": "appdynamicsIcon",
+        "pathname": "/static/logos/appdynamics/appdynamicsIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/appdynamics/appdynamicsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "monitoring": {
+        "id": "monitoring",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "performanceMonitoring": {
+        "id": "performanceMonitoring",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

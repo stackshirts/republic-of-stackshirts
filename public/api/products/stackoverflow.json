@@ -1,0 +1,59 @@
+{
+  "id": "stackoverflow",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Stack Overflow",
+    "url": "http://stackoverflow.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#7c7c7c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "stackoverflow",
+        "pathname": "/static/logos/stackoverflow/stackoverflow.svg",
+        "width": 90,
+        "height": 114,
+        "src": "https://www.republicofstackshirts.com/static/logos/stackoverflow/stackoverflow.svg"
+      },
+      {
+        "name": "stackoverflowIcon",
+        "pathname": "/static/logos/stackoverflow/stackoverflowIcon.svg",
+        "width": 89,
+        "height": 114,
+        "src": "https://www.republicofstackshirts.com/static/logos/stackoverflow/stackoverflowIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "community": {
+        "id": "community",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "reference": {
+        "id": "reference",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

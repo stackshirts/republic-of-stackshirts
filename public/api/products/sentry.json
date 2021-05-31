@@ -1,0 +1,51 @@
+{
+  "id": "sentry",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Sentry",
+    "url": "https://getsentry.com/welcome/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#fc2c24"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "sentry",
+        "pathname": "/static/logos/sentry/sentry.svg",
+        "width": 256,
+        "height": 230,
+        "src": "https://www.republicofstackshirts.com/static/logos/sentry/sentry.svg"
+      },
+      {
+        "name": "sentryIcon",
+        "pathname": "/static/logos/sentry/sentryIcon.svg",
+        "width": 256,
+        "height": 230,
+        "src": "https://www.republicofstackshirts.com/static/logos/sentry/sentryIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "exceptionTracker": {
+        "id": "exceptionTracker",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

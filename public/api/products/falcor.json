@@ -1,0 +1,67 @@
+{
+  "id": "falcor",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Falcor",
+    "url": "http://netflix.github.io/falcor/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#6cb62c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "falcor",
+        "pathname": "/static/logos/falcor/falcor.svg",
+        "width": 256,
+        "height": 299,
+        "src": "https://www.republicofstackshirts.com/static/logos/falcor/falcor.svg"
+      },
+      {
+        "name": "falcorIcon",
+        "pathname": "/static/logos/falcor/falcorIcon.svg",
+        "width": 256,
+        "height": 299,
+        "src": "https://www.republicofstackshirts.com/static/logos/falcor/falcorIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "apiTools": {
+        "id": "apiTools",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "dataFetch": {
+        "id": "dataFetch",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

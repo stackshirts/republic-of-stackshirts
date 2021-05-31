@@ -1,0 +1,51 @@
+{
+  "id": "java",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Java",
+    "url": "https://www.java.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#e46c04"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "java",
+        "pathname": "/static/logos/java/java.svg",
+        "width": 256,
+        "height": 346,
+        "src": "https://www.republicofstackshirts.com/static/logos/java/java.svg"
+      },
+      {
+        "name": "javaIcon",
+        "pathname": "/static/logos/java/javaIcon.svg",
+        "width": 256,
+        "height": 346,
+        "src": "https://www.republicofstackshirts.com/static/logos/java/javaIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "language": {
+        "id": "language",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

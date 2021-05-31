@@ -1,0 +1,59 @@
+{
+  "id": "kotlin",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Kotlin",
+    "url": "http://kotlinlang.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#4c74ac"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "kotlin",
+        "pathname": "/static/logos/kotlin/kotlin.svg",
+        "width": 256,
+        "height": 264,
+        "src": "https://www.republicofstackshirts.com/static/logos/kotlin/kotlin.svg"
+      },
+      {
+        "name": "kotlinIcon",
+        "pathname": "/static/logos/kotlin/kotlinIcon.svg",
+        "width": 256,
+        "height": 264,
+        "src": "https://www.republicofstackshirts.com/static/logos/kotlin/kotlinIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "language": {
+        "id": "language",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "java": {
+        "id": "java",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

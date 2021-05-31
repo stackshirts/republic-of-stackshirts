@@ -1,0 +1,59 @@
+{
+  "id": "kemal",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Kemal",
+    "url": "http://kemalcr.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#fc4b4b"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "kemal",
+        "pathname": "/static/logos/kemal/kemal.svg",
+        "width": 256,
+        "height": 174,
+        "src": "https://www.republicofstackshirts.com/static/logos/kemal/kemal.svg"
+      },
+      {
+        "name": "kemalIcon",
+        "pathname": "/static/logos/kemal/kemalIcon.svg",
+        "width": 256,
+        "height": 174,
+        "src": "https://www.republicofstackshirts.com/static/logos/kemal/kemalIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "webFramework": {
+        "id": "webFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "crystal": {
+        "id": "crystal",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "coffeescript",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "CoffeeScript",
+    "url": "http://coffeescript.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#2c344c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "coffeescript",
+        "pathname": "/static/logos/coffeescript/coffeescript.svg",
+        "width": 256,
+        "height": 206,
+        "src": "https://www.republicofstackshirts.com/static/logos/coffeescript/coffeescript.svg"
+      },
+      {
+        "name": "coffeescriptIcon",
+        "pathname": "/static/logos/coffeescript/coffeescriptIcon.svg",
+        "width": 256,
+        "height": 206,
+        "src": "https://www.republicofstackshirts.com/static/logos/coffeescript/coffeescriptIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "language": {
+        "id": "language",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

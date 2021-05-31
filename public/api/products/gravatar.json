@@ -1,0 +1,59 @@
+{
+  "id": "gravatar",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Gravatar",
+    "url": "https://gravatar.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1c8cbc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "gravatar",
+        "pathname": "/static/logos/gravatar/gravatar.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/gravatar/gravatar.svg"
+      },
+      {
+        "name": "gravatarIcon",
+        "pathname": "/static/logos/gravatar/gravatarIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/gravatar/gravatarIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "images": {
+        "id": "images",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "avatars": {
+        "id": "avatars",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

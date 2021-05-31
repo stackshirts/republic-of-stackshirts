@@ -1,0 +1,67 @@
+{
+  "id": "osquery",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "osquery",
+    "url": "https://osquery.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#a494fc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "osquery",
+        "pathname": "/static/logos/osquery/osquery.svg",
+        "width": 256,
+        "height": 255,
+        "src": "https://www.republicofstackshirts.com/static/logos/osquery/osquery.svg"
+      },
+      {
+        "name": "osqueryIcon",
+        "pathname": "/static/logos/osquery/osqueryIcon.svg",
+        "width": 256,
+        "height": 255,
+        "src": "https://www.republicofstackshirts.com/static/logos/osquery/osqueryIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "instrumentationFramework": {
+        "id": "instrumentationFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "sql": {
+        "id": "sql",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "facebook": {
+        "id": "facebook",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

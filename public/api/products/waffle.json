@@ -1,0 +1,51 @@
+{
+  "id": "waffle",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Waffle",
+    "url": "https://waffle.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#fcd454"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "waffle",
+        "pathname": "/static/logos/waffle/waffle.svg",
+        "width": 256,
+        "height": 347,
+        "src": "https://www.republicofstackshirts.com/static/logos/waffle/waffle.svg"
+      },
+      {
+        "name": "waffleIcon",
+        "pathname": "/static/logos/waffle/waffleIcon.svg",
+        "width": 256,
+        "height": 347,
+        "src": "https://www.republicofstackshirts.com/static/logos/waffle/waffleIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "projectManager": {
+        "id": "projectManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

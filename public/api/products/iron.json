@@ -1,0 +1,59 @@
+{
+  "id": "iron",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Iron.io",
+    "url": "https://www.iron.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#c42434"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "iron",
+        "pathname": "/static/logos/iron/iron.svg",
+        "width": 512,
+        "height": 185,
+        "src": "https://www.republicofstackshirts.com/static/logos/iron/iron.svg"
+      },
+      {
+        "name": "ironIcon",
+        "pathname": "/static/logos/iron/ironIcon.svg",
+        "width": 512,
+        "height": 185,
+        "src": "https://www.republicofstackshirts.com/static/logos/iron/ironIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "messageQueue": {
+        "id": "messageQueue",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "taskProcessor": {
+        "id": "taskProcessor",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

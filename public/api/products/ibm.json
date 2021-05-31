@@ -1,0 +1,51 @@
+{
+  "id": "ibm",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "IBM",
+    "url": "https://www.ibm.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1f70c1"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "ibm",
+        "pathname": "/static/logos/ibm/ibm.svg",
+        "width": 512,
+        "height": 205,
+        "src": "https://www.republicofstackshirts.com/static/logos/ibm/ibm.svg"
+      },
+      {
+        "name": "ibmIcon",
+        "pathname": "/static/logos/ibm/ibmIcon.svg",
+        "width": 512,
+        "height": 205,
+        "src": "https://www.republicofstackshirts.com/static/logos/ibm/ibmIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "operationalSystem": {
+        "id": "operationalSystem",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

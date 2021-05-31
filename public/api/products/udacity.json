@@ -1,0 +1,59 @@
+{
+  "id": "udacity",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Udacity",
+    "url": "https://udacity.com",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#02b3e4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "udacity",
+        "pathname": "/static/logos/udacity/udacity.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/udacity/udacity.svg"
+      },
+      {
+        "name": "udacityIcon",
+        "pathname": "/static/logos/udacity/udacityIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/udacity/udacityIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "courses": {
+        "id": "courses",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "learning": {
+        "id": "learning",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

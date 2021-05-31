@@ -1,0 +1,59 @@
+{
+  "id": "awsQuicksight",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "AWS QuickSight",
+    "url": "https://quicksight.aws/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#00b7f4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "awsQuicksight",
+        "pathname": "/static/logos/awsQuicksight/awsQuicksight.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/awsQuicksight/awsQuicksight.svg"
+      },
+      {
+        "name": "awsQuicksightIcon",
+        "pathname": "/static/logos/awsQuicksight/awsQuicksightIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/awsQuicksight/awsQuicksightIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "businessGrowth": {
+        "id": "businessGrowth",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "businessIntelligence": {
+        "id": "businessIntelligence",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

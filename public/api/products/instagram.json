@@ -1,0 +1,89 @@
+{
+  "id": "instagram",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Instagram",
+    "url": "https://instagram.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#343434"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "instagramShort",
+        "pathname": "/static/logos/instagram/instagramShort.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/instagram/instagramShort.svg"
+      },
+      {
+        "name": "instagram",
+        "pathname": "/static/logos/instagram/instagram.svg",
+        "width": 512,
+        "height": 146,
+        "src": "https://www.republicofstackshirts.com/static/logos/instagram/instagram.svg"
+      },
+      {
+        "name": "instagramShortIcon",
+        "pathname": "/static/logos/instagram/instagramShortIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/instagram/instagramShortIcon.svg"
+      },
+      {
+        "name": "instagramIcon",
+        "pathname": "/static/logos/instagram/instagramIcon.svg",
+        "width": 512,
+        "height": 146,
+        "src": "https://www.republicofstackshirts.com/static/logos/instagram/instagramIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "photos": {
+        "id": "photos",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "videos": {
+        "id": "videos",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "selfies": {
+        "id": "selfies",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "socialNetwork": {
+        "id": "socialNetwork",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

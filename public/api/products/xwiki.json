@@ -1,0 +1,51 @@
+{
+  "id": "xwiki",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "XWiki",
+    "url": "http://www.xwiki.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#fc6b04"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "xwiki",
+        "pathname": "/static/logos/xwiki/xwiki.svg",
+        "width": 512,
+        "height": 184,
+        "src": "https://www.republicofstackshirts.com/static/logos/xwiki/xwiki.svg"
+      },
+      {
+        "name": "xwikiIcon",
+        "pathname": "/static/logos/xwiki/xwikiIcon.svg",
+        "width": 512,
+        "height": 184,
+        "src": "https://www.republicofstackshirts.com/static/logos/xwiki/xwikiIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "wiki": {
+        "id": "wiki",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

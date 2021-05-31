@@ -1,0 +1,51 @@
+{
+  "id": "chalk",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Chalk",
+    "url": "https://github.com/chalk/chalk",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#74c9d5"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "chalk",
+        "pathname": "/static/logos/chalk/chalk.svg",
+        "width": 256,
+        "height": 118,
+        "src": "https://www.republicofstackshirts.com/static/logos/chalk/chalk.svg"
+      },
+      {
+        "name": "chalkIcon",
+        "pathname": "/static/logos/chalk/chalkIcon.svg",
+        "width": 256,
+        "height": 118,
+        "src": "https://www.republicofstackshirts.com/static/logos/chalk/chalkIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "stringStyling": {
+        "id": "stringStyling",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

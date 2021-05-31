@@ -1,0 +1,59 @@
+{
+  "id": "jruby",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "JRuby",
+    "url": "http://jruby.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#cb1c23"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "jruby",
+        "pathname": "/static/logos/jruby/jruby.svg",
+        "width": 257,
+        "height": 183,
+        "src": "https://www.republicofstackshirts.com/static/logos/jruby/jruby.svg"
+      },
+      {
+        "name": "jrubyIcon",
+        "pathname": "/static/logos/jruby/jrubyIcon.svg",
+        "width": 257,
+        "height": 183,
+        "src": "https://www.republicofstackshirts.com/static/logos/jruby/jrubyIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "java": {
+        "id": "java",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ruby": {
+        "id": "ruby",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

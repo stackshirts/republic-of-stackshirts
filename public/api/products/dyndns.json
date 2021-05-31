@@ -1,0 +1,51 @@
+{
+  "id": "dyndns",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Dyn",
+    "url": "http://dyn.com/dns/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#fbf369"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "dyndns",
+        "pathname": "/static/logos/dyndns/dyndns.svg",
+        "width": 257,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/dyndns/dyndns.svg"
+      },
+      {
+        "name": "dyndnsIcon",
+        "pathname": "/static/logos/dyndns/dyndnsIcon.svg",
+        "width": 257,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/dyndns/dyndnsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "dns": {
+        "id": "dns",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

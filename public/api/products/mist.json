@@ -1,0 +1,51 @@
+{
+  "id": "mist",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Mist.io",
+    "url": "https://mist.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#e9e9e9"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "mist",
+        "pathname": "/static/logos/mist/mist.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/mist/mist.svg"
+      },
+      {
+        "name": "mistIcon",
+        "pathname": "/static/logos/mist/mistIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/mist/mistIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "cloudManagement": {
+        "id": "cloudManagement",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

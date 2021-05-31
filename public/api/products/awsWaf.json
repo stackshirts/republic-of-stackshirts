@@ -1,0 +1,67 @@
+{
+  "id": "awsWaf",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "AWS WAF (Web Application Firewall)",
+    "url": "https://aws.amazon.com/waf/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#749b3c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "awsWaf",
+        "pathname": "/static/logos/awsWaf/awsWaf.svg",
+        "width": 256,
+        "height": 310,
+        "src": "https://www.republicofstackshirts.com/static/logos/awsWaf/awsWaf.svg"
+      },
+      {
+        "name": "awsWafIcon",
+        "pathname": "/static/logos/awsWaf/awsWafIcon.svg",
+        "width": 256,
+        "height": 310,
+        "src": "https://www.republicofstackshirts.com/static/logos/awsWaf/awsWafIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "firewall": {
+        "id": "firewall",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "webApp": {
+        "id": "webApp",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "iaaS": {
+        "id": "iaaS",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

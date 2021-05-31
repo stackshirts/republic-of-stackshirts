@@ -1,0 +1,59 @@
+{
+  "id": "ocaml",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "OCaml",
+    "url": "https://ocaml.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f08007"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "ocaml",
+        "pathname": "/static/logos/ocaml/ocaml.svg",
+        "width": 512,
+        "height": 141,
+        "src": "https://www.republicofstackshirts.com/static/logos/ocaml/ocaml.svg"
+      },
+      {
+        "name": "ocamlIcon",
+        "pathname": "/static/logos/ocaml/ocamlIcon.svg",
+        "width": 512,
+        "height": 141,
+        "src": "https://www.republicofstackshirts.com/static/logos/ocaml/ocamlIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "language": {
+        "id": "language",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "dialect": {
+        "id": "dialect",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

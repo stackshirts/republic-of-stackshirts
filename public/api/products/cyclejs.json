@@ -1,0 +1,67 @@
+{
+  "id": "cyclejs",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Cycle.js",
+    "url": "http://cycle.js.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#58d5d7"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "cyclejs",
+        "pathname": "/static/logos/cyclejs/cyclejs.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/cyclejs/cyclejs.svg"
+      },
+      {
+        "name": "cyclejsIcon",
+        "pathname": "/static/logos/cyclejs/cyclejsIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/cyclejs/cyclejsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "framework": {
+        "id": "framework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "reactive": {
+        "id": "reactive",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

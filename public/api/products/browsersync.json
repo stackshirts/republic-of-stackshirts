@@ -1,0 +1,51 @@
+{
+  "id": "browsersync",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Browsersync",
+    "url": "http://www.browsersync.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f44444"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "browsersync",
+        "pathname": "/static/logos/browsersync/browsersync.svg",
+        "width": 256,
+        "height": 387,
+        "src": "https://www.republicofstackshirts.com/static/logos/browsersync/browsersync.svg"
+      },
+      {
+        "name": "browsersyncIcon",
+        "pathname": "/static/logos/browsersync/browsersyncIcon.svg",
+        "width": 256,
+        "height": 387,
+        "src": "https://www.republicofstackshirts.com/static/logos/browsersync/browsersyncIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "liveReloading": {
+        "id": "liveReloading",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

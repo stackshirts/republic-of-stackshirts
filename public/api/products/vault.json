@@ -1,0 +1,51 @@
+{
+  "id": "vault",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Vault",
+    "url": "https://www.vaultproject.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#040404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "vault",
+        "pathname": "/static/logos/vault/vault.svg",
+        "width": 256,
+        "height": 242,
+        "src": "https://www.republicofstackshirts.com/static/logos/vault/vault.svg"
+      },
+      {
+        "name": "vaultIcon",
+        "pathname": "/static/logos/vault/vaultIcon.svg",
+        "width": 256,
+        "height": 242,
+        "src": "https://www.republicofstackshirts.com/static/logos/vault/vaultIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "secretManagement": {
+        "id": "secretManagement",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

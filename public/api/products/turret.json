@@ -1,0 +1,75 @@
+{
+  "id": "turret",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Turret",
+    "url": "http://bigfishtv.github.io/turret/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#04bcd4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "turret",
+        "pathname": "/static/logos/turret/turret.svg",
+        "width": 256,
+        "height": 373,
+        "src": "https://www.republicofstackshirts.com/static/logos/turret/turret.svg"
+      },
+      {
+        "name": "turretIcon",
+        "pathname": "/static/logos/turret/turretIcon.svg",
+        "width": 256,
+        "height": 373,
+        "src": "https://www.republicofstackshirts.com/static/logos/turret/turretIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "frontEndFramework": {
+        "id": "frontEndFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "css": {
+        "id": "css",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "less": {
+        "id": "less",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ui": {
+        "id": "ui",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

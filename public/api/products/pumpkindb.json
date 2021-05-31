@@ -1,0 +1,59 @@
+{
+  "id": "pumpkindb",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "PumpkinDB",
+    "url": "http://pumpkindb.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#d04b06"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "pumpkindb",
+        "pathname": "/static/logos/pumpkindb/pumpkindb.svg",
+        "width": 256,
+        "height": 326,
+        "src": "https://www.republicofstackshirts.com/static/logos/pumpkindb/pumpkindb.svg"
+      },
+      {
+        "name": "pumpkindbIcon",
+        "pathname": "/static/logos/pumpkindb/pumpkindbIcon.svg",
+        "width": 256,
+        "height": 326,
+        "src": "https://www.republicofstackshirts.com/static/logos/pumpkindb/pumpkindbIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "database": {
+        "id": "database",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "eventBased": {
+        "id": "eventBased",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

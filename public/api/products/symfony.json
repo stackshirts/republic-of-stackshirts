@@ -1,0 +1,59 @@
+{
+  "id": "symfony",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Symfony",
+    "url": "https://symfony.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1c141c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "symfony",
+        "pathname": "/static/logos/symfony/symfony.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/symfony/symfony.svg"
+      },
+      {
+        "name": "symfonyIcon",
+        "pathname": "/static/logos/symfony/symfonyIcon.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/symfony/symfonyIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "fullStackFramework": {
+        "id": "fullStackFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "php": {
+        "id": "php",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

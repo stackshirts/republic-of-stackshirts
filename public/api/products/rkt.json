@@ -1,0 +1,75 @@
+{
+  "id": "rkt",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "rkt",
+    "url": "https://github.com/coreos/rkt",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#54a4dc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "rkt",
+        "pathname": "/static/logos/rkt/rkt.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/rkt/rkt.svg"
+      },
+      {
+        "name": "rktIcon",
+        "pathname": "/static/logos/rkt/rktIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/rkt/rktIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "containers": {
+        "id": "containers",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "docker": {
+        "id": "docker",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "cli": {
+        "id": "cli",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "coreos": {
+        "id": "coreos",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

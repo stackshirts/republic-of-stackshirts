@@ -1,0 +1,51 @@
+{
+  "id": "glint",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Glint",
+    "url": "http://www.glintinc.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#74746c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "glint",
+        "pathname": "/static/logos/glint/glint.svg",
+        "width": 512,
+        "height": 133,
+        "src": "https://www.republicofstackshirts.com/static/logos/glint/glint.svg"
+      },
+      {
+        "name": "glintIcon",
+        "pathname": "/static/logos/glint/glintIcon.svg",
+        "width": 512,
+        "height": 133,
+        "src": "https://www.republicofstackshirts.com/static/logos/glint/glintIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "organizationAnalysis": {
+        "id": "organizationAnalysis",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

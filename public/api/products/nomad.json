@@ -1,0 +1,67 @@
+{
+  "id": "nomad",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Nomad",
+    "url": "https://www.nomadproject.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#4cb598"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "nomad",
+        "pathname": "/static/logos/nomad/nomad.svg",
+        "width": 256,
+        "height": 300,
+        "src": "https://www.republicofstackshirts.com/static/logos/nomad/nomad.svg"
+      },
+      {
+        "name": "nomadIcon",
+        "pathname": "/static/logos/nomad/nomadIcon.svg",
+        "width": 256,
+        "height": 300,
+        "src": "https://www.republicofstackshirts.com/static/logos/nomad/nomadIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "clusterManagement": {
+        "id": "clusterManagement",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "serverManagement": {
+        "id": "serverManagement",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "docker": {
+        "id": "docker",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

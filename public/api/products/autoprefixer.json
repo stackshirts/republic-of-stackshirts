@@ -1,0 +1,59 @@
+{
+  "id": "autoprefixer",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Autoprefixer",
+    "url": "https://github.com/postcss/autoprefixer",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#dc3c34"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "autoprefixer",
+        "pathname": "/static/logos/autoprefixer/autoprefixer.svg",
+        "width": 256,
+        "height": 193,
+        "src": "https://www.republicofstackshirts.com/static/logos/autoprefixer/autoprefixer.svg"
+      },
+      {
+        "name": "autoprefixerIcon",
+        "pathname": "/static/logos/autoprefixer/autoprefixerIcon.svg",
+        "width": 256,
+        "height": 193,
+        "src": "https://www.republicofstackshirts.com/static/logos/autoprefixer/autoprefixerIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "css": {
+        "id": "css",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "transformer": {
+        "id": "transformer",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

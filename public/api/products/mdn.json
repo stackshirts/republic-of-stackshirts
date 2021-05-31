@@ -1,0 +1,51 @@
+{
+  "id": "mdn",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "MDN",
+    "url": "https://developer.mozilla.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1a88c2"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "mdn",
+        "pathname": "/static/logos/mdn/mdn.svg",
+        "width": 256,
+        "height": 226,
+        "src": "https://www.republicofstackshirts.com/static/logos/mdn/mdn.svg"
+      },
+      {
+        "name": "mdnIcon",
+        "pathname": "/static/logos/mdn/mdnIcon.svg",
+        "width": 256,
+        "height": 226,
+        "src": "https://www.republicofstackshirts.com/static/logos/mdn/mdnIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "reference": {
+        "id": "reference",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

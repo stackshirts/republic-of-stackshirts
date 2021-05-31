@@ -1,0 +1,59 @@
+{
+  "id": "awsCloudfront",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "AWS CloudFront",
+    "url": "https://aws.amazon.com/cloudfront/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#8d3424"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "awsCloudfront",
+        "pathname": "/static/logos/awsCloudfront/awsCloudfront.svg",
+        "width": 256,
+        "height": 308,
+        "src": "https://www.republicofstackshirts.com/static/logos/awsCloudfront/awsCloudfront.svg"
+      },
+      {
+        "name": "awsCloudfrontIcon",
+        "pathname": "/static/logos/awsCloudfront/awsCloudfrontIcon.svg",
+        "width": 256,
+        "height": 308,
+        "src": "https://www.republicofstackshirts.com/static/logos/awsCloudfront/awsCloudfrontIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "cdn": {
+        "id": "cdn",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "iaaS": {
+        "id": "iaaS",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

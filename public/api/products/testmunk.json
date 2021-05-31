@@ -1,0 +1,59 @@
+{
+  "id": "testmunk",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Testmunk",
+    "url": "https://testmunk.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#c8a98a"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "testmunk",
+        "pathname": "/static/logos/testmunk/testmunk.svg",
+        "width": 256,
+        "height": 258,
+        "src": "https://www.republicofstackshirts.com/static/logos/testmunk/testmunk.svg"
+      },
+      {
+        "name": "testmunkIcon",
+        "pathname": "/static/logos/testmunk/testmunkIcon.svg",
+        "width": 256,
+        "height": 258,
+        "src": "https://www.republicofstackshirts.com/static/logos/testmunk/testmunkIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "mobileTestAutomation": {
+        "id": "mobileTestAutomation",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mobile": {
+        "id": "mobile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

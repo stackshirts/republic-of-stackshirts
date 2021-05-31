@@ -1,0 +1,59 @@
+{
+  "id": "vue",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Vue.js",
+    "url": "http://vuejs.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#344c5c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "vue",
+        "pathname": "/static/logos/vue/vue.svg",
+        "width": 256,
+        "height": 221,
+        "src": "https://www.republicofstackshirts.com/static/logos/vue/vue.svg"
+      },
+      {
+        "name": "vueIcon",
+        "pathname": "/static/logos/vue/vueIcon.svg",
+        "width": 256,
+        "height": 221,
+        "src": "https://www.republicofstackshirts.com/static/logos/vue/vueIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "uiFramework": {
+        "id": "uiFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

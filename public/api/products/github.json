@@ -1,0 +1,95 @@
+{
+  "id": "github",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Github",
+    "url": "https://github.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#14140c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "githubShort",
+        "pathname": "/static/logos/github/githubShort.svg",
+        "width": 256,
+        "height": 250,
+        "src": "https://www.republicofstackshirts.com/static/logos/github/githubShort.svg"
+      },
+      {
+        "name": "github",
+        "pathname": "/static/logos/github/github.svg",
+        "width": 512,
+        "height": 139,
+        "src": "https://www.republicofstackshirts.com/static/logos/github/github.svg"
+      },
+      {
+        "name": "githubOctocat",
+        "pathname": "/static/logos/github/githubOctocat.svg",
+        "width": 256,
+        "height": 259.3,
+        "src": "https://www.republicofstackshirts.com/static/logos/github/githubOctocat.svg"
+      },
+      {
+        "name": "githubShortIcon",
+        "pathname": "/static/logos/github/githubShortIcon.svg",
+        "width": 256,
+        "height": 250,
+        "src": "https://www.republicofstackshirts.com/static/logos/github/githubShortIcon.svg"
+      },
+      {
+        "name": "githubIcon",
+        "pathname": "/static/logos/github/githubIcon.svg",
+        "width": 512,
+        "height": 139,
+        "src": "https://www.republicofstackshirts.com/static/logos/github/githubIcon.svg"
+      },
+      {
+        "name": "githubOctocatIcon",
+        "pathname": "/static/logos/github/githubOctocatIcon.svg",
+        "width": 256,
+        "height": 259.3,
+        "src": "https://www.republicofstackshirts.com/static/logos/github/githubOctocatIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "git": {
+        "id": "git",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "codeManager": {
+        "id": "codeManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "issueTracker": {
+        "id": "issueTracker",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

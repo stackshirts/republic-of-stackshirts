@@ -1,0 +1,59 @@
+{
+  "id": "scaledrone",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Scaledrone",
+    "url": "https://www.scaledrone.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#6466bb"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "scaledrone",
+        "pathname": "/static/logos/scaledrone/scaledrone.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/scaledrone/scaledrone.svg"
+      },
+      {
+        "name": "scaledroneIcon",
+        "pathname": "/static/logos/scaledrone/scaledroneIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/scaledrone/scaledroneIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "realTime": {
+        "id": "realTime",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "database": {
+        "id": "database",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

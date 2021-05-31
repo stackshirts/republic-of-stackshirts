@@ -1,0 +1,67 @@
+{
+  "id": "arangodb",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "ArangoDB",
+    "url": "https://www.arangodb.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#728b49"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "arangodb",
+        "pathname": "/static/logos/arangodb/arangodb.svg",
+        "width": 512,
+        "height": 77,
+        "src": "https://www.republicofstackshirts.com/static/logos/arangodb/arangodb.svg"
+      },
+      {
+        "name": "arangodbIcon",
+        "pathname": "/static/logos/arangodb/arangodbIcon.svg",
+        "width": 512,
+        "height": 77,
+        "src": "https://www.republicofstackshirts.com/static/logos/arangodb/arangodbIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "database": {
+        "id": "database",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "nosql": {
+        "id": "nosql",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "graphDatabase": {
+        "id": "graphDatabase",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

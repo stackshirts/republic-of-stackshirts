@@ -1,0 +1,59 @@
+{
+  "id": "sqldep",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "SQLdep",
+    "url": "https://sqldep.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#04ccdc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "sqldep",
+        "pathname": "/static/logos/sqldep/sqldep.svg",
+        "width": 512,
+        "height": 140,
+        "src": "https://www.republicofstackshirts.com/static/logos/sqldep/sqldep.svg"
+      },
+      {
+        "name": "sqldepIcon",
+        "pathname": "/static/logos/sqldep/sqldepIcon.svg",
+        "width": 512,
+        "height": 140,
+        "src": "https://www.republicofstackshirts.com/static/logos/sqldep/sqldepIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "database": {
+        "id": "database",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "sql": {
+        "id": "sql",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "floydhub",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "FloydHub",
+    "url": "https://www.floydhub.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3b99ed"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "floydhub",
+        "pathname": "/static/logos/floydhub/floydhub.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/floydhub/floydhub.svg"
+      },
+      {
+        "name": "floydhubIcon",
+        "pathname": "/static/logos/floydhub/floydhubIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/floydhub/floydhubIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "mlaas": {
+        "id": "mlaas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "dataProcessing": {
+        "id": "dataProcessing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

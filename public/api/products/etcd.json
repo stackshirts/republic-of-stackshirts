@@ -1,0 +1,67 @@
+{
+  "id": "etcd",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "etcd",
+    "url": "https://github.com/coreos/etcd",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#449cdc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "etcd",
+        "pathname": "/static/logos/etcd/etcd.svg",
+        "width": 256,
+        "height": 248,
+        "src": "https://www.republicofstackshirts.com/static/logos/etcd/etcd.svg"
+      },
+      {
+        "name": "etcdIcon",
+        "pathname": "/static/logos/etcd/etcdIcon.svg",
+        "width": 256,
+        "height": 248,
+        "src": "https://www.republicofstackshirts.com/static/logos/etcd/etcdIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "serviceDiscovery": {
+        "id": "serviceDiscovery",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "storage": {
+        "id": "storage",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "coreos": {
+        "id": "coreos",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

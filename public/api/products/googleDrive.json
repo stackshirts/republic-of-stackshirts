@@ -1,0 +1,51 @@
+{
+  "id": "googleDrive",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Google Drive",
+    "url": "https://www.google.com/drive/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#0ca25d"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "googleDrive",
+        "pathname": "/static/logos/googleDrive/googleDrive.svg",
+        "width": 256,
+        "height": 222,
+        "src": "https://www.republicofstackshirts.com/static/logos/googleDrive/googleDrive.svg"
+      },
+      {
+        "name": "googleDriveIcon",
+        "pathname": "/static/logos/googleDrive/googleDriveIcon.svg",
+        "width": 256,
+        "height": 222,
+        "src": "https://www.republicofstackshirts.com/static/logos/googleDrive/googleDriveIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "cloudStorage": {
+        "id": "cloudStorage",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

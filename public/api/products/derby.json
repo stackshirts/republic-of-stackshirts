@@ -1,0 +1,59 @@
+{
+  "id": "derby",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Derby",
+    "url": "http://derbyjs.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#ec4c54"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "derby",
+        "pathname": "/static/logos/derby/derby.svg",
+        "width": 256,
+        "height": 166,
+        "src": "https://www.republicofstackshirts.com/static/logos/derby/derby.svg"
+      },
+      {
+        "name": "derbyIcon",
+        "pathname": "/static/logos/derby/derbyIcon.svg",
+        "width": 256,
+        "height": 166,
+        "src": "https://www.republicofstackshirts.com/static/logos/derby/derbyIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "mvcFramework": {
+        "id": "mvcFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

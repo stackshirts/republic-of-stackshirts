@@ -1,0 +1,59 @@
+{
+  "id": "gocd",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "GoCD",
+    "url": "https://www.go.cd/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#040404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "gocd",
+        "pathname": "/static/logos/gocd/gocd.svg",
+        "width": 512,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/gocd/gocd.svg"
+      },
+      {
+        "name": "gocdIcon",
+        "pathname": "/static/logos/gocd/gocdIcon.svg",
+        "width": 512,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/gocd/gocdIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "contentDelivery": {
+        "id": "contentDelivery",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "continuousIntegration": {
+        "id": "continuousIntegration",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

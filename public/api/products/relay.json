@@ -1,0 +1,67 @@
+{
+  "id": "relay",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Relay",
+    "url": "https://facebook.github.io/relay/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f46c04"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "relay",
+        "pathname": "/static/logos/relay/relay.svg",
+        "width": 256,
+        "height": 151,
+        "src": "https://www.republicofstackshirts.com/static/logos/relay/relay.svg"
+      },
+      {
+        "name": "relayIcon",
+        "pathname": "/static/logos/relay/relayIcon.svg",
+        "width": 256,
+        "height": 151,
+        "src": "https://www.republicofstackshirts.com/static/logos/relay/relayIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "graphql": {
+        "id": "graphql",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "react": {
+        "id": "react",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

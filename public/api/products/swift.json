@@ -1,0 +1,59 @@
+{
+  "id": "swift",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Swift",
+    "url": "https://developer.apple.com/swift/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#e96934"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "swift",
+        "pathname": "/static/logos/swift/swift.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/swift/swift.svg"
+      },
+      {
+        "name": "swiftIcon",
+        "pathname": "/static/logos/swift/swiftIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/swift/swiftIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "language": {
+        "id": "language",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

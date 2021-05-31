@@ -1,0 +1,51 @@
+{
+  "id": "importio",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "import.io",
+    "url": "https://import.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#dc3c74"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "importio",
+        "pathname": "/static/logos/importio/importio.svg",
+        "width": 512,
+        "height": 152,
+        "src": "https://www.republicofstackshirts.com/static/logos/importio/importio.svg"
+      },
+      {
+        "name": "importioIcon",
+        "pathname": "/static/logos/importio/importioIcon.svg",
+        "width": 512,
+        "height": 152,
+        "src": "https://www.republicofstackshirts.com/static/logos/importio/importioIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "dataScraping": {
+        "id": "dataScraping",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

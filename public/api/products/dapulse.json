@@ -1,0 +1,51 @@
+{
+  "id": "dapulse",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "dapulse",
+    "url": "https://dapulse.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#040404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "dapulse",
+        "pathname": "/static/logos/dapulse/dapulse.svg",
+        "width": 256,
+        "height": 253,
+        "src": "https://www.republicofstackshirts.com/static/logos/dapulse/dapulse.svg"
+      },
+      {
+        "name": "dapulseIcon",
+        "pathname": "/static/logos/dapulse/dapulseIcon.svg",
+        "width": 256,
+        "height": 253,
+        "src": "https://www.republicofstackshirts.com/static/logos/dapulse/dapulseIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "projectManager": {
+        "id": "projectManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

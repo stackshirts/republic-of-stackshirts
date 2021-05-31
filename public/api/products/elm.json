@@ -1,0 +1,59 @@
+{
+  "id": "elm",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "elm",
+    "url": "http://elm-lang.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#8cd434"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "elm",
+        "pathname": "/static/logos/elm/elm.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/elm/elm.svg"
+      },
+      {
+        "name": "elmIcon",
+        "pathname": "/static/logos/elm/elmIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/elm/elmIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "language": {
+        "id": "language",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "functional": {
+        "id": "functional",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

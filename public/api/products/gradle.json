@@ -1,0 +1,67 @@
+{
+  "id": "gradle",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Gradle",
+    "url": "https://gradle.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#84bc14"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "gradle",
+        "pathname": "/static/logos/gradle/gradle.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/gradle/gradle.svg"
+      },
+      {
+        "name": "gradleIcon",
+        "pathname": "/static/logos/gradle/gradleIcon.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/gradle/gradleIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "java": {
+        "id": "java",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "c": {
+        "id": "c",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "buildTool": {
+        "id": "buildTool",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

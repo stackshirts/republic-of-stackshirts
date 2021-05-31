@@ -1,0 +1,51 @@
+{
+  "id": "bitcoin",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Bitcoin",
+    "url": "https://bitcoin.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#fa9e33"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "bitcoin",
+        "pathname": "/static/logos/bitcoin/bitcoin.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/bitcoin/bitcoin.svg"
+      },
+      {
+        "name": "bitcoinIcon",
+        "pathname": "/static/logos/bitcoin/bitcoinIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/bitcoin/bitcoinIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "virtualCurrency": {
+        "id": "virtualCurrency",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

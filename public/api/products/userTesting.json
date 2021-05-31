@@ -1,0 +1,59 @@
+{
+  "id": "userTesting",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "UserTesting",
+    "url": "http://www.usertesting.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#66ab49"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "userTesting",
+        "pathname": "/static/logos/userTesting/userTesting.svg",
+        "width": 512,
+        "height": 132,
+        "src": "https://www.republicofstackshirts.com/static/logos/userTesting/userTesting.svg"
+      },
+      {
+        "name": "userTestingIcon",
+        "pathname": "/static/logos/userTesting/userTestingIcon.svg",
+        "width": 512,
+        "height": 132,
+        "src": "https://www.republicofstackshirts.com/static/logos/userTesting/userTestingIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "uxTesting": {
+        "id": "uxTesting",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "userFeedback": {
+        "id": "userFeedback",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "hashnode",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Hashnode",
+    "url": "https://hashnode.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#04b4d4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "hashnode",
+        "pathname": "/static/logos/hashnode/hashnode.svg",
+        "width": 256,
+        "height": 278,
+        "src": "https://www.republicofstackshirts.com/static/logos/hashnode/hashnode.svg"
+      },
+      {
+        "name": "hashnodeIcon",
+        "pathname": "/static/logos/hashnode/hashnodeIcon.svg",
+        "width": 256,
+        "height": 278,
+        "src": "https://www.republicofstackshirts.com/static/logos/hashnode/hashnodeIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "community": {
+        "id": "community",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

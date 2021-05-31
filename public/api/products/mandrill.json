@@ -1,0 +1,65 @@
+{
+  "id": "mandrill",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Mandrill",
+    "url": "http://mandrill.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#33768d"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "mandrillShield",
+        "pathname": "/static/logos/mandrill/mandrillShield.svg",
+        "width": 256,
+        "height": 343,
+        "src": "https://www.republicofstackshirts.com/static/logos/mandrill/mandrillShield.svg"
+      },
+      {
+        "name": "mandrill",
+        "pathname": "/static/logos/mandrill/mandrill.svg",
+        "width": 256,
+        "height": 227,
+        "src": "https://www.republicofstackshirts.com/static/logos/mandrill/mandrill.svg"
+      },
+      {
+        "name": "mandrillShieldIcon",
+        "pathname": "/static/logos/mandrill/mandrillShieldIcon.svg",
+        "width": 256,
+        "height": 343,
+        "src": "https://www.republicofstackshirts.com/static/logos/mandrill/mandrillShieldIcon.svg"
+      },
+      {
+        "name": "mandrillIcon",
+        "pathname": "/static/logos/mandrill/mandrillIcon.svg",
+        "width": 256,
+        "height": 227,
+        "src": "https://www.republicofstackshirts.com/static/logos/mandrill/mandrillIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "transactionalEmail": {
+        "id": "transactionalEmail",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

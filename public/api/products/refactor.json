@@ -1,0 +1,59 @@
+{
+  "id": "refactor",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Refactor.io",
+    "url": "https://www.refactor.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#14a484"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "refactor",
+        "pathname": "/static/logos/refactor/refactor.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/refactor/refactor.svg"
+      },
+      {
+        "name": "refactorIcon",
+        "pathname": "/static/logos/refactor/refactorIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/refactor/refactorIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "codeReview": {
+        "id": "codeReview",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "community": {
+        "id": "community",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

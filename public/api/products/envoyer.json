@@ -1,0 +1,75 @@
+{
+  "id": "envoyer",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Envoyer",
+    "url": "https://envoyer.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f46c54"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "envoyer",
+        "pathname": "/static/logos/envoyer/envoyer.svg",
+        "width": 256,
+        "height": 304,
+        "src": "https://www.republicofstackshirts.com/static/logos/envoyer/envoyer.svg"
+      },
+      {
+        "name": "envoyerIcon",
+        "pathname": "/static/logos/envoyer/envoyerIcon.svg",
+        "width": 256,
+        "height": 304,
+        "src": "https://www.republicofstackshirts.com/static/logos/envoyer/envoyerIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "cloudComputing": {
+        "id": "cloudComputing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "paas": {
+        "id": "paas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "laravel": {
+        "id": "laravel",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "php": {
+        "id": "php",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

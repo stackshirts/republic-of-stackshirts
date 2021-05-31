@@ -1,0 +1,51 @@
+{
+  "id": "logmatic",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Logmatic",
+    "url": "http://logmatic.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#355e72"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "logmatic",
+        "pathname": "/static/logos/logmatic/logmatic.svg",
+        "width": 512,
+        "height": 64,
+        "src": "https://www.republicofstackshirts.com/static/logos/logmatic/logmatic.svg"
+      },
+      {
+        "name": "logmaticIcon",
+        "pathname": "/static/logos/logmatic/logmaticIcon.svg",
+        "width": 512,
+        "height": 64,
+        "src": "https://www.republicofstackshirts.com/static/logos/logmatic/logmaticIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "logManager": {
+        "id": "logManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "yahoo",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Yahoo!",
+    "url": "https://search.yahoo.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#5104b0"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "yahoo",
+        "pathname": "/static/logos/yahoo/yahoo.svg",
+        "width": 512,
+        "height": 119,
+        "src": "https://www.republicofstackshirts.com/static/logos/yahoo/yahoo.svg"
+      },
+      {
+        "name": "yahooIcon",
+        "pathname": "/static/logos/yahoo/yahooIcon.svg",
+        "width": 512,
+        "height": 119,
+        "src": "https://www.republicofstackshirts.com/static/logos/yahoo/yahooIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "searchEngine": {
+        "id": "searchEngine",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

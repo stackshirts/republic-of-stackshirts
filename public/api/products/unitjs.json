@@ -1,0 +1,75 @@
+{
+  "id": "unitjs",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "UnitJS",
+    "url": "http://unitjs.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#4f534b"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "unitjs",
+        "pathname": "/static/logos/unitjs/unitjs.svg",
+        "width": 256,
+        "height": 269,
+        "src": "https://www.republicofstackshirts.com/static/logos/unitjs/unitjs.svg"
+      },
+      {
+        "name": "unitjsIcon",
+        "pathname": "/static/logos/unitjs/unitjsIcon.svg",
+        "width": 256,
+        "height": 269,
+        "src": "https://www.republicofstackshirts.com/static/logos/unitjs/unitjsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "testingFramework": {
+        "id": "testingFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "unitTesting": {
+        "id": "unitTesting",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "bdd": {
+        "id": "bdd",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "tdd": {
+        "id": "tdd",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

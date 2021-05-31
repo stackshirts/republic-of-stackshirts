@@ -1,0 +1,59 @@
+{
+  "id": "bash",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Bash",
+    "url": "https://www.gnu.org/software/bash/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#040404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "bash",
+        "pathname": "/static/logos/bash/bash.svg",
+        "width": 256,
+        "height": 190,
+        "src": "https://www.republicofstackshirts.com/static/logos/bash/bash.svg"
+      },
+      {
+        "name": "bashIcon",
+        "pathname": "/static/logos/bash/bashIcon.svg",
+        "width": 256,
+        "height": 190,
+        "src": "https://www.republicofstackshirts.com/static/logos/bash/bashIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "unixShell": {
+        "id": "unixShell",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "cli": {
+        "id": "cli",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

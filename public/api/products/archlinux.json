@@ -1,0 +1,59 @@
+{
+  "id": "archlinux",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Archlinux",
+    "url": "https://www.archlinux.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1793d1"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "archlinux",
+        "pathname": "/static/logos/archlinux/archlinux.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/archlinux/archlinux.svg"
+      },
+      {
+        "name": "archlinuxIcon",
+        "pathname": "/static/logos/archlinux/archlinuxIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/archlinux/archlinuxIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "linux": {
+        "id": "linux",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "operationalSystem": {
+        "id": "operationalSystem",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

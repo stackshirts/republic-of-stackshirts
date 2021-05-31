@@ -1,0 +1,51 @@
+{
+  "id": "discord",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Discord",
+    "url": "https://discordapp.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#748cdc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "discord",
+        "pathname": "/static/logos/discord/discord.svg",
+        "width": 256,
+        "height": 293,
+        "src": "https://www.republicofstackshirts.com/static/logos/discord/discord.svg"
+      },
+      {
+        "name": "discordIcon",
+        "pathname": "/static/logos/discord/discordIcon.svg",
+        "width": 256,
+        "height": 293,
+        "src": "https://www.republicofstackshirts.com/static/logos/discord/discordIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "groupChat": {
+        "id": "groupChat",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

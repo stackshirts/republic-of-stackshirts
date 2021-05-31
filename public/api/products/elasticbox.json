@@ -1,0 +1,59 @@
+{
+  "id": "elasticbox",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "ElasticBox",
+    "url": "https://elasticbox.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#fc9414"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "elasticbox",
+        "pathname": "/static/logos/elasticbox/elasticbox.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/elasticbox/elasticbox.svg"
+      },
+      {
+        "name": "elasticboxIcon",
+        "pathname": "/static/logos/elasticbox/elasticboxIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/elasticbox/elasticboxIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "codeDeployment": {
+        "id": "codeDeployment",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "paas": {
+        "id": "paas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

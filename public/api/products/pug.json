@@ -1,0 +1,59 @@
+{
+  "id": "pug",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Pug",
+    "url": "https://github.com/pugjs/pug",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#0a0908"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "pug",
+        "pathname": "/static/logos/pug/pug.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/pug/pug.svg"
+      },
+      {
+        "name": "pugIcon",
+        "pathname": "/static/logos/pug/pugIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/pug/pugIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "template": {
+        "id": "template",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "preprocessor": {
+        "id": "preprocessor",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

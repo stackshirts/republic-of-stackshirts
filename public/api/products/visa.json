@@ -1,0 +1,59 @@
+{
+  "id": "visa",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Visa",
+    "url": "https://www.visa.com",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1B226F"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "visa",
+        "pathname": "/static/logos/visa/visa.svg",
+        "width": 256,
+        "height": 83,
+        "src": "https://www.republicofstackshirts.com/static/logos/visa/visa.svg"
+      },
+      {
+        "name": "visaIcon",
+        "pathname": "/static/logos/visa/visaIcon.svg",
+        "width": 256,
+        "height": 83,
+        "src": "https://www.republicofstackshirts.com/static/logos/visa/visaIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "creditCard": {
+        "id": "creditCard",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "finance": {
+        "id": "finance",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

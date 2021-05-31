@@ -1,0 +1,67 @@
+{
+  "id": "convox",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Convox",
+    "url": "http://convox.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1474bb"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "convox",
+        "pathname": "/static/logos/convox/convox.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/convox/convox.svg"
+      },
+      {
+        "name": "convoxIcon",
+        "pathname": "/static/logos/convox/convoxIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/convox/convoxIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "cloudComputing": {
+        "id": "cloudComputing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "paas": {
+        "id": "paas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "cli": {
+        "id": "cli",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

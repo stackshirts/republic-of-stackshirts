@@ -1,0 +1,59 @@
+{
+  "id": "flattr",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Flattr",
+    "url": "https://flattr.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#83bc35"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "flattr",
+        "pathname": "/static/logos/flattr/flattr.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/flattr/flattr.svg"
+      },
+      {
+        "name": "flattrIcon",
+        "pathname": "/static/logos/flattr/flattrIcon.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/flattr/flattrIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "micropayment": {
+        "id": "micropayment",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "donation": {
+        "id": "donation",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

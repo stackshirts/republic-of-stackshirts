@@ -1,0 +1,51 @@
+{
+  "id": "appcelerator",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Appcelerator",
+    "url": "http://www.appcelerator.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#b31c34"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "appcelerator",
+        "pathname": "/static/logos/appcelerator/appcelerator.svg",
+        "width": 256,
+        "height": 224,
+        "src": "https://www.republicofstackshirts.com/static/logos/appcelerator/appcelerator.svg"
+      },
+      {
+        "name": "appceleratorIcon",
+        "pathname": "/static/logos/appcelerator/appceleratorIcon.svg",
+        "width": 256,
+        "height": 224,
+        "src": "https://www.republicofstackshirts.com/static/logos/appcelerator/appceleratorIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "mbaas": {
+        "id": "mbaas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

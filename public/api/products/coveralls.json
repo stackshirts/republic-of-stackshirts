@@ -1,0 +1,51 @@
+{
+  "id": "coveralls",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Coveralls",
+    "url": "https://coveralls.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#d7dfdf"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "coveralls",
+        "pathname": "/static/logos/coveralls/coveralls.svg",
+        "width": 512,
+        "height": 89,
+        "src": "https://www.republicofstackshirts.com/static/logos/coveralls/coveralls.svg"
+      },
+      {
+        "name": "coverallsIcon",
+        "pathname": "/static/logos/coveralls/coverallsIcon.svg",
+        "width": 512,
+        "height": 89,
+        "src": "https://www.republicofstackshirts.com/static/logos/coveralls/coverallsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "codeCoverage": {
+        "id": "codeCoverage",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

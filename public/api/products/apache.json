@@ -1,0 +1,51 @@
+{
+  "id": "apache",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Apache",
+    "url": "http://www.apache.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#cd2e5d"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "apache",
+        "pathname": "/static/logos/apache/apache.svg",
+        "width": 2392.5,
+        "height": 4226.6,
+        "src": "https://www.republicofstackshirts.com/static/logos/apache/apache.svg"
+      },
+      {
+        "name": "apacheIcon",
+        "pathname": "/static/logos/apache/apacheIcon.svg",
+        "width": 2111,
+        "height": 4227,
+        "src": "https://www.republicofstackshirts.com/static/logos/apache/apacheIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "webServer": {
+        "id": "webServer",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

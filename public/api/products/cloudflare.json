@@ -1,0 +1,59 @@
+{
+  "id": "cloudflare",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "CloudFlare",
+    "url": "https://www.cloudflare.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#ef8b1f"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "cloudflare",
+        "pathname": "/static/logos/cloudflare/cloudflare.svg",
+        "width": 256,
+        "height": 116,
+        "src": "https://www.republicofstackshirts.com/static/logos/cloudflare/cloudflare.svg"
+      },
+      {
+        "name": "cloudflareIcon",
+        "pathname": "/static/logos/cloudflare/cloudflareIcon.svg",
+        "width": 256,
+        "height": 116,
+        "src": "https://www.republicofstackshirts.com/static/logos/cloudflare/cloudflareIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "cdn": {
+        "id": "cdn",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "iaaS": {
+        "id": "iaaS",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

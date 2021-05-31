@@ -1,0 +1,59 @@
+{
+  "id": "enyo",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Enyo",
+    "url": "http://enyojs.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3a4553"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "enyo",
+        "pathname": "/static/logos/enyo/enyo.svg",
+        "width": 256,
+        "height": 435,
+        "src": "https://www.republicofstackshirts.com/static/logos/enyo/enyo.svg"
+      },
+      {
+        "name": "enyoIcon",
+        "pathname": "/static/logos/enyo/enyoIcon.svg",
+        "width": 256,
+        "height": 435,
+        "src": "https://www.republicofstackshirts.com/static/logos/enyo/enyoIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "mvcFramework": {
+        "id": "mvcFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

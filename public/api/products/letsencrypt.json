@@ -1,0 +1,51 @@
+{
+  "id": "letsencrypt",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Let's Encrypt",
+    "url": "https://letsencrypt.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#ffa400"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "letsencrypt",
+        "pathname": "/static/logos/letsencrypt/letsencrypt.svg",
+        "width": 256,
+        "height": 199,
+        "src": "https://www.republicofstackshirts.com/static/logos/letsencrypt/letsencrypt.svg"
+      },
+      {
+        "name": "letsencryptIcon",
+        "pathname": "/static/logos/letsencrypt/letsencryptIcon.svg",
+        "width": 256,
+        "height": 199,
+        "src": "https://www.republicofstackshirts.com/static/logos/letsencrypt/letsencryptIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "security": {
+        "id": "security",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

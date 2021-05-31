@@ -1,0 +1,16 @@
+{
+  "routes": [
+    {
+      "src": "/api/products/.*/logos/(.*).svg",
+      "dest": "/api/products/$1.svg"
+    },
+    {
+      "src": "/api/(.*)",
+      "headers": {
+        "content-type": "application/json",
+        "access-control-allow-origin": "*"
+      },
+      "dest": "/api/$1.json"
+    }
+  ]
+}

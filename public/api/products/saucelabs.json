@@ -1,0 +1,67 @@
+{
+  "id": "saucelabs",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Sauce Labs",
+    "url": "https://saucelabs.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#2c3c3c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "saucelabs",
+        "pathname": "/static/logos/saucelabs/saucelabs.svg",
+        "width": 256,
+        "height": 284,
+        "src": "https://www.republicofstackshirts.com/static/logos/saucelabs/saucelabs.svg"
+      },
+      {
+        "name": "saucelabsIcon",
+        "pathname": "/static/logos/saucelabs/saucelabsIcon.svg",
+        "width": 256,
+        "height": 284,
+        "src": "https://www.republicofstackshirts.com/static/logos/saucelabs/saucelabsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "crossBrowserTesting": {
+        "id": "crossBrowserTesting",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "browserAutomation": {
+        "id": "browserAutomation",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "selenium": {
+        "id": "selenium",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "auth0",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Auth0",
+    "url": "https://auth0.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#ec5424"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "auth0",
+        "pathname": "/static/logos/auth0/auth0.svg",
+        "width": 256,
+        "height": 287,
+        "src": "https://www.republicofstackshirts.com/static/logos/auth0/auth0.svg"
+      },
+      {
+        "name": "auth0Icon",
+        "pathname": "/static/logos/auth0/auth0Icon.svg",
+        "width": 256,
+        "height": 287,
+        "src": "https://www.republicofstackshirts.com/static/logos/auth0/auth0Icon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "authentication": {
+        "id": "authentication",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "security": {
+        "id": "security",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

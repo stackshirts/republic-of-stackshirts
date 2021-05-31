@@ -1,0 +1,59 @@
+{
+  "id": "gratipay",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Gratipay",
+    "url": "https://gratipay.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#643404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "gratipay",
+        "pathname": "/static/logos/gratipay/gratipay.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/gratipay/gratipay.svg"
+      },
+      {
+        "name": "gratipayIcon",
+        "pathname": "/static/logos/gratipay/gratipayIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/gratipay/gratipayIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "micropayment": {
+        "id": "micropayment",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "donation": {
+        "id": "donation",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "redux",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Redux",
+    "url": "http://redux.js.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#744cbc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "redux",
+        "pathname": "/static/logos/redux/redux.svg",
+        "width": 256,
+        "height": 244,
+        "src": "https://www.republicofstackshirts.com/static/logos/redux/redux.svg"
+      },
+      {
+        "name": "reduxIcon",
+        "pathname": "/static/logos/redux/reduxIcon.svg",
+        "width": 256,
+        "height": 244,
+        "src": "https://www.republicofstackshirts.com/static/logos/redux/reduxIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "stateContainer": {
+        "id": "stateContainer",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "react": {
+        "id": "react",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

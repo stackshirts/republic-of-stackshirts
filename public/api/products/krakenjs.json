@@ -1,0 +1,67 @@
+{
+  "id": "krakenjs",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Krakenjs",
+    "url": "http://krakenjs.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#0484c4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "krakenjs",
+        "pathname": "/static/logos/krakenjs/krakenjs.svg",
+        "width": 256,
+        "height": 274,
+        "src": "https://www.republicofstackshirts.com/static/logos/krakenjs/krakenjs.svg"
+      },
+      {
+        "name": "krakenjsIcon",
+        "pathname": "/static/logos/krakenjs/krakenjsIcon.svg",
+        "width": 256,
+        "height": 274,
+        "src": "https://www.republicofstackshirts.com/static/logos/krakenjs/krakenjsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "express": {
+        "id": "express",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "library": {
+        "id": "library",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "nodeJs": {
+        "id": "nodeJs",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

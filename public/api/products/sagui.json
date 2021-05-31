@@ -1,0 +1,67 @@
+{
+  "id": "sagui",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Sagui",
+    "url": "http://sagui.js.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#753f8c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "sagui",
+        "pathname": "/static/logos/sagui/sagui.svg",
+        "width": 256,
+        "height": 221,
+        "src": "https://www.republicofstackshirts.com/static/logos/sagui/sagui.svg"
+      },
+      {
+        "name": "saguiIcon",
+        "pathname": "/static/logos/sagui/saguiIcon.svg",
+        "width": 256,
+        "height": 221,
+        "src": "https://www.republicofstackshirts.com/static/logos/sagui/saguiIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "scaffolding": {
+        "id": "scaffolding",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "bootstrap": {
+        "id": "bootstrap",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "redhat",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "RedHat",
+    "url": "http://www.redhat.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#cb0404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "redhat",
+        "pathname": "/static/logos/redhat/redhat.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/redhat/redhat.svg"
+      },
+      {
+        "name": "redhatIcon",
+        "pathname": "/static/logos/redhat/redhatIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/redhat/redhatIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "technology": {
+        "id": "technology",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "company": {
+        "id": "company",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "iaaS": {
+        "id": "iaaS",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "linux": {
+        "id": "linux",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

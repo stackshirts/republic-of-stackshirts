@@ -1,0 +1,51 @@
+{
+  "id": "apigee",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Apigee",
+    "url": "http://apigee.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#545b5c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "apigee",
+        "pathname": "/static/logos/apigee/apigee.svg",
+        "width": 512,
+        "height": 174,
+        "src": "https://www.republicofstackshirts.com/static/logos/apigee/apigee.svg"
+      },
+      {
+        "name": "apigeeIcon",
+        "pathname": "/static/logos/apigee/apigeeIcon.svg",
+        "width": 512,
+        "height": 174,
+        "src": "https://www.republicofstackshirts.com/static/logos/apigee/apigeeIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "apiTools": {
+        "id": "apiTools",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

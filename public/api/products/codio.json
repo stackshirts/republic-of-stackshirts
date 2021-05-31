@@ -1,0 +1,67 @@
+{
+  "id": "codio",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Codio",
+    "url": "https://codio.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#b9cbf3"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "codio",
+        "pathname": "/static/logos/codio/codio.svg",
+        "width": 256,
+        "height": 296,
+        "src": "https://www.republicofstackshirts.com/static/logos/codio/codio.svg"
+      },
+      {
+        "name": "codioIcon",
+        "pathname": "/static/logos/codio/codioIcon.svg",
+        "width": 256,
+        "height": 296,
+        "src": "https://www.republicofstackshirts.com/static/logos/codio/codioIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "codeEditor": {
+        "id": "codeEditor",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ide": {
+        "id": "ide",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "service": {
+        "id": "service",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

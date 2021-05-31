@@ -1,0 +1,51 @@
+{
+  "id": "blogger",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Blogger",
+    "url": "https://www.blogger.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f47d06"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "blogger",
+        "pathname": "/static/logos/blogger/blogger.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/blogger/blogger.svg"
+      },
+      {
+        "name": "bloggerIcon",
+        "pathname": "/static/logos/blogger/bloggerIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/blogger/bloggerIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "blogPlatform": {
+        "id": "blogPlatform",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

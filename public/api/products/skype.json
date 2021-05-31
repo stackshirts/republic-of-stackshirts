@@ -1,0 +1,51 @@
+{
+  "id": "skype",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Skype",
+    "url": "http://www.skype.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#04acf4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "skype",
+        "pathname": "/static/logos/skype/skype.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/skype/skype.svg"
+      },
+      {
+        "name": "skypeIcon",
+        "pathname": "/static/logos/skype/skypeIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/skype/skypeIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "videoConference": {
+        "id": "videoConference",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

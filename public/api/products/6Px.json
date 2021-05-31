@@ -1,0 +1,59 @@
+{
+  "id": "6Px",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "6px",
+    "url": "https://6px.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#049cdc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "6Px",
+        "pathname": "/static/logos/6Px/6Px.svg",
+        "width": 256,
+        "height": 265,
+        "src": "https://www.republicofstackshirts.com/static/logos/6Px/6Px.svg"
+      },
+      {
+        "name": "6PxIcon",
+        "pathname": "/static/logos/6Px/6PxIcon.svg",
+        "width": 256,
+        "height": 265,
+        "src": "https://www.republicofstackshirts.com/static/logos/6Px/6PxIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "imageProcessing": {
+        "id": "imageProcessing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "saas": {
+        "id": "saas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

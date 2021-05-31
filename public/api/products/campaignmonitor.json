@@ -1,0 +1,59 @@
+{
+  "id": "campaignmonitor",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Campaign Monitor",
+    "url": "https://www.campaignmonitor.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#2c2c34"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "campaignmonitor",
+        "pathname": "/static/logos/campaignmonitor/campaignmonitor.svg",
+        "width": 256,
+        "height": 175,
+        "src": "https://www.republicofstackshirts.com/static/logos/campaignmonitor/campaignmonitor.svg"
+      },
+      {
+        "name": "campaignmonitorIcon",
+        "pathname": "/static/logos/campaignmonitor/campaignmonitorIcon.svg",
+        "width": 256,
+        "height": 175,
+        "src": "https://www.republicofstackshirts.com/static/logos/campaignmonitor/campaignmonitorIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "emailMarketing": {
+        "id": "emailMarketing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "marketing": {
+        "id": "marketing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

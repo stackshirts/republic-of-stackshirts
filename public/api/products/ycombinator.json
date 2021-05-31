@@ -1,0 +1,51 @@
+{
+  "id": "ycombinator",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "YCombinator",
+    "url": "http://www.ycombinator.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#fc641c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "ycombinator",
+        "pathname": "/static/logos/ycombinator/ycombinator.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/ycombinator/ycombinator.svg"
+      },
+      {
+        "name": "ycombinatorIcon",
+        "pathname": "/static/logos/ycombinator/ycombinatorIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/ycombinator/ycombinatorIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "socialNews": {
+        "id": "socialNews",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

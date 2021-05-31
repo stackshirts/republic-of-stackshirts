@@ -1,0 +1,67 @@
+{
+  "id": "xplenty",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Xplenty",
+    "url": "https://www.xplenty.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#0db4e4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "xplenty",
+        "pathname": "/static/logos/xplenty/xplenty.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/xplenty/xplenty.svg"
+      },
+      {
+        "name": "xplentyIcon",
+        "pathname": "/static/logos/xplenty/xplentyIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/xplenty/xplentyIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "serviceIntegration": {
+        "id": "serviceIntegration",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "dataTransformation": {
+        "id": "dataTransformation",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "bigData": {
+        "id": "bigData",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

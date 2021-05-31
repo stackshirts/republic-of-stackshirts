@@ -1,0 +1,67 @@
+{
+  "id": "mono",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Mono",
+    "url": "http://www.mono-project.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1c1c1c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "mono",
+        "pathname": "/static/logos/mono/mono.svg",
+        "width": 256,
+        "height": 329,
+        "src": "https://www.republicofstackshirts.com/static/logos/mono/mono.svg"
+      },
+      {
+        "name": "monoIcon",
+        "pathname": "/static/logos/mono/monoIcon.svg",
+        "width": 256,
+        "height": 329,
+        "src": "https://www.republicofstackshirts.com/static/logos/mono/monoIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "crossPlatform": {
+        "id": "crossPlatform",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "applicationFramework": {
+        "id": "applicationFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "dotnet": {
+        "id": "dotnet",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

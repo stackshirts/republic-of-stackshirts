@@ -1,0 +1,59 @@
+{
+  "id": "unito",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Unito",
+    "url": "https://unito.io",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#aadd00"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "unito",
+        "pathname": "/static/logos/unito/unito.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/unito/unito.svg"
+      },
+      {
+        "name": "unitoIcon",
+        "pathname": "/static/logos/unito/unitoIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/unito/unitoIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "projectManager": {
+        "id": "projectManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "serviceIntegration": {
+        "id": "serviceIntegration",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

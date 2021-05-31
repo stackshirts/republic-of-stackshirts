@@ -1,0 +1,67 @@
+{
+  "id": "codefund",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Codefund",
+    "url": "https://www.codefund.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#10ac60"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "codefund",
+        "pathname": "/static/logos/codefund/codefund.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/codefund/codefund.svg"
+      },
+      {
+        "name": "codefundIcon",
+        "pathname": "/static/logos/codefund/codefundIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/codefund/codefundIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "openSource": {
+        "id": "openSource",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "funding": {
+        "id": "funding",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "donation": {
+        "id": "donation",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

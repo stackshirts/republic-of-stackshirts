@@ -1,0 +1,59 @@
+{
+  "id": "rethinkdb",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "RethinkDB",
+    "url": "http://www.rethinkdb.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#244c54"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "rethinkdb",
+        "pathname": "/static/logos/rethinkdb/rethinkdb.svg",
+        "width": 512,
+        "height": 82,
+        "src": "https://www.republicofstackshirts.com/static/logos/rethinkdb/rethinkdb.svg"
+      },
+      {
+        "name": "rethinkdbIcon",
+        "pathname": "/static/logos/rethinkdb/rethinkdbIcon.svg",
+        "width": 512,
+        "height": 82,
+        "src": "https://www.republicofstackshirts.com/static/logos/rethinkdb/rethinkdbIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "database": {
+        "id": "database",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "realTime": {
+        "id": "realTime",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "trac",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Trac",
+    "url": "http://trac.edgewall.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#c40404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "trac",
+        "pathname": "/static/logos/trac/trac.svg",
+        "width": 256,
+        "height": 307,
+        "src": "https://www.republicofstackshirts.com/static/logos/trac/trac.svg"
+      },
+      {
+        "name": "tracIcon",
+        "pathname": "/static/logos/trac/tracIcon.svg",
+        "width": 256,
+        "height": 307,
+        "src": "https://www.republicofstackshirts.com/static/logos/trac/tracIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "issueTracker": {
+        "id": "issueTracker",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

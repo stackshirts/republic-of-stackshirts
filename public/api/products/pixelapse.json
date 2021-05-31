@@ -1,0 +1,59 @@
+{
+  "id": "pixelapse",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Pixelapse",
+    "url": "https://www.pixelapse.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#2c84d4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "pixelapse",
+        "pathname": "/static/logos/pixelapse/pixelapse.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/pixelapse/pixelapse.svg"
+      },
+      {
+        "name": "pixelapseIcon",
+        "pathname": "/static/logos/pixelapse/pixelapseIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/pixelapse/pixelapseIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "versionControl": {
+        "id": "versionControl",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ui": {
+        "id": "ui",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

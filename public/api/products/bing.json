@@ -1,0 +1,51 @@
+{
+  "id": "bing",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Bing",
+    "url": "https://www.bing.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f4bc24"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "bing",
+        "pathname": "/static/logos/bing/bing.svg",
+        "width": 256,
+        "height": 320,
+        "src": "https://www.republicofstackshirts.com/static/logos/bing/bing.svg"
+      },
+      {
+        "name": "bingIcon",
+        "pathname": "/static/logos/bing/bingIcon.svg",
+        "width": 256,
+        "height": 320,
+        "src": "https://www.republicofstackshirts.com/static/logos/bing/bingIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "searchEngine": {
+        "id": "searchEngine",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

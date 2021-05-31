@@ -1,0 +1,67 @@
+{
+  "id": "preact",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Preact",
+    "url": "https://preactjs.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#643cbc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "preact",
+        "pathname": "/static/logos/preact/preact.svg",
+        "width": 256,
+        "height": 296,
+        "src": "https://www.republicofstackshirts.com/static/logos/preact/preact.svg"
+      },
+      {
+        "name": "preactIcon",
+        "pathname": "/static/logos/preact/preactIcon.svg",
+        "width": 256,
+        "height": 296,
+        "src": "https://www.republicofstackshirts.com/static/logos/preact/preactIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "react": {
+        "id": "react",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "uiFramework": {
+        "id": "uiFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

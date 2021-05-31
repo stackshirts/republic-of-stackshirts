@@ -1,0 +1,51 @@
+{
+  "id": "sidekick",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Sidekick",
+    "url": "http://www.getsidekick.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#e47c44"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "sidekick",
+        "pathname": "/static/logos/sidekick/sidekick.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/sidekick/sidekick.svg"
+      },
+      {
+        "name": "sidekickIcon",
+        "pathname": "/static/logos/sidekick/sidekickIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/sidekick/sidekickIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "emailTools": {
+        "id": "emailTools",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

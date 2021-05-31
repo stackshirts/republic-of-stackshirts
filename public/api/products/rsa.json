@@ -1,0 +1,59 @@
+{
+  "id": "rsa",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "RSA",
+    "url": "http://www.emc.com/domains/rsa/index.htm",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#dc242c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "rsa",
+        "pathname": "/static/logos/rsa/rsa.svg",
+        "width": 256,
+        "height": 129,
+        "src": "https://www.republicofstackshirts.com/static/logos/rsa/rsa.svg"
+      },
+      {
+        "name": "rsaIcon",
+        "pathname": "/static/logos/rsa/rsaIcon.svg",
+        "width": 256,
+        "height": 129,
+        "src": "https://www.republicofstackshirts.com/static/logos/rsa/rsaIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "authentication": {
+        "id": "authentication",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "security": {
+        "id": "security",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "jcb",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "JCB",
+    "url": "https://www.jcbusa.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#ffffff"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "jcb",
+        "pathname": "/static/logos/jcb/jcb.svg",
+        "width": 256,
+        "height": 198,
+        "src": "https://www.republicofstackshirts.com/static/logos/jcb/jcb.svg"
+      },
+      {
+        "name": "jcbIcon",
+        "pathname": "/static/logos/jcb/jcbIcon.svg",
+        "width": 256,
+        "height": 198,
+        "src": "https://www.republicofstackshirts.com/static/logos/jcb/jcbIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "creditCard": {
+        "id": "creditCard",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "finance": {
+        "id": "finance",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

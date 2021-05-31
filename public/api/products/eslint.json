@@ -1,0 +1,67 @@
+{
+  "id": "eslint",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "ESLint",
+    "url": "http://eslint.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#8484f4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "eslint",
+        "pathname": "/static/logos/eslint/eslint.svg",
+        "width": 256,
+        "height": 225,
+        "src": "https://www.republicofstackshirts.com/static/logos/eslint/eslint.svg"
+      },
+      {
+        "name": "eslintIcon",
+        "pathname": "/static/logos/eslint/eslintIcon.svg",
+        "width": 256,
+        "height": 225,
+        "src": "https://www.republicofstackshirts.com/static/logos/eslint/eslintIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "linter": {
+        "id": "linter",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "cli": {
+        "id": "cli",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

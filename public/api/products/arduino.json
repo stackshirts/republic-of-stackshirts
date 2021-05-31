@@ -1,0 +1,51 @@
+{
+  "id": "arduino",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Arduino",
+    "url": "https://www.arduino.cc/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#04949c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "arduino",
+        "pathname": "/static/logos/arduino/arduino.svg",
+        "width": 256,
+        "height": 174,
+        "src": "https://www.republicofstackshirts.com/static/logos/arduino/arduino.svg"
+      },
+      {
+        "name": "arduinoIcon",
+        "pathname": "/static/logos/arduino/arduinoIcon.svg",
+        "width": 256,
+        "height": 174,
+        "src": "https://www.republicofstackshirts.com/static/logos/arduino/arduinoIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "hardware": {
+        "id": "hardware",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

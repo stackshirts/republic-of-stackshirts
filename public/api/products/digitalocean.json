@@ -1,0 +1,59 @@
+{
+  "id": "digitalocean",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "DigitalOcean",
+    "url": "https://www.digitalocean.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#58b0e1"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "digitalocean",
+        "pathname": "/static/logos/digitalocean/digitalocean.svg",
+        "width": 256,
+        "height": 164,
+        "src": "https://www.republicofstackshirts.com/static/logos/digitalocean/digitalocean.svg"
+      },
+      {
+        "name": "digitaloceanIcon",
+        "pathname": "/static/logos/digitalocean/digitaloceanIcon.svg",
+        "width": 256,
+        "height": 164,
+        "src": "https://www.republicofstackshirts.com/static/logos/digitalocean/digitaloceanIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "cloudComputing": {
+        "id": "cloudComputing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "iaaS": {
+        "id": "iaaS",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

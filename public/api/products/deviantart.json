@@ -1,0 +1,67 @@
+{
+  "id": "deviantart",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "DeviantArt",
+    "url": "http://www.deviantart.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#44ac44"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "deviantart",
+        "pathname": "/static/logos/deviantart/deviantart.svg",
+        "width": 512,
+        "height": 130,
+        "src": "https://www.republicofstackshirts.com/static/logos/deviantart/deviantart.svg"
+      },
+      {
+        "name": "deviantartIcon",
+        "pathname": "/static/logos/deviantart/deviantartIcon.svg",
+        "width": 512,
+        "height": 130,
+        "src": "https://www.republicofstackshirts.com/static/logos/deviantart/deviantartIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "socialNetwork": {
+        "id": "socialNetwork",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "portfolio": {
+        "id": "portfolio",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "showcase": {
+        "id": "showcase",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "marko",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Marko",
+    "url": "http://markojs.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#272525"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "marko",
+        "pathname": "/static/logos/marko/marko.svg",
+        "width": 256,
+        "height": 214,
+        "src": "https://www.republicofstackshirts.com/static/logos/marko/marko.svg"
+      },
+      {
+        "name": "markoIcon",
+        "pathname": "/static/logos/marko/markoIcon.svg",
+        "width": 256,
+        "height": 214,
+        "src": "https://www.republicofstackshirts.com/static/logos/marko/markoIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "uiFramework": {
+        "id": "uiFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "template": {
+        "id": "template",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ebay": {
+        "id": "ebay",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

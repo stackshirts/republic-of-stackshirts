@@ -1,0 +1,51 @@
+{
+  "id": "googleAdwords",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Google AdWords",
+    "url": "http://www.google.com/adwords/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#14a363"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "googleAdwords",
+        "pathname": "/static/logos/googleAdwords/googleAdwords.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/googleAdwords/googleAdwords.svg"
+      },
+      {
+        "name": "googleAdwordsIcon",
+        "pathname": "/static/logos/googleAdwords/googleAdwordsIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/googleAdwords/googleAdwordsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "ads": {
+        "id": "ads",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

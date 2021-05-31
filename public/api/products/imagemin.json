@@ -1,0 +1,59 @@
+{
+  "id": "imagemin",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "imagemin",
+    "url": "https://github.com/imagemin/imagemin",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#477ead"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "imagemin",
+        "pathname": "/static/logos/imagemin/imagemin.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/imagemin/imagemin.svg"
+      },
+      {
+        "name": "imageminIcon",
+        "pathname": "/static/logos/imagemin/imageminIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/imagemin/imageminIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "imageOptimization": {
+        "id": "imageOptimization",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "cli": {
+        "id": "cli",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

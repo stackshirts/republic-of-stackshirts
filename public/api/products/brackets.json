@@ -1,0 +1,51 @@
+{
+  "id": "brackets",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Brackets",
+    "url": "http://brackets.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1d8dc9"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "brackets",
+        "pathname": "/static/logos/brackets/brackets.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/brackets/brackets.svg"
+      },
+      {
+        "name": "bracketsIcon",
+        "pathname": "/static/logos/brackets/bracketsIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/brackets/bracketsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "codeEditor": {
+        "id": "codeEditor",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

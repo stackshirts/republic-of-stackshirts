@@ -1,0 +1,83 @@
+{
+  "id": "xamarin",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Xamarin",
+    "url": "http://xamarin.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#349cdc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "xamarin",
+        "pathname": "/static/logos/xamarin/xamarin.svg",
+        "width": 256,
+        "height": 228,
+        "src": "https://www.republicofstackshirts.com/static/logos/xamarin/xamarin.svg"
+      },
+      {
+        "name": "xamarinIcon",
+        "pathname": "/static/logos/xamarin/xamarinIcon.svg",
+        "width": 256,
+        "height": 228,
+        "src": "https://www.republicofstackshirts.com/static/logos/xamarin/xamarinIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "crossPlatform": {
+        "id": "crossPlatform",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "applicationFramework": {
+        "id": "applicationFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mobile": {
+        "id": "mobile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "c": {
+        "id": "c",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ide": {
+        "id": "ide",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

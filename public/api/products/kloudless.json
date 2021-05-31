@@ -1,0 +1,59 @@
+{
+  "id": "kloudless",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Kloudless",
+    "url": "https://developers.kloudless.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#eb8f04"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "kloudless",
+        "pathname": "/static/logos/kloudless/kloudless.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/kloudless/kloudless.svg"
+      },
+      {
+        "name": "kloudlessIcon",
+        "pathname": "/static/logos/kloudless/kloudlessIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/kloudless/kloudlessIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "cloudStorage": {
+        "id": "cloudStorage",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "apiTools": {
+        "id": "apiTools",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "mapzen",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Mapzen",
+    "url": "https://mapzen.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#e1e9d2"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "mapzen",
+        "pathname": "/static/logos/mapzen/mapzen.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/mapzen/mapzen.svg"
+      },
+      {
+        "name": "mapzenIcon",
+        "pathname": "/static/logos/mapzen/mapzenIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/mapzen/mapzenIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "maps": {
+        "id": "maps",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mappingApi": {
+        "id": "mappingApi",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

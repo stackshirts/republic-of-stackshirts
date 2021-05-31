@@ -1,0 +1,59 @@
+{
+  "id": "groovehq",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Groove",
+    "url": "https://www.groovehq.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#eecdba"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "groovehq",
+        "pathname": "/static/logos/groovehq/groovehq.svg",
+        "width": 256,
+        "height": 222,
+        "src": "https://www.republicofstackshirts.com/static/logos/groovehq/groovehq.svg"
+      },
+      {
+        "name": "groovehqIcon",
+        "pathname": "/static/logos/groovehq/groovehqIcon.svg",
+        "width": 256,
+        "height": 222,
+        "src": "https://www.republicofstackshirts.com/static/logos/groovehq/groovehqIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "helpDesk": {
+        "id": "helpDesk",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "customerSupport": {
+        "id": "customerSupport",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

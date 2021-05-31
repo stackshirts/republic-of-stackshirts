@@ -1,0 +1,75 @@
+{
+  "id": "flexibleGs",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "flexible.gs",
+    "url": "http://flexible.gs/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#242424"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "flexibleGs",
+        "pathname": "/static/logos/flexibleGs/flexibleGs.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/flexibleGs/flexibleGs.svg"
+      },
+      {
+        "name": "flexibleGsIcon",
+        "pathname": "/static/logos/flexibleGs/flexibleGsIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/flexibleGs/flexibleGsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "frontEndFramework": {
+        "id": "frontEndFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "css": {
+        "id": "css",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "grid": {
+        "id": "grid",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ui": {
+        "id": "ui",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "awsMobilehub",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "AWS Mobile Hub",
+    "url": "http://aws.amazon.com/mobile/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#d95e3a"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "awsMobilehub",
+        "pathname": "/static/logos/awsMobilehub/awsMobilehub.svg",
+        "width": 256,
+        "height": 280,
+        "src": "https://www.republicofstackshirts.com/static/logos/awsMobilehub/awsMobilehub.svg"
+      },
+      {
+        "name": "awsMobilehubIcon",
+        "pathname": "/static/logos/awsMobilehub/awsMobilehubIcon.svg",
+        "width": 256,
+        "height": 280,
+        "src": "https://www.republicofstackshirts.com/static/logos/awsMobilehub/awsMobilehubIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "database": {
+        "id": "database",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "pushNotification": {
+        "id": "pushNotification",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "cloudStorage": {
+        "id": "cloudStorage",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mobile": {
+        "id": "mobile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "testing": {
+        "id": "testing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

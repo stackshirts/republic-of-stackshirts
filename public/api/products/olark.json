@@ -1,0 +1,59 @@
+{
+  "id": "olark",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Olark",
+    "url": "https://www.olark.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#c44d2e"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "olark",
+        "pathname": "/static/logos/olark/olark.svg",
+        "width": 256,
+        "height": 165,
+        "src": "https://www.republicofstackshirts.com/static/logos/olark/olark.svg"
+      },
+      {
+        "name": "olarkIcon",
+        "pathname": "/static/logos/olark/olarkIcon.svg",
+        "width": 256,
+        "height": 165,
+        "src": "https://www.republicofstackshirts.com/static/logos/olark/olarkIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "customerSupport": {
+        "id": "customerSupport",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "liveChat": {
+        "id": "liveChat",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

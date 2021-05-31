@@ -1,0 +1,59 @@
+{
+  "id": "zendFramework",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Zend Framework",
+    "url": "http://framework.zend.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#6cb444"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "zendFramework",
+        "pathname": "/static/logos/zendFramework/zendFramework.svg",
+        "width": 256,
+        "height": 124,
+        "src": "https://www.republicofstackshirts.com/static/logos/zendFramework/zendFramework.svg"
+      },
+      {
+        "name": "zendFrameworkIcon",
+        "pathname": "/static/logos/zendFramework/zendFrameworkIcon.svg",
+        "width": 256,
+        "height": 124,
+        "src": "https://www.republicofstackshirts.com/static/logos/zendFramework/zendFrameworkIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "fullStackFramework": {
+        "id": "fullStackFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "php": {
+        "id": "php",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

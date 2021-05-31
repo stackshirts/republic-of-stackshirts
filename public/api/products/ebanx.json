@@ -1,0 +1,51 @@
+{
+  "id": "ebanx",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "EBANX",
+    "url": "https://www.ebanx.com",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#2397d4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "ebanx",
+        "pathname": "/static/logos/ebanx/ebanx.svg",
+        "width": 512,
+        "height": 97,
+        "src": "https://www.republicofstackshirts.com/static/logos/ebanx/ebanx.svg"
+      },
+      {
+        "name": "ebanxIcon",
+        "pathname": "/static/logos/ebanx/ebanxIcon.svg",
+        "width": 512,
+        "height": 97,
+        "src": "https://www.republicofstackshirts.com/static/logos/ebanx/ebanxIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "finance": {
+        "id": "finance",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

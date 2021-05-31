@@ -1,0 +1,67 @@
+{
+  "id": "pouchdb",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "PouchDB",
+    "url": "http://pouchdb.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#60c188"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "pouchdb",
+        "pathname": "/static/logos/pouchdb/pouchdb.svg",
+        "width": 256,
+        "height": 330,
+        "src": "https://www.republicofstackshirts.com/static/logos/pouchdb/pouchdb.svg"
+      },
+      {
+        "name": "pouchdbIcon",
+        "pathname": "/static/logos/pouchdb/pouchdbIcon.svg",
+        "width": 256,
+        "height": 330,
+        "src": "https://www.republicofstackshirts.com/static/logos/pouchdb/pouchdbIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "database": {
+        "id": "database",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "nosql": {
+        "id": "nosql",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

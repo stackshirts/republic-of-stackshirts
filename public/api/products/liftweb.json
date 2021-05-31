@@ -1,0 +1,67 @@
+{
+  "id": "liftweb",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Lift",
+    "url": "http://liftweb.net/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#445ba6"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "liftweb",
+        "pathname": "/static/logos/liftweb/liftweb.svg",
+        "width": 256,
+        "height": 318,
+        "src": "https://www.republicofstackshirts.com/static/logos/liftweb/liftweb.svg"
+      },
+      {
+        "name": "liftwebIcon",
+        "pathname": "/static/logos/liftweb/liftwebIcon.svg",
+        "width": 256,
+        "height": 318,
+        "src": "https://www.republicofstackshirts.com/static/logos/liftweb/liftwebIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "fullStackFramework": {
+        "id": "fullStackFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "java": {
+        "id": "java",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "scala": {
+        "id": "scala",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "handlebars",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Handlebars",
+    "url": "http://handlebarsjs.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#443424"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "handlebars",
+        "pathname": "/static/logos/handlebars/handlebars.svg",
+        "width": 512,
+        "height": 124,
+        "src": "https://www.republicofstackshirts.com/static/logos/handlebars/handlebars.svg"
+      },
+      {
+        "name": "handlebarsIcon",
+        "pathname": "/static/logos/handlebars/handlebarsIcon.svg",
+        "width": 512,
+        "height": 124,
+        "src": "https://www.republicofstackshirts.com/static/logos/handlebars/handlebarsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "html": {
+        "id": "html",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "template": {
+        "id": "template",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

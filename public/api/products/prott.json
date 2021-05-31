@@ -1,0 +1,67 @@
+{
+  "id": "prott",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Prott",
+    "url": "https://prottapp.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3c3c3c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "prott",
+        "pathname": "/static/logos/prott/prott.svg",
+        "width": 512,
+        "height": 197,
+        "src": "https://www.republicofstackshirts.com/static/logos/prott/prott.svg"
+      },
+      {
+        "name": "prottIcon",
+        "pathname": "/static/logos/prott/prottIcon.svg",
+        "width": 512,
+        "height": 197,
+        "src": "https://www.republicofstackshirts.com/static/logos/prott/prottIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "prototyping": {
+        "id": "prototyping",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ui": {
+        "id": "ui",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mobile": {
+        "id": "mobile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

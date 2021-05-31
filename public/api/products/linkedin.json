@@ -1,0 +1,51 @@
+{
+  "id": "linkedin",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1b1c1b"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "linkedin",
+        "pathname": "/static/logos/linkedin/linkedin.svg",
+        "width": 512,
+        "height": 130,
+        "src": "https://www.republicofstackshirts.com/static/logos/linkedin/linkedin.svg"
+      },
+      {
+        "name": "linkedinIcon",
+        "pathname": "/static/logos/linkedin/linkedinIcon.svg",
+        "width": 512,
+        "height": 130,
+        "src": "https://www.republicofstackshirts.com/static/logos/linkedin/linkedinIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "professionalNetworking": {
+        "id": "professionalNetworking",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

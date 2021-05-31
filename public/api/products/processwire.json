@@ -1,0 +1,89 @@
+{
+  "id": "processwire",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "ProcessWire",
+    "url": "http://processwire.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#6c7c7c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "processwireShort",
+        "pathname": "/static/logos/processwire/processwireShort.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/processwire/processwireShort.svg"
+      },
+      {
+        "name": "processwire",
+        "pathname": "/static/logos/processwire/processwire.svg",
+        "width": 512,
+        "height": 63,
+        "src": "https://www.republicofstackshirts.com/static/logos/processwire/processwire.svg"
+      },
+      {
+        "name": "processwireShortIcon",
+        "pathname": "/static/logos/processwire/processwireShortIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/processwire/processwireShortIcon.svg"
+      },
+      {
+        "name": "processwireIcon",
+        "pathname": "/static/logos/processwire/processwireIcon.svg",
+        "width": 512,
+        "height": 63,
+        "src": "https://www.republicofstackshirts.com/static/logos/processwire/processwireIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "contentManager": {
+        "id": "contentManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "webAppFramework": {
+        "id": "webAppFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "api": {
+        "id": "api",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "jquery": {
+        "id": "jquery",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

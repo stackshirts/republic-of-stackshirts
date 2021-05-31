@@ -1,0 +1,59 @@
+{
+  "id": "sassDoc",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "SassDoc",
+    "url": "http://sassdoc.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#dc5c6c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "sassDoc",
+        "pathname": "/static/logos/sassDoc/sassDoc.svg",
+        "width": 256,
+        "height": 216,
+        "src": "https://www.republicofstackshirts.com/static/logos/sassDoc/sassDoc.svg"
+      },
+      {
+        "name": "sassDocIcon",
+        "pathname": "/static/logos/sassDoc/sassDocIcon.svg",
+        "width": 256,
+        "height": 216,
+        "src": "https://www.republicofstackshirts.com/static/logos/sassDoc/sassDocIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "sass": {
+        "id": "sass",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "documentation": {
+        "id": "documentation",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

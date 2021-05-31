@@ -1,0 +1,67 @@
+{
+  "id": "cassandra",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Cassandra",
+    "url": "http://cassandra.apache.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#343637"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "cassandra",
+        "pathname": "/static/logos/cassandra/cassandra.svg",
+        "width": 256,
+        "height": 169,
+        "src": "https://www.republicofstackshirts.com/static/logos/cassandra/cassandra.svg"
+      },
+      {
+        "name": "cassandraIcon",
+        "pathname": "/static/logos/cassandra/cassandraIcon.svg",
+        "width": 256,
+        "height": 169,
+        "src": "https://www.republicofstackshirts.com/static/logos/cassandra/cassandraIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "database": {
+        "id": "database",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "nosql": {
+        "id": "nosql",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "storage": {
+        "id": "storage",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

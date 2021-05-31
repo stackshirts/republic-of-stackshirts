@@ -1,0 +1,59 @@
+{
+  "id": "locent",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Locent",
+    "url": "https://locent.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3c7cfc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "locent",
+        "pathname": "/static/logos/locent/locent.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/locent/locent.svg"
+      },
+      {
+        "name": "locentIcon",
+        "pathname": "/static/logos/locent/locentIcon.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/locent/locentIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "sms": {
+        "id": "sms",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "health": {
+        "id": "health",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

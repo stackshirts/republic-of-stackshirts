@@ -1,0 +1,67 @@
+{
+  "id": "ink",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Ink",
+    "url": "http://ink.sapo.pt/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#d5411a"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "ink",
+        "pathname": "/static/logos/ink/ink.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/ink/ink.svg"
+      },
+      {
+        "name": "inkIcon",
+        "pathname": "/static/logos/ink/inkIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/ink/inkIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "frontEndFramework": {
+        "id": "frontEndFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ui": {
+        "id": "ui",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "css": {
+        "id": "css",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

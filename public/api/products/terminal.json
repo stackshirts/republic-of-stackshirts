@@ -1,0 +1,51 @@
+{
+  "id": "terminal",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Terminal",
+    "url": "https://en.wikipedia.org/wiki/Terminal_emulator",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#040404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "terminal",
+        "pathname": "/static/logos/terminal/terminal.svg",
+        "width": 256,
+        "height": 210,
+        "src": "https://www.republicofstackshirts.com/static/logos/terminal/terminal.svg"
+      },
+      {
+        "name": "terminalIcon",
+        "pathname": "/static/logos/terminal/terminalIcon.svg",
+        "width": 256,
+        "height": 210,
+        "src": "https://www.republicofstackshirts.com/static/logos/terminal/terminalIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "interface": {
+        "id": "interface",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

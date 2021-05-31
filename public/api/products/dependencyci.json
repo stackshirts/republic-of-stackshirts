@@ -1,0 +1,59 @@
+{
+  "id": "dependencyci",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Dependency CI",
+    "url": "https://dependencyci.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#71c7d6"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "dependencyci",
+        "pathname": "/static/logos/dependencyci/dependencyci.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/dependencyci/dependencyci.svg"
+      },
+      {
+        "name": "dependencyciIcon",
+        "pathname": "/static/logos/dependencyci/dependencyciIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/dependencyci/dependencyciIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "continuousIntegration": {
+        "id": "continuousIntegration",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "dependencyMonitoring": {
+        "id": "dependencyMonitoring",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

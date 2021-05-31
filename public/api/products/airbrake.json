@@ -1,0 +1,59 @@
+{
+  "id": "airbrake",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Airbrake",
+    "url": "https://airbrake.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f78848"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "airbrake",
+        "pathname": "/static/logos/airbrake/airbrake.svg",
+        "width": 256,
+        "height": 255,
+        "src": "https://www.republicofstackshirts.com/static/logos/airbrake/airbrake.svg"
+      },
+      {
+        "name": "airbrakeIcon",
+        "pathname": "/static/logos/airbrake/airbrakeIcon.svg",
+        "width": 256,
+        "height": 255,
+        "src": "https://www.republicofstackshirts.com/static/logos/airbrake/airbrakeIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "exceptionTracker": {
+        "id": "exceptionTracker",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "monitoring": {
+        "id": "monitoring",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

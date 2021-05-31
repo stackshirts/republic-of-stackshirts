@@ -1,0 +1,67 @@
+{
+  "id": "jsfiddle",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "JSFiddle",
+    "url": "https://jsfiddle.net/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#447ca4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "jsfiddle",
+        "pathname": "/static/logos/jsfiddle/jsfiddle.svg",
+        "width": 256,
+        "height": 175,
+        "src": "https://www.republicofstackshirts.com/static/logos/jsfiddle/jsfiddle.svg"
+      },
+      {
+        "name": "jsfiddleIcon",
+        "pathname": "/static/logos/jsfiddle/jsfiddleIcon.svg",
+        "width": 256,
+        "height": 175,
+        "src": "https://www.republicofstackshirts.com/static/logos/jsfiddle/jsfiddleIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "playground": {
+        "id": "playground",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "codeEditor": {
+        "id": "codeEditor",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "service": {
+        "id": "service",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

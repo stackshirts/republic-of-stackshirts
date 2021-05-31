@@ -1,0 +1,51 @@
+{
+  "id": "kore",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "kore",
+    "url": "https://www.kore.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#6cc44c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "kore",
+        "pathname": "/static/logos/kore/kore.svg",
+        "width": 256,
+        "height": 273,
+        "src": "https://www.republicofstackshirts.com/static/logos/kore/kore.svg"
+      },
+      {
+        "name": "koreIcon",
+        "pathname": "/static/logos/kore/koreIcon.svg",
+        "width": 256,
+        "height": 273,
+        "src": "https://www.republicofstackshirts.com/static/logos/kore/koreIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "teamCollaboration": {
+        "id": "teamCollaboration",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

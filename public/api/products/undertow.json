@@ -1,0 +1,59 @@
+{
+  "id": "undertow",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Undertow",
+    "url": "http://undertow.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#8c9494"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "undertow",
+        "pathname": "/static/logos/undertow/undertow.svg",
+        "width": 256,
+        "height": 146,
+        "src": "https://www.republicofstackshirts.com/static/logos/undertow/undertow.svg"
+      },
+      {
+        "name": "undertowIcon",
+        "pathname": "/static/logos/undertow/undertowIcon.svg",
+        "width": 256,
+        "height": 146,
+        "src": "https://www.republicofstackshirts.com/static/logos/undertow/undertowIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "webServer": {
+        "id": "webServer",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "java": {
+        "id": "java",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "vernemq",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "VerneMQ",
+    "url": "https://verne.mq/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#397a9b"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "vernemq",
+        "pathname": "/static/logos/vernemq/vernemq.svg",
+        "width": 256,
+        "height": 230,
+        "src": "https://www.republicofstackshirts.com/static/logos/vernemq/vernemq.svg"
+      },
+      {
+        "name": "vernemqIcon",
+        "pathname": "/static/logos/vernemq/vernemqIcon.svg",
+        "width": 256,
+        "height": 230,
+        "src": "https://www.republicofstackshirts.com/static/logos/vernemq/vernemqIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "messageQueue": {
+        "id": "messageQueue",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mqtt": {
+        "id": "mqtt",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

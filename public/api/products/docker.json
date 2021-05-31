@@ -1,0 +1,67 @@
+{
+  "id": "docker",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "docker",
+    "url": "https://www.docker.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#334951"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "docker",
+        "pathname": "/static/logos/docker/docker.svg",
+        "width": 256,
+        "height": 215,
+        "src": "https://www.republicofstackshirts.com/static/logos/docker/docker.svg"
+      },
+      {
+        "name": "dockerIcon",
+        "pathname": "/static/logos/docker/dockerIcon.svg",
+        "width": 256,
+        "height": 215,
+        "src": "https://www.republicofstackshirts.com/static/logos/docker/dockerIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "codeDeployment": {
+        "id": "codeDeployment",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "containers": {
+        "id": "containers",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "iaaS": {
+        "id": "iaaS",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

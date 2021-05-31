@@ -1,0 +1,67 @@
+{
+  "id": "styleci",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "StyleCI",
+    "url": "https://styleci.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#e44444"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "styleci",
+        "pathname": "/static/logos/styleci/styleci.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/styleci/styleci.svg"
+      },
+      {
+        "name": "styleciIcon",
+        "pathname": "/static/logos/styleci/styleciIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/styleci/styleciIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "continuousIntegration": {
+        "id": "continuousIntegration",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "codeReview": {
+        "id": "codeReview",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "php": {
+        "id": "php",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

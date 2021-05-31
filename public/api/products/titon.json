@@ -1,0 +1,75 @@
+{
+  "id": "titon",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Titon",
+    "url": "http://titon.io/en/toolkit",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#eae8e8"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "titon",
+        "pathname": "/static/logos/titon/titon.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/titon/titon.svg"
+      },
+      {
+        "name": "titonIcon",
+        "pathname": "/static/logos/titon/titonIcon.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/titon/titonIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "components": {
+        "id": "components",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "css": {
+        "id": "css",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ui": {
+        "id": "ui",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "delighted",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Delighted",
+    "url": "https://delighted.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#4c4c4c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "delighted",
+        "pathname": "/static/logos/delighted/delighted.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/delighted/delighted.svg"
+      },
+      {
+        "name": "delightedIcon",
+        "pathname": "/static/logos/delighted/delightedIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/delighted/delightedIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "customerSupport": {
+        "id": "customerSupport",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "userFeedback": {
+        "id": "userFeedback",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

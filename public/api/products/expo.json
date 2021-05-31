@@ -1,0 +1,75 @@
+{
+  "id": "expo",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Expo",
+    "url": "https://expo.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1173b6"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "expo",
+        "pathname": "/static/logos/expo/expo.svg",
+        "width": 256,
+        "height": 227,
+        "src": "https://www.republicofstackshirts.com/static/logos/expo/expo.svg"
+      },
+      {
+        "name": "expoIcon",
+        "pathname": "/static/logos/expo/expoIcon.svg",
+        "width": 256,
+        "height": 227,
+        "src": "https://www.republicofstackshirts.com/static/logos/expo/expoIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "crossPlatform": {
+        "id": "crossPlatform",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "applicationFramework": {
+        "id": "applicationFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mobile": {
+        "id": "mobile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "reactNative": {
+        "id": "reactNative",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

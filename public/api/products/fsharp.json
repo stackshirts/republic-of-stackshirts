@@ -1,0 +1,51 @@
+{
+  "id": "fsharp",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "F",
+    "url": "http://fsharp.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#33bcdc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "fsharp",
+        "pathname": "/static/logos/fsharp/fsharp.svg",
+        "width": 256,
+        "height": 243,
+        "src": "https://www.republicofstackshirts.com/static/logos/fsharp/fsharp.svg"
+      },
+      {
+        "name": "fsharpIcon",
+        "pathname": "/static/logos/fsharp/fsharpIcon.svg",
+        "width": 256,
+        "height": 243,
+        "src": "https://www.republicofstackshirts.com/static/logos/fsharp/fsharpIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "language": {
+        "id": "language",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

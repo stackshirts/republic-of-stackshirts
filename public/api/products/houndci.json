@@ -1,0 +1,59 @@
+{
+  "id": "houndci",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Hound",
+    "url": "https://houndci.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#ac74d4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "houndci",
+        "pathname": "/static/logos/houndci/houndci.svg",
+        "width": 256,
+        "height": 251,
+        "src": "https://www.republicofstackshirts.com/static/logos/houndci/houndci.svg"
+      },
+      {
+        "name": "houndciIcon",
+        "pathname": "/static/logos/houndci/houndciIcon.svg",
+        "width": 256,
+        "height": 251,
+        "src": "https://www.republicofstackshirts.com/static/logos/houndci/houndciIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "github": {
+        "id": "github",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "codeReview": {
+        "id": "codeReview",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

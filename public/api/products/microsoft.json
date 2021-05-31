@@ -1,0 +1,59 @@
+{
+  "id": "microsoft",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Microsoft",
+    "url": "http://www.microsoft.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f78714"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "microsoft",
+        "pathname": "/static/logos/microsoft/microsoft.svg",
+        "width": 512,
+        "height": 110,
+        "src": "https://www.republicofstackshirts.com/static/logos/microsoft/microsoft.svg"
+      },
+      {
+        "name": "microsoftIcon",
+        "pathname": "/static/logos/microsoft/microsoftIcon.svg",
+        "width": 512,
+        "height": 110,
+        "src": "https://www.republicofstackshirts.com/static/logos/microsoft/microsoftIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "technology": {
+        "id": "technology",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "company": {
+        "id": "company",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

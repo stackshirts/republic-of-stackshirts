@@ -1,0 +1,59 @@
+{
+  "id": "tastejs",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "TasteJS",
+    "url": "http://tastejs.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#b22b1f"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "tastejs",
+        "pathname": "/static/logos/tastejs/tastejs.svg",
+        "width": 256,
+        "height": 389,
+        "src": "https://www.republicofstackshirts.com/static/logos/tastejs/tastejs.svg"
+      },
+      {
+        "name": "tastejsIcon",
+        "pathname": "/static/logos/tastejs/tastejsIcon.svg",
+        "width": 256,
+        "height": 389,
+        "src": "https://www.republicofstackshirts.com/static/logos/tastejs/tastejsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "todomvc": {
+        "id": "todomvc",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "learning": {
+        "id": "learning",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "runscope",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "runscope",
+    "url": "https://www.runscope.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3c64a3"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "runscope",
+        "pathname": "/static/logos/runscope/runscope.svg",
+        "width": 256,
+        "height": 267,
+        "src": "https://www.republicofstackshirts.com/static/logos/runscope/runscope.svg"
+      },
+      {
+        "name": "runscopeIcon",
+        "pathname": "/static/logos/runscope/runscopeIcon.svg",
+        "width": 256,
+        "height": 267,
+        "src": "https://www.republicofstackshirts.com/static/logos/runscope/runscopeIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "monitoring": {
+        "id": "monitoring",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "apiMonitoring": {
+        "id": "apiMonitoring",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "apiTools": {
+        "id": "apiTools",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "reactivex",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "ReactiveX",
+    "url": "http://reactivex.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#ef0491"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "reactivex",
+        "pathname": "/static/logos/reactivex/reactivex.svg",
+        "width": 256,
+        "height": 247,
+        "src": "https://www.republicofstackshirts.com/static/logos/reactivex/reactivex.svg"
+      },
+      {
+        "name": "reactivexIcon",
+        "pathname": "/static/logos/reactivex/reactivexIcon.svg",
+        "width": 256,
+        "height": 247,
+        "src": "https://www.republicofstackshirts.com/static/logos/reactivex/reactivexIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "architecture": {
+        "id": "architecture",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "observer": {
+        "id": "observer",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "pattern": {
+        "id": "pattern",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

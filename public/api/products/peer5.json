@@ -1,0 +1,51 @@
+{
+  "id": "peer5",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Peer 5",
+    "url": "https://www.peer5.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#e44d26"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "peer5",
+        "pathname": "/static/logos/peer5/peer5.svg",
+        "width": 256,
+        "height": 291,
+        "src": "https://www.republicofstackshirts.com/static/logos/peer5/peer5.svg"
+      },
+      {
+        "name": "peer5Icon",
+        "pathname": "/static/logos/peer5/peer5Icon.svg",
+        "width": 256,
+        "height": 291,
+        "src": "https://www.republicofstackshirts.com/static/logos/peer5/peer5Icon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "cdn": {
+        "id": "cdn",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

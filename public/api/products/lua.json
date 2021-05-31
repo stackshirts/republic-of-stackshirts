@@ -1,0 +1,51 @@
+{
+  "id": "lua",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Lua",
+    "url": "http://www.lua.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#04047c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "lua",
+        "pathname": "/static/logos/lua/lua.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/lua/lua.svg"
+      },
+      {
+        "name": "luaIcon",
+        "pathname": "/static/logos/lua/luaIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/lua/luaIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "language": {
+        "id": "language",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

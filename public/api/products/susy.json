@@ -1,0 +1,75 @@
+{
+  "id": "susy",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Susy",
+    "url": "http://susy.oddbird.net/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#fc0484"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "susy",
+        "pathname": "/static/logos/susy/susy.svg",
+        "width": 256,
+        "height": 228,
+        "src": "https://www.republicofstackshirts.com/static/logos/susy/susy.svg"
+      },
+      {
+        "name": "susyIcon",
+        "pathname": "/static/logos/susy/susyIcon.svg",
+        "width": 256,
+        "height": 228,
+        "src": "https://www.republicofstackshirts.com/static/logos/susy/susyIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "frontEndFramework": {
+        "id": "frontEndFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "sass": {
+        "id": "sass",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "grid": {
+        "id": "grid",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ui": {
+        "id": "ui",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

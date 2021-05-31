@@ -1,0 +1,59 @@
+{
+  "id": "graphcool",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Graphcool",
+    "url": "https://www.graph.cool/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#27ae60"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "graphcool",
+        "pathname": "/static/logos/graphcool/graphcool.svg",
+        "width": 256,
+        "height": 300,
+        "src": "https://www.republicofstackshirts.com/static/logos/graphcool/graphcool.svg"
+      },
+      {
+        "name": "graphcoolIcon",
+        "pathname": "/static/logos/graphcool/graphcoolIcon.svg",
+        "width": 256,
+        "height": 300,
+        "src": "https://www.republicofstackshirts.com/static/logos/graphcool/graphcoolIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "graphql": {
+        "id": "graphql",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "saas": {
+        "id": "saas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

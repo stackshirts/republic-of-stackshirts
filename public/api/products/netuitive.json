@@ -1,0 +1,59 @@
+{
+  "id": "netuitive",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Netuitive",
+    "url": "http://www.netuitive.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#2c9cec"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "netuitive",
+        "pathname": "/static/logos/netuitive/netuitive.svg",
+        "width": 256,
+        "height": 165,
+        "src": "https://www.republicofstackshirts.com/static/logos/netuitive/netuitive.svg"
+      },
+      {
+        "name": "netuitiveIcon",
+        "pathname": "/static/logos/netuitive/netuitiveIcon.svg",
+        "width": 256,
+        "height": 165,
+        "src": "https://www.republicofstackshirts.com/static/logos/netuitive/netuitiveIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "monitoring": {
+        "id": "monitoring",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "performanceMonitoring": {
+        "id": "performanceMonitoring",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

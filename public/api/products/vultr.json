@@ -1,0 +1,59 @@
+{
+  "id": "vultr",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Vultr",
+    "url": "https://www.vultr.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1e88e5"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "vultr",
+        "pathname": "/static/logos/vultr/vultr.svg",
+        "width": 512,
+        "height": 102,
+        "src": "https://www.republicofstackshirts.com/static/logos/vultr/vultr.svg"
+      },
+      {
+        "name": "vultrIcon",
+        "pathname": "/static/logos/vultr/vultrIcon.svg",
+        "width": 512,
+        "height": 102,
+        "src": "https://www.republicofstackshirts.com/static/logos/vultr/vultrIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "hosting": {
+        "id": "hosting",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "paas": {
+        "id": "paas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "redis",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Redis",
+    "url": "http://redis.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#ab2b28"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "redis",
+        "pathname": "/static/logos/redis/redis.svg",
+        "width": 256,
+        "height": 220,
+        "src": "https://www.republicofstackshirts.com/static/logos/redis/redis.svg"
+      },
+      {
+        "name": "redisIcon",
+        "pathname": "/static/logos/redis/redisIcon.svg",
+        "width": 256,
+        "height": 220,
+        "src": "https://www.republicofstackshirts.com/static/logos/redis/redisIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "database": {
+        "id": "database",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "nosql": {
+        "id": "nosql",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

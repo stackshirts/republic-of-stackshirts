@@ -1,0 +1,67 @@
+{
+  "id": "grunt",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Grunt",
+    "url": "http://gruntjs.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#fcac1c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "grunt",
+        "pathname": "/static/logos/grunt/grunt.svg",
+        "width": 256,
+        "height": 344,
+        "src": "https://www.republicofstackshirts.com/static/logos/grunt/grunt.svg"
+      },
+      {
+        "name": "gruntIcon",
+        "pathname": "/static/logos/grunt/gruntIcon.svg",
+        "width": 256,
+        "height": 344,
+        "src": "https://www.republicofstackshirts.com/static/logos/grunt/gruntIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "buildTool": {
+        "id": "buildTool",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "cli": {
+        "id": "cli",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "nodeJs": {
+        "id": "nodeJs",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

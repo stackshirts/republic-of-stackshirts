@@ -1,0 +1,67 @@
+{
+  "id": "qt",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Qt",
+    "url": "http://www.qt.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#64b334"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "qt",
+        "pathname": "/static/logos/qt/qt.svg",
+        "width": 256,
+        "height": 309,
+        "src": "https://www.republicofstackshirts.com/static/logos/qt/qt.svg"
+      },
+      {
+        "name": "qtIcon",
+        "pathname": "/static/logos/qt/qtIcon.svg",
+        "width": 256,
+        "height": 309,
+        "src": "https://www.republicofstackshirts.com/static/logos/qt/qtIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "crossPlatform": {
+        "id": "crossPlatform",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "applicationFramework": {
+        "id": "applicationFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "c": {
+        "id": "c",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

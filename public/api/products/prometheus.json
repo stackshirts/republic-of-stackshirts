@@ -1,0 +1,59 @@
+{
+  "id": "prometheus",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Prometheus",
+    "url": "http://prometheus.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#dc4c34"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "prometheus",
+        "pathname": "/static/logos/prometheus/prometheus.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/prometheus/prometheus.svg"
+      },
+      {
+        "name": "prometheusIcon",
+        "pathname": "/static/logos/prometheus/prometheusIcon.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/prometheus/prometheusIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "monitoring": {
+        "id": "monitoring",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "serverMonitoring": {
+        "id": "serverMonitoring",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

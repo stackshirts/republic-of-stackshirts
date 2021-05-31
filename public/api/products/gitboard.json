@@ -1,0 +1,67 @@
+{
+  "id": "gitboard",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Gitboard",
+    "url": "http://adewes.github.io/gitboard/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f29a04"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "gitboard",
+        "pathname": "/static/logos/gitboard/gitboard.svg",
+        "width": 256,
+        "height": 249,
+        "src": "https://www.republicofstackshirts.com/static/logos/gitboard/gitboard.svg"
+      },
+      {
+        "name": "gitboardIcon",
+        "pathname": "/static/logos/gitboard/gitboardIcon.svg",
+        "width": 256,
+        "height": 249,
+        "src": "https://www.republicofstackshirts.com/static/logos/gitboard/gitboardIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "projectManager": {
+        "id": "projectManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "kanban": {
+        "id": "kanban",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "github": {
+        "id": "github",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

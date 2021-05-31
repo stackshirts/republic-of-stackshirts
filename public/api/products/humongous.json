@@ -1,0 +1,59 @@
+{
+  "id": "humongous",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Humongous",
+    "url": "https://humongous.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#343434"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "humongous",
+        "pathname": "/static/logos/humongous/humongous.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/humongous/humongous.svg"
+      },
+      {
+        "name": "humongousIcon",
+        "pathname": "/static/logos/humongous/humongousIcon.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/humongous/humongousIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "database": {
+        "id": "database",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mongodb": {
+        "id": "mongodb",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

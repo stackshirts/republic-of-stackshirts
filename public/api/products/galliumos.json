@@ -1,0 +1,67 @@
+{
+  "id": "galliumos",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "GalliumOS",
+    "url": "https://galliumos.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#68a5c6"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "galliumos",
+        "pathname": "/static/logos/galliumos/galliumos.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/galliumos/galliumos.svg"
+      },
+      {
+        "name": "galliumosIcon",
+        "pathname": "/static/logos/galliumos/galliumosIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/galliumos/galliumosIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "operationalSystem": {
+        "id": "operationalSystem",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "linux": {
+        "id": "linux",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "chromeos": {
+        "id": "chromeos",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

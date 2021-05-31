@@ -1,0 +1,59 @@
+{
+  "id": "spark",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Spark",
+    "url": "http://sparkjava.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#fca44c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "spark",
+        "pathname": "/static/logos/spark/spark.svg",
+        "width": 256,
+        "height": 258,
+        "src": "https://www.republicofstackshirts.com/static/logos/spark/spark.svg"
+      },
+      {
+        "name": "sparkIcon",
+        "pathname": "/static/logos/spark/sparkIcon.svg",
+        "width": 256,
+        "height": 258,
+        "src": "https://www.republicofstackshirts.com/static/logos/spark/sparkIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "webAppFramework": {
+        "id": "webAppFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "java": {
+        "id": "java",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

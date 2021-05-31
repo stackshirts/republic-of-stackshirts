@@ -1,0 +1,67 @@
+{
+  "id": "appbase",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Appbase",
+    "url": "http://appbase.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3cc4f4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "appbase",
+        "pathname": "/static/logos/appbase/appbase.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/appbase/appbase.svg"
+      },
+      {
+        "name": "appbaseIcon",
+        "pathname": "/static/logos/appbase/appbaseIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/appbase/appbaseIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "elasticsearch": {
+        "id": "elasticsearch",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "api": {
+        "id": "api",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "json": {
+        "id": "json",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

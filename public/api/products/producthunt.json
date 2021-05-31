@@ -1,0 +1,51 @@
+{
+  "id": "producthunt",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Product Hunt",
+    "url": "http://www.producthunt.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#d5502a"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "producthunt",
+        "pathname": "/static/logos/producthunt/producthunt.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/producthunt/producthunt.svg"
+      },
+      {
+        "name": "producthuntIcon",
+        "pathname": "/static/logos/producthunt/producthuntIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/producthunt/producthuntIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "socialNews": {
+        "id": "socialNews",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

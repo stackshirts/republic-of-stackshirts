@@ -1,0 +1,67 @@
+{
+  "id": "protoio",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Proto.io",
+    "url": "https://proto.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#34a4c4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "protoio",
+        "pathname": "/static/logos/protoio/protoio.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/protoio/protoio.svg"
+      },
+      {
+        "name": "protoioIcon",
+        "pathname": "/static/logos/protoio/protoioIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/protoio/protoioIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "prototyping": {
+        "id": "prototyping",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ui": {
+        "id": "ui",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mobile": {
+        "id": "mobile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

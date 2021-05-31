@@ -1,0 +1,67 @@
+{
+  "id": "coverity",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Coverity",
+    "url": "http://www.coverity.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#040404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "coverity",
+        "pathname": "/static/logos/coverity/coverity.svg",
+        "width": 256,
+        "height": 252,
+        "src": "https://www.republicofstackshirts.com/static/logos/coverity/coverity.svg"
+      },
+      {
+        "name": "coverityIcon",
+        "pathname": "/static/logos/coverity/coverityIcon.svg",
+        "width": 256,
+        "height": 252,
+        "src": "https://www.republicofstackshirts.com/static/logos/coverity/coverityIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "staticAnalysis": {
+        "id": "staticAnalysis",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "java": {
+        "id": "java",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "c": {
+        "id": "c",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

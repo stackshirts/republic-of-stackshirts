@@ -1,0 +1,59 @@
+{
+  "id": "surge",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Surge",
+    "url": "http://surge.sh/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#c7e2cf"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "surge",
+        "pathname": "/static/logos/surge/surge.svg",
+        "width": 256,
+        "height": 380,
+        "src": "https://www.republicofstackshirts.com/static/logos/surge/surge.svg"
+      },
+      {
+        "name": "surgeIcon",
+        "pathname": "/static/logos/surge/surgeIcon.svg",
+        "width": 256,
+        "height": 380,
+        "src": "https://www.republicofstackshirts.com/static/logos/surge/surgeIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "codeHosting": {
+        "id": "codeHosting",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "codeDeployment": {
+        "id": "codeDeployment",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

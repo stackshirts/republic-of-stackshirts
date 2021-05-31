@@ -1,0 +1,59 @@
+{
+  "id": "rubocop",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "RuboCop",
+    "url": "http://batsov.com/rubocop/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#d2242b"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "rubocop",
+        "pathname": "/static/logos/rubocop/rubocop.svg",
+        "width": 256,
+        "height": 302,
+        "src": "https://www.republicofstackshirts.com/static/logos/rubocop/rubocop.svg"
+      },
+      {
+        "name": "rubocopIcon",
+        "pathname": "/static/logos/rubocop/rubocopIcon.svg",
+        "width": 256,
+        "height": 302,
+        "src": "https://www.republicofstackshirts.com/static/logos/rubocop/rubocopIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "staticAnalysis": {
+        "id": "staticAnalysis",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ruby": {
+        "id": "ruby",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "flow",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Flow",
+    "url": "http://flowtype.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f6ae14"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "flow",
+        "pathname": "/static/logos/flow/flow.svg",
+        "width": 256,
+        "height": 317,
+        "src": "https://www.republicofstackshirts.com/static/logos/flow/flow.svg"
+      },
+      {
+        "name": "flowIcon",
+        "pathname": "/static/logos/flow/flowIcon.svg",
+        "width": 256,
+        "height": 317,
+        "src": "https://www.republicofstackshirts.com/static/logos/flow/flowIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "staticTypeChecker": {
+        "id": "staticTypeChecker",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "cli": {
+        "id": "cli",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "facebook": {
+        "id": "facebook",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

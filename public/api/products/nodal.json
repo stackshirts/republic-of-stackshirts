@@ -1,0 +1,75 @@
+{
+  "id": "nodal",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Nodal",
+    "url": "http://www.nodaljs.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#04e3fc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "nodal",
+        "pathname": "/static/logos/nodal/nodal.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/nodal/nodal.svg"
+      },
+      {
+        "name": "nodalIcon",
+        "pathname": "/static/logos/nodal/nodalIcon.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/nodal/nodalIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "webServer": {
+        "id": "webServer",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "webAppFramework": {
+        "id": "webAppFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "microframework": {
+        "id": "microframework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "nodeJs": {
+        "id": "nodeJs",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

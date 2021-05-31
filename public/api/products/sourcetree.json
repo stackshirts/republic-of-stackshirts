@@ -1,0 +1,67 @@
+{
+  "id": "sourcetree",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "SourceTree",
+    "url": "https://www.sourcetreeapp.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#244c74"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "sourcetree",
+        "pathname": "/static/logos/sourcetree/sourcetree.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/sourcetree/sourcetree.svg"
+      },
+      {
+        "name": "sourcetreeIcon",
+        "pathname": "/static/logos/sourcetree/sourcetreeIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/sourcetree/sourcetreeIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "git": {
+        "id": "git",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mercurial": {
+        "id": "mercurial",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "desktopApp": {
+        "id": "desktopApp",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

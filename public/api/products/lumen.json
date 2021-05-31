@@ -1,0 +1,67 @@
+{
+  "id": "lumen",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Lumen",
+    "url": "http://lumen.laravel.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#e44434"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "lumen",
+        "pathname": "/static/logos/lumen/lumen.svg",
+        "width": 256,
+        "height": 515,
+        "src": "https://www.republicofstackshirts.com/static/logos/lumen/lumen.svg"
+      },
+      {
+        "name": "lumenIcon",
+        "pathname": "/static/logos/lumen/lumenIcon.svg",
+        "width": 256,
+        "height": 515,
+        "src": "https://www.republicofstackshirts.com/static/logos/lumen/lumenIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "apiFramework": {
+        "id": "apiFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "microframework": {
+        "id": "microframework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "php": {
+        "id": "php",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

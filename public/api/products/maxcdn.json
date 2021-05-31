@@ -1,0 +1,59 @@
+{
+  "id": "maxcdn",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "MaxCDN",
+    "url": "https://www.maxcdn.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#fc6404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "maxcdn",
+        "pathname": "/static/logos/maxcdn/maxcdn.svg",
+        "width": 512,
+        "height": 117,
+        "src": "https://www.republicofstackshirts.com/static/logos/maxcdn/maxcdn.svg"
+      },
+      {
+        "name": "maxcdnIcon",
+        "pathname": "/static/logos/maxcdn/maxcdnIcon.svg",
+        "width": 512,
+        "height": 117,
+        "src": "https://www.republicofstackshirts.com/static/logos/maxcdn/maxcdnIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "cdn": {
+        "id": "cdn",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "iaaS": {
+        "id": "iaaS",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

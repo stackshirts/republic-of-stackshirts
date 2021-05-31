@@ -1,0 +1,59 @@
+{
+  "id": "solr",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Solr",
+    "url": "http://lucene.apache.org/solr/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#c4432c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "solr",
+        "pathname": "/static/logos/solr/solr.svg",
+        "width": 256,
+        "height": 130,
+        "src": "https://www.republicofstackshirts.com/static/logos/solr/solr.svg"
+      },
+      {
+        "name": "solrIcon",
+        "pathname": "/static/logos/solr/solrIcon.svg",
+        "width": 256,
+        "height": 130,
+        "src": "https://www.republicofstackshirts.com/static/logos/solr/solrIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "searchServer": {
+        "id": "searchServer",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "lucene": {
+        "id": "lucene",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

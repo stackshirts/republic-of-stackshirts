@@ -1,0 +1,51 @@
+{
+  "id": "pipefy",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Pipefy",
+    "url": "http://www.pipefy.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#029aff"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "pipefy",
+        "pathname": "/static/logos/pipefy/pipefy.svg",
+        "width": 256,
+        "height": 140,
+        "src": "https://www.republicofstackshirts.com/static/logos/pipefy/pipefy.svg"
+      },
+      {
+        "name": "pipefyIcon",
+        "pathname": "/static/logos/pipefy/pipefyIcon.svg",
+        "width": 256,
+        "height": 140,
+        "src": "https://www.republicofstackshirts.com/static/logos/pipefy/pipefyIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "projectManager": {
+        "id": "projectManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

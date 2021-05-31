@@ -1,0 +1,67 @@
+{
+  "id": "influxdb",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "InfluxDB",
+    "url": "https://influxdb.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#bee8f2"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "influxdb",
+        "pathname": "/static/logos/influxdb/influxdb.svg",
+        "width": 256,
+        "height": 265,
+        "src": "https://www.republicofstackshirts.com/static/logos/influxdb/influxdb.svg"
+      },
+      {
+        "name": "influxdbIcon",
+        "pathname": "/static/logos/influxdb/influxdbIcon.svg",
+        "width": 256,
+        "height": 265,
+        "src": "https://www.republicofstackshirts.com/static/logos/influxdb/influxdbIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "distributedComputing": {
+        "id": "distributedComputing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "timeSeries": {
+        "id": "timeSeries",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "database": {
+        "id": "database",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

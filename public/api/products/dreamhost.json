@@ -1,0 +1,51 @@
+{
+  "id": "dreamhost",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "DreamHost",
+    "url": "https://www.dreamhost.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3c94bc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "dreamhost",
+        "pathname": "/static/logos/dreamhost/dreamhost.svg",
+        "width": 256,
+        "height": 253,
+        "src": "https://www.republicofstackshirts.com/static/logos/dreamhost/dreamhost.svg"
+      },
+      {
+        "name": "dreamhostIcon",
+        "pathname": "/static/logos/dreamhost/dreamhostIcon.svg",
+        "width": 256,
+        "height": 253,
+        "src": "https://www.republicofstackshirts.com/static/logos/dreamhost/dreamhostIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "webHosting": {
+        "id": "webHosting",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

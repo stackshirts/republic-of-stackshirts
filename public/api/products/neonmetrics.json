@@ -1,0 +1,59 @@
+{
+  "id": "neonmetrics",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Neonmetrics",
+    "url": "http://neonmetrics.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#444444"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "neonmetrics",
+        "pathname": "/static/logos/neonmetrics/neonmetrics.svg",
+        "width": 256,
+        "height": 296,
+        "src": "https://www.republicofstackshirts.com/static/logos/neonmetrics/neonmetrics.svg"
+      },
+      {
+        "name": "neonmetricsIcon",
+        "pathname": "/static/logos/neonmetrics/neonmetricsIcon.svg",
+        "width": 256,
+        "height": 296,
+        "src": "https://www.republicofstackshirts.com/static/logos/neonmetrics/neonmetricsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "businessIntelligence": {
+        "id": "businessIntelligence",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "dataAggregation": {
+        "id": "dataAggregation",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

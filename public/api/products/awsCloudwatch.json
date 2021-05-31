@@ -1,0 +1,67 @@
+{
+  "id": "awsCloudwatch",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "AWS CloudWatch",
+    "url": "https://aws.amazon.com/cloudwatch/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#749b3c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "awsCloudwatch",
+        "pathname": "/static/logos/awsCloudwatch/awsCloudwatch.svg",
+        "width": 256,
+        "height": 290,
+        "src": "https://www.republicofstackshirts.com/static/logos/awsCloudwatch/awsCloudwatch.svg"
+      },
+      {
+        "name": "awsCloudwatchIcon",
+        "pathname": "/static/logos/awsCloudwatch/awsCloudwatchIcon.svg",
+        "width": 256,
+        "height": 290,
+        "src": "https://www.republicofstackshirts.com/static/logos/awsCloudwatch/awsCloudwatchIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "monitoring": {
+        "id": "monitoring",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "serverMonitoring": {
+        "id": "serverMonitoring",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "iaaS": {
+        "id": "iaaS",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "slack",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "slack",
+    "url": "https://slack.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#d05740"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "slack",
+        "pathname": "/static/logos/slack/slack.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/slack/slack.svg"
+      },
+      {
+        "name": "slackIcon",
+        "pathname": "/static/logos/slack/slackIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/slack/slackIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "groupChat": {
+        "id": "groupChat",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "teamCollaboration": {
+        "id": "teamCollaboration",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

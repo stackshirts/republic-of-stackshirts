@@ -1,0 +1,75 @@
+{
+  "id": "elementalUi",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Elemental UI",
+    "url": "http://elemental-ui.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#34acbc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "elementalUi",
+        "pathname": "/static/logos/elementalUi/elementalUi.svg",
+        "width": 256,
+        "height": 229,
+        "src": "https://www.republicofstackshirts.com/static/logos/elementalUi/elementalUi.svg"
+      },
+      {
+        "name": "elementalUiIcon",
+        "pathname": "/static/logos/elementalUi/elementalUiIcon.svg",
+        "width": 256,
+        "height": 229,
+        "src": "https://www.republicofstackshirts.com/static/logos/elementalUi/elementalUiIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "frontEndFramework": {
+        "id": "frontEndFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "css": {
+        "id": "css",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ui": {
+        "id": "ui",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "react": {
+        "id": "react",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "mixmax",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Mixmax",
+    "url": "https://mixmax.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#e35bfb"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "mixmax",
+        "pathname": "/static/logos/mixmax/mixmax.svg",
+        "width": 256,
+        "height": 203,
+        "src": "https://www.republicofstackshirts.com/static/logos/mixmax/mixmax.svg"
+      },
+      {
+        "name": "mixmaxIcon",
+        "pathname": "/static/logos/mixmax/mixmaxIcon.svg",
+        "width": 256,
+        "height": 203,
+        "src": "https://www.republicofstackshirts.com/static/logos/mixmax/mixmaxIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "emailTools": {
+        "id": "emailTools",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

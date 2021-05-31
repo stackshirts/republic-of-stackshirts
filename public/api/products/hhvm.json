@@ -1,0 +1,75 @@
+{
+  "id": "hhvm",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "HHVM",
+    "url": "http://hhvm.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#848484"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "hhvm",
+        "pathname": "/static/logos/hhvm/hhvm.svg",
+        "width": 256,
+        "height": 382,
+        "src": "https://www.republicofstackshirts.com/static/logos/hhvm/hhvm.svg"
+      },
+      {
+        "name": "hhvmIcon",
+        "pathname": "/static/logos/hhvm/hhvmIcon.svg",
+        "width": 256,
+        "height": 382,
+        "src": "https://www.republicofstackshirts.com/static/logos/hhvm/hhvmIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "php": {
+        "id": "php",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "hack": {
+        "id": "hack",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "virtualMachine": {
+        "id": "virtualMachine",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "facebook": {
+        "id": "facebook",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

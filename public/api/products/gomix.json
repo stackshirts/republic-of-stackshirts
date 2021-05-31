@@ -1,0 +1,75 @@
+{
+  "id": "gomix",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Gomix",
+    "url": "https://gomix.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3458d0"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "hyperdev",
+        "pathname": "/static/logos/gomix/hyperdev.svg",
+        "width": 256,
+        "height": 194,
+        "src": "https://www.republicofstackshirts.com/static/logos/gomix/hyperdev.svg"
+      },
+      {
+        "name": "hyperdevIcon",
+        "pathname": "/static/logos/gomix/hyperdevIcon.svg",
+        "width": 256,
+        "height": 194,
+        "src": "https://www.republicofstackshirts.com/static/logos/gomix/hyperdevIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "sandbox": {
+        "id": "sandbox",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "playground": {
+        "id": "playground",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "hosting": {
+        "id": "hosting",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

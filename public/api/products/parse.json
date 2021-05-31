@@ -1,0 +1,67 @@
+{
+  "id": "parse",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Parse",
+    "url": "https://parse.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#149cec"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "parse",
+        "pathname": "/static/logos/parse/parse.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/parse/parse.svg"
+      },
+      {
+        "name": "parseIcon",
+        "pathname": "/static/logos/parse/parseIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/parse/parseIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "database": {
+        "id": "database",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "realTime": {
+        "id": "realTime",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mbaas": {
+        "id": "mbaas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

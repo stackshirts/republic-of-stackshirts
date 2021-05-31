@@ -1,0 +1,51 @@
+{
+  "id": "googleAnalytics",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Google Analytics",
+    "url": "http://www.google.com/analytics/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f3f3f2"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "googleAnalytics",
+        "pathname": "/static/logos/googleAnalytics/googleAnalytics.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/googleAnalytics/googleAnalytics.svg"
+      },
+      {
+        "name": "googleAnalyticsIcon",
+        "pathname": "/static/logos/googleAnalytics/googleAnalyticsIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/googleAnalytics/googleAnalyticsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "analytics": {
+        "id": "analytics",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

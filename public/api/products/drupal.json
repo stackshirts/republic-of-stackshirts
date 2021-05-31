@@ -1,0 +1,59 @@
+{
+  "id": "drupal",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Drupal",
+    "url": "https://www.drupal.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#0982c2"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "drupal",
+        "pathname": "/static/logos/drupal/drupal.svg",
+        "width": 256,
+        "height": 295,
+        "src": "https://www.republicofstackshirts.com/static/logos/drupal/drupal.svg"
+      },
+      {
+        "name": "drupalIcon",
+        "pathname": "/static/logos/drupal/drupalIcon.svg",
+        "width": 256,
+        "height": 295,
+        "src": "https://www.republicofstackshirts.com/static/logos/drupal/drupalIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "php": {
+        "id": "php",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "contentManager": {
+        "id": "contentManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

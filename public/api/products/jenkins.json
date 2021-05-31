@@ -1,0 +1,59 @@
+{
+  "id": "jenkins",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Jenkins",
+    "url": "https://jenkins-ci.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#2d2d36"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "jenkins",
+        "pathname": "/static/logos/jenkins/jenkins.svg",
+        "width": 256,
+        "height": 417,
+        "src": "https://www.republicofstackshirts.com/static/logos/jenkins/jenkins.svg"
+      },
+      {
+        "name": "jenkinsIcon",
+        "pathname": "/static/logos/jenkins/jenkinsIcon.svg",
+        "width": 256,
+        "height": 417,
+        "src": "https://www.republicofstackshirts.com/static/logos/jenkins/jenkinsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "continuousIntegration": {
+        "id": "continuousIntegration",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "java": {
+        "id": "java",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

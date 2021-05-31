@@ -1,0 +1,83 @@
+{
+  "id": "chai",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Chai",
+    "url": "http://chaijs.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f7f3ec"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "chai",
+        "pathname": "/static/logos/chai/chai.svg",
+        "width": 256,
+        "height": 296,
+        "src": "https://www.republicofstackshirts.com/static/logos/chai/chai.svg"
+      },
+      {
+        "name": "chaiIcon",
+        "pathname": "/static/logos/chai/chaiIcon.svg",
+        "width": 256,
+        "height": 296,
+        "src": "https://www.republicofstackshirts.com/static/logos/chai/chaiIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "assertionLibrary": {
+        "id": "assertionLibrary",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "bdd": {
+        "id": "bdd",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "tdd": {
+        "id": "tdd",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "testing": {
+        "id": "testing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

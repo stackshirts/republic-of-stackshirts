@@ -1,0 +1,59 @@
+{
+  "id": "deppbot",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "deppbot",
+    "url": "https://www.deppbot.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#04ace4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "deppbot",
+        "pathname": "/static/logos/deppbot/deppbot.svg",
+        "width": 256,
+        "height": 270,
+        "src": "https://www.republicofstackshirts.com/static/logos/deppbot/deppbot.svg"
+      },
+      {
+        "name": "deppbotIcon",
+        "pathname": "/static/logos/deppbot/deppbotIcon.svg",
+        "width": 256,
+        "height": 270,
+        "src": "https://www.republicofstackshirts.com/static/logos/deppbot/deppbotIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "security": {
+        "id": "security",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ruby": {
+        "id": "ruby",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

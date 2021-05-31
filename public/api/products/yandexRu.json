@@ -1,0 +1,51 @@
+{
+  "id": "yandexRu",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Yandex",
+    "url": "https://www.yandex.ru/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#fc0404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "yandexRu",
+        "pathname": "/static/logos/yandexRu/yandexRu.svg",
+        "width": 512,
+        "height": 201,
+        "src": "https://www.republicofstackshirts.com/static/logos/yandexRu/yandexRu.svg"
+      },
+      {
+        "name": "yandexRuIcon",
+        "pathname": "/static/logos/yandexRu/yandexRuIcon.svg",
+        "width": 512,
+        "height": 201,
+        "src": "https://www.republicofstackshirts.com/static/logos/yandexRu/yandexRuIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "searchEngine": {
+        "id": "searchEngine",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

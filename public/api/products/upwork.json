@@ -1,0 +1,59 @@
+{
+  "id": "upwork",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Upwork",
+    "url": "https://www.upwork.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#6cdc44"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "upwork",
+        "pathname": "/static/logos/upwork/upwork.svg",
+        "width": 512,
+        "height": 153,
+        "src": "https://www.republicofstackshirts.com/static/logos/upwork/upwork.svg"
+      },
+      {
+        "name": "upworkIcon",
+        "pathname": "/static/logos/upwork/upworkIcon.svg",
+        "width": 512,
+        "height": 153,
+        "src": "https://www.republicofstackshirts.com/static/logos/upwork/upworkIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "jobs": {
+        "id": "jobs",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "freelancers": {
+        "id": "freelancers",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

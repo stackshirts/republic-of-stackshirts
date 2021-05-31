@@ -1,0 +1,67 @@
+{
+  "id": "webpack",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "webpack",
+    "url": "http://webpack.github.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#b2c9ef"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "webpack",
+        "pathname": "/static/logos/webpack/webpack.svg",
+        "width": 256,
+        "height": 296,
+        "src": "https://www.republicofstackshirts.com/static/logos/webpack/webpack.svg"
+      },
+      {
+        "name": "webpackIcon",
+        "pathname": "/static/logos/webpack/webpackIcon.svg",
+        "width": 256,
+        "height": 296,
+        "src": "https://www.republicofstackshirts.com/static/logos/webpack/webpackIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "buildTool": {
+        "id": "buildTool",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "cli": {
+        "id": "cli",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "nodeJs": {
+        "id": "nodeJs",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

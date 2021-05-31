@@ -1,0 +1,59 @@
+{
+  "id": "buddy",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Buddy",
+    "url": "https://buddy.works/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#e9d8d1"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "buddy",
+        "pathname": "/static/logos/buddy/buddy.svg",
+        "width": 256,
+        "height": 274,
+        "src": "https://www.republicofstackshirts.com/static/logos/buddy/buddy.svg"
+      },
+      {
+        "name": "buddyIcon",
+        "pathname": "/static/logos/buddy/buddyIcon.svg",
+        "width": 256,
+        "height": 274,
+        "src": "https://www.republicofstackshirts.com/static/logos/buddy/buddyIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "codeDeployment": {
+        "id": "codeDeployment",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "continuousIntegration": {
+        "id": "continuousIntegration",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "positionly",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Positionly",
+    "url": "https://positionly.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#149454"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "positionly",
+        "pathname": "/static/logos/positionly/positionly.svg",
+        "width": 256,
+        "height": 350,
+        "src": "https://www.republicofstackshirts.com/static/logos/positionly/positionly.svg"
+      },
+      {
+        "name": "positionlyIcon",
+        "pathname": "/static/logos/positionly/positionlyIcon.svg",
+        "width": 256,
+        "height": 350,
+        "src": "https://www.republicofstackshirts.com/static/logos/positionly/positionlyIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "seo": {
+        "id": "seo",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "inboundMarketing": {
+        "id": "inboundMarketing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "marketing": {
+        "id": "marketing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

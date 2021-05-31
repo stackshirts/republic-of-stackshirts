@@ -1,0 +1,51 @@
+{
+  "id": "bugherd",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "BugHerd",
+    "url": "http://bugherd.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#242424"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "bugherd",
+        "pathname": "/static/logos/bugherd/bugherd.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/bugherd/bugherd.svg"
+      },
+      {
+        "name": "bugherdIcon",
+        "pathname": "/static/logos/bugherd/bugherdIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/bugherd/bugherdIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "bugTracker": {
+        "id": "bugTracker",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

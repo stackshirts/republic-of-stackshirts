@@ -1,0 +1,67 @@
+{
+  "id": "firebase",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Firebase",
+    "url": "https://www.firebase.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#fbcb3c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "firebase",
+        "pathname": "/static/logos/firebase/firebase.svg",
+        "width": 256,
+        "height": 351,
+        "src": "https://www.republicofstackshirts.com/static/logos/firebase/firebase.svg"
+      },
+      {
+        "name": "firebaseIcon",
+        "pathname": "/static/logos/firebase/firebaseIcon.svg",
+        "width": 256,
+        "height": 351,
+        "src": "https://www.republicofstackshirts.com/static/logos/firebase/firebaseIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "database": {
+        "id": "database",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "realTime": {
+        "id": "realTime",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "dbaas": {
+        "id": "dbaas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

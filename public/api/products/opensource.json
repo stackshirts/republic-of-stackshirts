@@ -1,0 +1,59 @@
+{
+  "id": "opensource",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Open Source Initiative",
+    "url": "http://opensource.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3ca33b"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "opensource",
+        "pathname": "/static/logos/opensource/opensource.svg",
+        "width": 256,
+        "height": 248,
+        "src": "https://www.republicofstackshirts.com/static/logos/opensource/opensource.svg"
+      },
+      {
+        "name": "opensourceIcon",
+        "pathname": "/static/logos/opensource/opensourceIcon.svg",
+        "width": 256,
+        "height": 248,
+        "src": "https://www.republicofstackshirts.com/static/logos/opensource/opensourceIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "openSource": {
+        "id": "openSource",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "association": {
+        "id": "association",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

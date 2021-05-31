@@ -1,0 +1,51 @@
+{
+  "id": "webtask",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Webtask",
+    "url": "https://webtask.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#5f3237"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "webtask",
+        "pathname": "/static/logos/webtask/webtask.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/webtask/webtask.svg"
+      },
+      {
+        "name": "webtaskIcon",
+        "pathname": "/static/logos/webtask/webtaskIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/webtask/webtaskIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "taskProcessor": {
+        "id": "taskProcessor",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

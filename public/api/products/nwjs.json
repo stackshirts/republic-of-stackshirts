@@ -1,0 +1,51 @@
+{
+  "id": "nwjs",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "NW.js a.k.a. Nodewebkit",
+    "url": "http://nwjs.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3d3b47"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "nodewebkit",
+        "pathname": "/static/logos/nwjs/nodewebkit.svg",
+        "width": 256,
+        "height": 290,
+        "src": "https://www.republicofstackshirts.com/static/logos/nwjs/nodewebkit.svg"
+      },
+      {
+        "name": "nodewebkitIcon",
+        "pathname": "/static/logos/nwjs/nodewebkitIcon.svg",
+        "width": 256,
+        "height": 290,
+        "src": "https://www.republicofstackshirts.com/static/logos/nwjs/nodewebkitIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "desktopAppFramework": {
+        "id": "desktopAppFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

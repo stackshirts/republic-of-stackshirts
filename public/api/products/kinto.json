@@ -1,0 +1,59 @@
+{
+  "id": "kinto",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Kinto",
+    "url": "http://www.kinto-storage.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#bf8c0b"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "kinto",
+        "pathname": "/static/logos/kinto/kinto.svg",
+        "width": 256,
+        "height": 122,
+        "src": "https://www.republicofstackshirts.com/static/logos/kinto/kinto.svg"
+      },
+      {
+        "name": "kintoIcon",
+        "pathname": "/static/logos/kinto/kintoIcon.svg",
+        "width": 256,
+        "height": 122,
+        "src": "https://www.republicofstackshirts.com/static/logos/kinto/kintoIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "database": {
+        "id": "database",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "realTime": {
+        "id": "realTime",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

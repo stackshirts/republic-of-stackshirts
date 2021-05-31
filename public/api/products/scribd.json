@@ -1,0 +1,51 @@
+{
+  "id": "scribd",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Scribd",
+    "url": "https://www.scribd.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#444444"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "scribd",
+        "pathname": "/static/logos/scribd/scribd.svg",
+        "width": 512,
+        "height": 131,
+        "src": "https://www.republicofstackshirts.com/static/logos/scribd/scribd.svg"
+      },
+      {
+        "name": "scribdIcon",
+        "pathname": "/static/logos/scribd/scribdIcon.svg",
+        "width": 512,
+        "height": 131,
+        "src": "https://www.republicofstackshirts.com/static/logos/scribd/scribdIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "books": {
+        "id": "books",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

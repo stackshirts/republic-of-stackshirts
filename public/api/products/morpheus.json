@@ -1,0 +1,51 @@
+{
+  "id": "morpheus",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Morpheus",
+    "url": "https://www.morpheusdata.com",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#78c5e1"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "morpheus",
+        "pathname": "/static/logos/morpheus/morpheus.svg",
+        "width": 512,
+        "height": 106,
+        "src": "https://www.republicofstackshirts.com/static/logos/morpheus/morpheus.svg"
+      },
+      {
+        "name": "morpheusIcon",
+        "pathname": "/static/logos/morpheus/morpheusIcon.svg",
+        "width": 512,
+        "height": 106,
+        "src": "https://www.republicofstackshirts.com/static/logos/morpheus/morpheusIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "cloudManagement": {
+        "id": "cloudManagement",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

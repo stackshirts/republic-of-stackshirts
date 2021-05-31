@@ -1,0 +1,67 @@
+{
+  "id": "crateio",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "CrateIO",
+    "url": "https://crate.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#54d4f4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "crateio",
+        "pathname": "/static/logos/crateio/crateio.svg",
+        "width": 256,
+        "height": 193,
+        "src": "https://www.republicofstackshirts.com/static/logos/crateio/crateio.svg"
+      },
+      {
+        "name": "crateioIcon",
+        "pathname": "/static/logos/crateio/crateioIcon.svg",
+        "width": 256,
+        "height": 193,
+        "src": "https://www.republicofstackshirts.com/static/logos/crateio/crateioIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "database": {
+        "id": "database",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "storage": {
+        "id": "storage",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "docker": {
+        "id": "docker",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

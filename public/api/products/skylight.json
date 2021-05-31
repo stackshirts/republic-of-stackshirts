@@ -1,0 +1,59 @@
+{
+  "id": "skylight",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Skylight",
+    "url": "https://www.skylight.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#bbc4c3"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "skylight",
+        "pathname": "/static/logos/skylight/skylight.svg",
+        "width": 256,
+        "height": 289,
+        "src": "https://www.republicofstackshirts.com/static/logos/skylight/skylight.svg"
+      },
+      {
+        "name": "skylightIcon",
+        "pathname": "/static/logos/skylight/skylightIcon.svg",
+        "width": 256,
+        "height": 289,
+        "src": "https://www.republicofstackshirts.com/static/logos/skylight/skylightIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "monitoring": {
+        "id": "monitoring",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "performanceMonitoring": {
+        "id": "performanceMonitoring",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

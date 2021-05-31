@@ -1,0 +1,59 @@
+{
+  "id": "codepicnic",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "CodePicnic",
+    "url": "https://codepicnic.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#20A2CB"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "codepicnic",
+        "pathname": "/static/logos/codepicnic/codepicnic.svg",
+        "width": 256,
+        "height": 270,
+        "src": "https://www.republicofstackshirts.com/static/logos/codepicnic/codepicnic.svg"
+      },
+      {
+        "name": "codepicnicIcon",
+        "pathname": "/static/logos/codepicnic/codepicnicIcon.svg",
+        "width": 256,
+        "height": 270,
+        "src": "https://www.republicofstackshirts.com/static/logos/codepicnic/codepicnicIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "sandbox": {
+        "id": "sandbox",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "codeEditor": {
+        "id": "codeEditor",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

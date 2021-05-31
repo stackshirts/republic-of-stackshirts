@@ -1,0 +1,51 @@
+{
+  "id": "brandfolder",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Brandfolder",
+    "url": "http://brandfolder.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#44d4f4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "brandfolder",
+        "pathname": "/static/logos/brandfolder/brandfolder.svg",
+        "width": 256,
+        "height": 241,
+        "src": "https://www.republicofstackshirts.com/static/logos/brandfolder/brandfolder.svg"
+      },
+      {
+        "name": "brandfolderIcon",
+        "pathname": "/static/logos/brandfolder/brandfolderIcon.svg",
+        "width": 256,
+        "height": 241,
+        "src": "https://www.republicofstackshirts.com/static/logos/brandfolder/brandfolderIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "assetManager": {
+        "id": "assetManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

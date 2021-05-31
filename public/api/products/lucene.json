@@ -1,0 +1,51 @@
+{
+  "id": "lucene",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Lucene",
+    "url": "http://lucene.apache.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#0c0d0a"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "lucene",
+        "pathname": "/static/logos/lucene/lucene.svg",
+        "width": 512,
+        "height": 81,
+        "src": "https://www.republicofstackshirts.com/static/logos/lucene/lucene.svg"
+      },
+      {
+        "name": "luceneIcon",
+        "pathname": "/static/logos/lucene/luceneIcon.svg",
+        "width": 512,
+        "height": 81,
+        "src": "https://www.republicofstackshirts.com/static/logos/lucene/luceneIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "searchEngine": {
+        "id": "searchEngine",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

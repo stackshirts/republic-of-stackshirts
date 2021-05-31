@@ -1,0 +1,59 @@
+{
+  "id": "saltstack",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "SaltStack",
+    "url": "http://saltstack.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#74bcd4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "saltstack",
+        "pathname": "/static/logos/saltstack/saltstack.svg",
+        "width": 256,
+        "height": 233,
+        "src": "https://www.republicofstackshirts.com/static/logos/saltstack/saltstack.svg"
+      },
+      {
+        "name": "saltstackIcon",
+        "pathname": "/static/logos/saltstack/saltstackIcon.svg",
+        "width": 256,
+        "height": 233,
+        "src": "https://www.republicofstackshirts.com/static/logos/saltstack/saltstackIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "configurationManager": {
+        "id": "configurationManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "python": {
+        "id": "python",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

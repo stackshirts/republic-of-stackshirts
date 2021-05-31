@@ -1,0 +1,81 @@
+{
+  "id": "coreos",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "CoreOS",
+    "url": "https://coreos.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#54a3db"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "coreosShort",
+        "pathname": "/static/logos/coreos/coreosShort.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/coreos/coreosShort.svg"
+      },
+      {
+        "name": "coreos",
+        "pathname": "/static/logos/coreos/coreos.svg",
+        "width": 512,
+        "height": 150,
+        "src": "https://www.republicofstackshirts.com/static/logos/coreos/coreos.svg"
+      },
+      {
+        "name": "coreosShortIcon",
+        "pathname": "/static/logos/coreos/coreosShortIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/coreos/coreosShortIcon.svg"
+      },
+      {
+        "name": "coreosIcon",
+        "pathname": "/static/logos/coreos/coreosIcon.svg",
+        "width": 512,
+        "height": 150,
+        "src": "https://www.republicofstackshirts.com/static/logos/coreos/coreosIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "operationalSystem": {
+        "id": "operationalSystem",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "linux": {
+        "id": "linux",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "containers": {
+        "id": "containers",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

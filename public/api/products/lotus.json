@@ -1,0 +1,59 @@
+{
+  "id": "lotus",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Lotus",
+    "url": "http://lotusrb.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#542c4c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "lotus",
+        "pathname": "/static/logos/lotus/lotus.svg",
+        "width": 256,
+        "height": 296,
+        "src": "https://www.republicofstackshirts.com/static/logos/lotus/lotus.svg"
+      },
+      {
+        "name": "lotusIcon",
+        "pathname": "/static/logos/lotus/lotusIcon.svg",
+        "width": 256,
+        "height": 296,
+        "src": "https://www.republicofstackshirts.com/static/logos/lotus/lotusIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "webFramework": {
+        "id": "webFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ruby": {
+        "id": "ruby",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

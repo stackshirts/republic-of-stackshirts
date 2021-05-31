@@ -1,0 +1,59 @@
+{
+  "id": "tomcat",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Apache Tomcat",
+    "url": "http://tomcat.apache.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#e4bc43"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "tomcat",
+        "pathname": "/static/logos/tomcat/tomcat.svg",
+        "width": 256,
+        "height": 182,
+        "src": "https://www.republicofstackshirts.com/static/logos/tomcat/tomcat.svg"
+      },
+      {
+        "name": "tomcatIcon",
+        "pathname": "/static/logos/tomcat/tomcatIcon.svg",
+        "width": 256,
+        "height": 182,
+        "src": "https://www.republicofstackshirts.com/static/logos/tomcat/tomcatIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "webServer": {
+        "id": "webServer",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "java": {
+        "id": "java",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

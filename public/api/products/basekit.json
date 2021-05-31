@@ -1,0 +1,59 @@
+{
+  "id": "basekit",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "BaseKit",
+    "url": "http://www.basekit.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#146ccc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "basekit",
+        "pathname": "/static/logos/basekit/basekit.svg",
+        "width": 509,
+        "height": 122,
+        "src": "https://www.republicofstackshirts.com/static/logos/basekit/basekit.svg"
+      },
+      {
+        "name": "basekitIcon",
+        "pathname": "/static/logos/basekit/basekitIcon.svg",
+        "width": 509,
+        "height": 122,
+        "src": "https://www.republicofstackshirts.com/static/logos/basekit/basekitIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "contentManager": {
+        "id": "contentManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "websiteBuilder": {
+        "id": "websiteBuilder",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

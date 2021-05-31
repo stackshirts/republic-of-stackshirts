@@ -1,0 +1,59 @@
+{
+  "id": "harrow",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Harrow",
+    "url": "https://www.harrow.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#2c1434"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "harrow",
+        "pathname": "/static/logos/harrow/harrow.svg",
+        "width": 256,
+        "height": 244,
+        "src": "https://www.republicofstackshirts.com/static/logos/harrow/harrow.svg"
+      },
+      {
+        "name": "harrowIcon",
+        "pathname": "/static/logos/harrow/harrowIcon.svg",
+        "width": 256,
+        "height": 244,
+        "src": "https://www.republicofstackshirts.com/static/logos/harrow/harrowIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "continuousIntegration": {
+        "id": "continuousIntegration",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "capistrano": {
+        "id": "capistrano",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

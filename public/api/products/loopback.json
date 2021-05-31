@@ -1,0 +1,59 @@
+{
+  "id": "loopback",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Loopback",
+    "url": "http://loopback.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#6db436"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "loopback",
+        "pathname": "/static/logos/loopback/loopback.svg",
+        "width": 256,
+        "height": 296,
+        "src": "https://www.republicofstackshirts.com/static/logos/loopback/loopback.svg"
+      },
+      {
+        "name": "loopbackIcon",
+        "pathname": "/static/logos/loopback/loopbackIcon.svg",
+        "width": 256,
+        "height": 296,
+        "src": "https://www.republicofstackshirts.com/static/logos/loopback/loopbackIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "apiFramework": {
+        "id": "apiFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "nodeJs": {
+        "id": "nodeJs",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

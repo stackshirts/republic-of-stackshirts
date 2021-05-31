@@ -1,0 +1,75 @@
+{
+  "id": "batch",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "batch",
+    "url": "https://batch.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1c2c3c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "batch",
+        "pathname": "/static/logos/batch/batch.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/batch/batch.svg"
+      },
+      {
+        "name": "batchIcon",
+        "pathname": "/static/logos/batch/batchIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/batch/batchIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "pushNotifications": {
+        "id": "pushNotifications",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ads": {
+        "id": "ads",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "marketing": {
+        "id": "marketing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mobile": {
+        "id": "mobile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

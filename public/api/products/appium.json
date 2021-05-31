@@ -1,0 +1,67 @@
+{
+  "id": "appium",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Appium",
+    "url": "http://appium.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#cbebeb"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "appium",
+        "pathname": "/static/logos/appium/appium.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/appium/appium.svg"
+      },
+      {
+        "name": "appiumIcon",
+        "pathname": "/static/logos/appium/appiumIcon.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/appium/appiumIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "testingFramework": {
+        "id": "testingFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mobileTestAutomation": {
+        "id": "mobileTestAutomation",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mobile": {
+        "id": "mobile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

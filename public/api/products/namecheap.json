@@ -1,0 +1,51 @@
+{
+  "id": "namecheap",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Namecheap",
+    "url": "https://www.namecheap.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#fc8b43"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "namecheap",
+        "pathname": "/static/logos/namecheap/namecheap.svg",
+        "width": 256,
+        "height": 142,
+        "src": "https://www.republicofstackshirts.com/static/logos/namecheap/namecheap.svg"
+      },
+      {
+        "name": "namecheapIcon",
+        "pathname": "/static/logos/namecheap/namecheapIcon.svg",
+        "width": 256,
+        "height": 142,
+        "src": "https://www.republicofstackshirts.com/static/logos/namecheap/namecheapIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "domainRegistration": {
+        "id": "domainRegistration",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

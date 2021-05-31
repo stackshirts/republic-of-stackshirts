@@ -1,0 +1,61 @@
+{
+  "id": "100Tb",
+  "type": "products",
+  "attributes": {
+    "name": "100tb",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#949ca4"
+      }
+    ],
+    "logos": [
+      {
+        "name": "100Tb",
+        "pathname": "/static/logos/100Tb/100Tb.svg",
+        "src": "https://www.republicofstackshirts.com/static/logos/100Tb/100Tb.svg",
+        "height": 190,
+        "width": 512
+      },
+      {
+        "name": "100TbIcon",
+        "pathname": "/static/logos/100Tb/100TbIcon.svg",
+        "width": 512,
+        "height": 190,
+        "src": "https://www.republicofstackshirts.com/static/logos/100Tb/100TbIcon.svg"
+      }
+    ],
+    "package": {
+      "manager": "npm"
+    },
+    "url": "https://www.100tb.com",
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    }
+  },
+  "relationships": {
+    "productLabels": {
+      "webHosting": {
+        "id": "webHosting",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "cdn": {
+        "id": "cdn",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

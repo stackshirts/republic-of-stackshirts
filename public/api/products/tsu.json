@@ -1,0 +1,51 @@
+{
+  "id": "tsu",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "tsū˜",
+    "url": "http://www.tsu.co/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#5cd49c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "tsu",
+        "pathname": "/static/logos/tsu/tsu.svg",
+        "width": 256,
+        "height": 171,
+        "src": "https://www.republicofstackshirts.com/static/logos/tsu/tsu.svg"
+      },
+      {
+        "name": "tsuIcon",
+        "pathname": "/static/logos/tsu/tsuIcon.svg",
+        "width": 256,
+        "height": 171,
+        "src": "https://www.republicofstackshirts.com/static/logos/tsu/tsuIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "socialNetwork": {
+        "id": "socialNetwork",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

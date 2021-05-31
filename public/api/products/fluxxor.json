@@ -1,0 +1,67 @@
+{
+  "id": "fluxxor",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Fluxxor",
+    "url": "http://fluxxor.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#c6c6c6"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "fluxxor",
+        "pathname": "/static/logos/fluxxor/fluxxor.svg",
+        "width": 256,
+        "height": 322,
+        "src": "https://www.republicofstackshirts.com/static/logos/fluxxor/fluxxor.svg"
+      },
+      {
+        "name": "fluxxorIcon",
+        "pathname": "/static/logos/fluxxor/fluxxorIcon.svg",
+        "width": 256,
+        "height": 322,
+        "src": "https://www.republicofstackshirts.com/static/logos/fluxxor/fluxxorIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "flux": {
+        "id": "flux",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "react": {
+        "id": "react",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

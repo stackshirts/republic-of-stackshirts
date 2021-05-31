@@ -1,0 +1,67 @@
+{
+  "id": "cloud9",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Cloud9",
+    "url": "https://c9.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#04acec"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "cloud9",
+        "pathname": "/static/logos/cloud9/cloud9.svg",
+        "width": 256,
+        "height": 234,
+        "src": "https://www.republicofstackshirts.com/static/logos/cloud9/cloud9.svg"
+      },
+      {
+        "name": "cloud9Icon",
+        "pathname": "/static/logos/cloud9/cloud9Icon.svg",
+        "width": 256,
+        "height": 234,
+        "src": "https://www.republicofstackshirts.com/static/logos/cloud9/cloud9Icon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "codeEditor": {
+        "id": "codeEditor",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ide": {
+        "id": "ide",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "service": {
+        "id": "service",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

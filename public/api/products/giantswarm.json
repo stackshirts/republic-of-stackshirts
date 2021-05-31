@@ -1,0 +1,67 @@
+{
+  "id": "giantswarm",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Giant Swarm",
+    "url": "https://giantswarm.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#ed6839"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "giantswarm",
+        "pathname": "/static/logos/giantswarm/giantswarm.svg",
+        "width": 256,
+        "height": 229,
+        "src": "https://www.republicofstackshirts.com/static/logos/giantswarm/giantswarm.svg"
+      },
+      {
+        "name": "giantswarmIcon",
+        "pathname": "/static/logos/giantswarm/giantswarmIcon.svg",
+        "width": 256,
+        "height": 229,
+        "src": "https://www.republicofstackshirts.com/static/logos/giantswarm/giantswarmIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "docker": {
+        "id": "docker",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "containers": {
+        "id": "containers",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "paas": {
+        "id": "paas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

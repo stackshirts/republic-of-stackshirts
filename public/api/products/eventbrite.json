@@ -1,0 +1,59 @@
+{
+  "id": "eventbrite",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Eventbrite",
+    "url": "https://www.eventbrite.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f7682f"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "eventbrite",
+        "pathname": "/static/logos/eventbrite/eventbrite.svg",
+        "width": 512,
+        "height": 83,
+        "src": "https://www.republicofstackshirts.com/static/logos/eventbrite/eventbrite.svg"
+      },
+      {
+        "name": "eventbriteIcon",
+        "pathname": "/static/logos/eventbrite/eventbriteIcon.svg",
+        "width": 512,
+        "height": 83,
+        "src": "https://www.republicofstackshirts.com/static/logos/eventbrite/eventbriteIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "ticketSale": {
+        "id": "ticketSale",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "eventPlanning": {
+        "id": "eventPlanning",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

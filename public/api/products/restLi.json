@@ -1,0 +1,67 @@
+{
+  "id": "restLi",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "rest.li",
+    "url": "https://github.com/linkedin/rest.li",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#040404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "restLi",
+        "pathname": "/static/logos/restLi/restLi.svg",
+        "width": 512,
+        "height": 224,
+        "src": "https://www.republicofstackshirts.com/static/logos/restLi/restLi.svg"
+      },
+      {
+        "name": "restLiIcon",
+        "pathname": "/static/logos/restLi/restLiIcon.svg",
+        "width": 512,
+        "height": 224,
+        "src": "https://www.republicofstackshirts.com/static/logos/restLi/restLiIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "restFramework": {
+        "id": "restFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "apiTools": {
+        "id": "apiTools",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "java": {
+        "id": "java",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

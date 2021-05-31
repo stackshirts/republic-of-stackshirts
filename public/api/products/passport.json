@@ -1,0 +1,67 @@
+{
+  "id": "passport",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Passport",
+    "url": "http://passportjs.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#34e47c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "passport",
+        "pathname": "/static/logos/passport/passport.svg",
+        "width": 256,
+        "height": 320,
+        "src": "https://www.republicofstackshirts.com/static/logos/passport/passport.svg"
+      },
+      {
+        "name": "passportIcon",
+        "pathname": "/static/logos/passport/passportIcon.svg",
+        "width": 256,
+        "height": 320,
+        "src": "https://www.republicofstackshirts.com/static/logos/passport/passportIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "authentication": {
+        "id": "authentication",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "security": {
+        "id": "security",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "nodeJs": {
+        "id": "nodeJs",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

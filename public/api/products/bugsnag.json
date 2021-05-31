@@ -1,0 +1,59 @@
+{
+  "id": "bugsnag",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Bugsnag",
+    "url": "https://bugsnag.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3474a4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "bugsnag",
+        "pathname": "/static/logos/bugsnag/bugsnag.svg",
+        "width": 256,
+        "height": 176,
+        "src": "https://www.republicofstackshirts.com/static/logos/bugsnag/bugsnag.svg"
+      },
+      {
+        "name": "bugsnagIcon",
+        "pathname": "/static/logos/bugsnag/bugsnagIcon.svg",
+        "width": 256,
+        "height": 176,
+        "src": "https://www.republicofstackshirts.com/static/logos/bugsnag/bugsnagIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "exceptionTracker": {
+        "id": "exceptionTracker",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "monitoring": {
+        "id": "monitoring",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

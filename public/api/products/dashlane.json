@@ -1,0 +1,67 @@
+{
+  "id": "dashlane",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Dashlane",
+    "url": "https://www.dashlane.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#246474"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "dashlane",
+        "pathname": "/static/logos/dashlane/dashlane.svg",
+        "width": 512,
+        "height": 151,
+        "src": "https://www.republicofstackshirts.com/static/logos/dashlane/dashlane.svg"
+      },
+      {
+        "name": "dashlaneIcon",
+        "pathname": "/static/logos/dashlane/dashlaneIcon.svg",
+        "width": 512,
+        "height": 151,
+        "src": "https://www.republicofstackshirts.com/static/logos/dashlane/dashlaneIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "passwordManager": {
+        "id": "passwordManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "desktopApp": {
+        "id": "desktopApp",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mobileApp": {
+        "id": "mobileApp",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

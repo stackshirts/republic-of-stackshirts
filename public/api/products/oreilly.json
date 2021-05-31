@@ -1,0 +1,59 @@
+{
+  "id": "oreilly",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "O'Reilly",
+    "url": "http://www.oreilly.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#d41444"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "oreilly",
+        "pathname": "/static/logos/oreilly/oreilly.svg",
+        "width": 512,
+        "height": 93,
+        "src": "https://www.republicofstackshirts.com/static/logos/oreilly/oreilly.svg"
+      },
+      {
+        "name": "oreillyIcon",
+        "pathname": "/static/logos/oreilly/oreillyIcon.svg",
+        "width": 512,
+        "height": 93,
+        "src": "https://www.republicofstackshirts.com/static/logos/oreilly/oreillyIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "books": {
+        "id": "books",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "publisher": {
+        "id": "publisher",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "survicate",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "survicate",
+    "url": "http://survicate.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#ebac24"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "survicate",
+        "pathname": "/static/logos/survicate/survicate.svg",
+        "width": 256,
+        "height": 202,
+        "src": "https://www.republicofstackshirts.com/static/logos/survicate/survicate.svg"
+      },
+      {
+        "name": "survicateIcon",
+        "pathname": "/static/logos/survicate/survicateIcon.svg",
+        "width": 256,
+        "height": 202,
+        "src": "https://www.republicofstackshirts.com/static/logos/survicate/survicateIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "customerSupport": {
+        "id": "customerSupport",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "userFeedback": {
+        "id": "userFeedback",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

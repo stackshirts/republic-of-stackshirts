@@ -1,0 +1,67 @@
+{
+  "id": "famous",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Famo.us",
+    "url": "http://famous.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#040404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "famous",
+        "pathname": "/static/logos/famous/famous.svg",
+        "width": 256,
+        "height": 251,
+        "src": "https://www.republicofstackshirts.com/static/logos/famous/famous.svg"
+      },
+      {
+        "name": "famousIcon",
+        "pathname": "/static/logos/famous/famousIcon.svg",
+        "width": 256,
+        "height": 251,
+        "src": "https://www.republicofstackshirts.com/static/logos/famous/famousIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "library": {
+        "id": "library",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "animation": {
+        "id": "animation",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

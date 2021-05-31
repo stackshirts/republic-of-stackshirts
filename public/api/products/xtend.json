@@ -1,0 +1,59 @@
+{
+  "id": "xtend",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Xtend",
+    "url": "http://www.eclipse.org/xtend/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#040404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "xtend",
+        "pathname": "/static/logos/xtend/xtend.svg",
+        "width": 256,
+        "height": 212,
+        "src": "https://www.republicofstackshirts.com/static/logos/xtend/xtend.svg"
+      },
+      {
+        "name": "xtendIcon",
+        "pathname": "/static/logos/xtend/xtendIcon.svg",
+        "width": 256,
+        "height": 212,
+        "src": "https://www.republicofstackshirts.com/static/logos/xtend/xtendIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "java": {
+        "id": "java",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "dialect": {
+        "id": "dialect",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

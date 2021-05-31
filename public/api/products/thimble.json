@@ -1,0 +1,67 @@
+{
+  "id": "thimble",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Thimble",
+    "url": "https://thimble.mozilla.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#aebec6"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "thimble",
+        "pathname": "/static/logos/thimble/thimble.svg",
+        "width": 256,
+        "height": 279,
+        "src": "https://www.republicofstackshirts.com/static/logos/thimble/thimble.svg"
+      },
+      {
+        "name": "thimbleIcon",
+        "pathname": "/static/logos/thimble/thimbleIcon.svg",
+        "width": 256,
+        "height": 279,
+        "src": "https://www.republicofstackshirts.com/static/logos/thimble/thimbleIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "codeEditor": {
+        "id": "codeEditor",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mozilla": {
+        "id": "mozilla",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "service": {
+        "id": "service",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

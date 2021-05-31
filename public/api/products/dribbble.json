@@ -1,0 +1,81 @@
+{
+  "id": "dribbble",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "dribbble",
+    "url": "https://www.dribbble.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#040404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "dribbbleShort",
+        "pathname": "/static/logos/dribbble/dribbbleShort.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/dribbble/dribbbleShort.svg"
+      },
+      {
+        "name": "dribbble",
+        "pathname": "/static/logos/dribbble/dribbble.svg",
+        "width": 512,
+        "height": 126,
+        "src": "https://www.republicofstackshirts.com/static/logos/dribbble/dribbble.svg"
+      },
+      {
+        "name": "dribbbleShortIcon",
+        "pathname": "/static/logos/dribbble/dribbbleShortIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/dribbble/dribbbleShortIcon.svg"
+      },
+      {
+        "name": "dribbbleIcon",
+        "pathname": "/static/logos/dribbble/dribbbleIcon.svg",
+        "width": 512,
+        "height": 126,
+        "src": "https://www.republicofstackshirts.com/static/logos/dribbble/dribbbleIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "socialNetwork": {
+        "id": "socialNetwork",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "portfolio": {
+        "id": "portfolio",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "showcase": {
+        "id": "showcase",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

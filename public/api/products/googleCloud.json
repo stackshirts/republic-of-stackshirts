@@ -1,0 +1,59 @@
+{
+  "id": "googleCloud",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Google Cloud",
+    "url": "https://cloud.google.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#d97a30"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "googleCloud",
+        "pathname": "/static/logos/googleCloud/googleCloud.svg",
+        "width": 256,
+        "height": 227,
+        "src": "https://www.republicofstackshirts.com/static/logos/googleCloud/googleCloud.svg"
+      },
+      {
+        "name": "googleCloudIcon",
+        "pathname": "/static/logos/googleCloud/googleCloudIcon.svg",
+        "width": 256,
+        "height": 227,
+        "src": "https://www.republicofstackshirts.com/static/logos/googleCloud/googleCloudIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "cloudComputing": {
+        "id": "cloudComputing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "paas": {
+        "id": "paas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "alfresco",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Alfresco",
+    "url": "https://www.alfresco.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#82c243"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "alfresco",
+        "pathname": "/static/logos/alfresco/alfresco.svg",
+        "width": 256,
+        "height": 255,
+        "src": "https://www.republicofstackshirts.com/static/logos/alfresco/alfresco.svg"
+      },
+      {
+        "name": "alfrescoIcon",
+        "pathname": "/static/logos/alfresco/alfrescoIcon.svg",
+        "width": 256,
+        "height": 255,
+        "src": "https://www.republicofstackshirts.com/static/logos/alfresco/alfrescoIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "ecm": {
+        "id": "ecm",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "bpm": {
+        "id": "bpm",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

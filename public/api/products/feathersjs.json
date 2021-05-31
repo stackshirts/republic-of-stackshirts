@@ -1,0 +1,67 @@
+{
+  "id": "feathersjs",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "feathersjs",
+    "url": "http://feathersjs.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#343434"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "feathersjs",
+        "pathname": "/static/logos/feathersjs/feathersjs.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/feathersjs/feathersjs.svg"
+      },
+      {
+        "name": "feathersjsIcon",
+        "pathname": "/static/logos/feathersjs/feathersjsIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/feathersjs/feathersjsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "webAppFramework": {
+        "id": "webAppFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "microframework": {
+        "id": "microframework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "nodeJs": {
+        "id": "nodeJs",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

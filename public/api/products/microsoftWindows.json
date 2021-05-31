@@ -1,0 +1,51 @@
+{
+  "id": "microsoftWindows",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Windows",
+    "url": "https://www.microsoft.com/windows",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#04acec"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "microsoftWindows",
+        "pathname": "/static/logos/microsoftWindows/microsoftWindows.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/microsoftWindows/microsoftWindows.svg"
+      },
+      {
+        "name": "microsoftWindowsIcon",
+        "pathname": "/static/logos/microsoftWindows/microsoftWindowsIcon.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/microsoftWindows/microsoftWindowsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "operationalSystem": {
+        "id": "operationalSystem",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

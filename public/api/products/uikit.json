@@ -1,0 +1,75 @@
+{
+  "id": "uikit",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "uikit",
+    "url": "http://getuikit.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#2c94bc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "uikit",
+        "pathname": "/static/logos/uikit/uikit.svg",
+        "width": 256,
+        "height": 297,
+        "src": "https://www.republicofstackshirts.com/static/logos/uikit/uikit.svg"
+      },
+      {
+        "name": "uikitIcon",
+        "pathname": "/static/logos/uikit/uikitIcon.svg",
+        "width": 256,
+        "height": 297,
+        "src": "https://www.republicofstackshirts.com/static/logos/uikit/uikitIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "frontEndFramework": {
+        "id": "frontEndFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "css": {
+        "id": "css",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "less": {
+        "id": "less",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ui": {
+        "id": "ui",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

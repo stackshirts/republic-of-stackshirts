@@ -1,0 +1,67 @@
+{
+  "id": "hack",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "hack",
+    "url": "http://hacklang.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#848484"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "hack",
+        "pathname": "/static/logos/hack/hack.svg",
+        "width": 256,
+        "height": 381,
+        "src": "https://www.republicofstackshirts.com/static/logos/hack/hack.svg"
+      },
+      {
+        "name": "hackIcon",
+        "pathname": "/static/logos/hack/hackIcon.svg",
+        "width": 256,
+        "height": 381,
+        "src": "https://www.republicofstackshirts.com/static/logos/hack/hackIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "language": {
+        "id": "language",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "php": {
+        "id": "php",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "facebook": {
+        "id": "facebook",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

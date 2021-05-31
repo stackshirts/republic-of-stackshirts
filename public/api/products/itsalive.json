@@ -1,0 +1,59 @@
+{
+  "id": "itsalive",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "It's Alive",
+    "url": "https://itsalive.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#4e46c8"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "itsalive",
+        "pathname": "/static/logos/itsalive/itsalive.svg",
+        "width": 512,
+        "height": 130,
+        "src": "https://www.republicofstackshirts.com/static/logos/itsalive/itsalive.svg"
+      },
+      {
+        "name": "itsaliveIcon",
+        "pathname": "/static/logos/itsalive/itsaliveIcon.svg",
+        "width": 512,
+        "height": 130,
+        "src": "https://www.republicofstackshirts.com/static/logos/itsalive/itsaliveIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "chatbot": {
+        "id": "chatbot",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "facebook": {
+        "id": "facebook",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "android",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Android",
+    "url": "https://www.android.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#74c45c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "androidShort",
+        "pathname": "/static/logos/android/androidShort.svg",
+        "width": 256,
+        "height": 301,
+        "src": "https://www.republicofstackshirts.com/static/logos/android/androidShort.svg"
+      },
+      {
+        "name": "android",
+        "pathname": "/static/logos/android/android.svg",
+        "width": 512,
+        "height": 111,
+        "src": "https://www.republicofstackshirts.com/static/logos/android/android.svg"
+      },
+      {
+        "name": "androidShortIcon",
+        "pathname": "/static/logos/android/androidShortIcon.svg",
+        "width": 256,
+        "height": 301,
+        "src": "https://www.republicofstackshirts.com/static/logos/android/androidShortIcon.svg"
+      },
+      {
+        "name": "androidIcon",
+        "pathname": "/static/logos/android/androidIcon.svg",
+        "width": 512,
+        "height": 111,
+        "src": "https://www.republicofstackshirts.com/static/logos/android/androidIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "operationalSystem": {
+        "id": "operationalSystem",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mobile": {
+        "id": "mobile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

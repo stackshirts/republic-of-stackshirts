@@ -1,0 +1,89 @@
+{
+  "id": "browserify",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Browserify",
+    "url": "http://browserify.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#e4b45c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "browserifyShort",
+        "pathname": "/static/logos/browserify/browserifyShort.svg",
+        "width": 256,
+        "height": 216,
+        "src": "https://www.republicofstackshirts.com/static/logos/browserify/browserifyShort.svg"
+      },
+      {
+        "name": "browserify",
+        "pathname": "/static/logos/browserify/browserify.svg",
+        "width": 512,
+        "height": 152,
+        "src": "https://www.republicofstackshirts.com/static/logos/browserify/browserify.svg"
+      },
+      {
+        "name": "browserifyShortIcon",
+        "pathname": "/static/logos/browserify/browserifyShortIcon.svg",
+        "width": 256,
+        "height": 216,
+        "src": "https://www.republicofstackshirts.com/static/logos/browserify/browserifyShortIcon.svg"
+      },
+      {
+        "name": "browserifyIcon",
+        "pathname": "/static/logos/browserify/browserifyIcon.svg",
+        "width": 512,
+        "height": 152,
+        "src": "https://www.republicofstackshirts.com/static/logos/browserify/browserifyIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "frontEnd": {
+        "id": "frontEnd",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "moduleBundler": {
+        "id": "moduleBundler",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "nodeJs": {
+        "id": "nodeJs",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "cli": {
+        "id": "cli",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

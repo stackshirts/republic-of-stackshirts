@@ -1,0 +1,75 @@
+{
+  "id": "manifoldjs",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "manifoldJS",
+    "url": "http://www.manifoldjs.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f42c2c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "manifoldjs",
+        "pathname": "/static/logos/manifoldjs/manifoldjs.svg",
+        "width": 256,
+        "height": 423,
+        "src": "https://www.republicofstackshirts.com/static/logos/manifoldjs/manifoldjs.svg"
+      },
+      {
+        "name": "manifoldjsIcon",
+        "pathname": "/static/logos/manifoldjs/manifoldjsIcon.svg",
+        "width": 256,
+        "height": 423,
+        "src": "https://www.republicofstackshirts.com/static/logos/manifoldjs/manifoldjsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "crossPlatform": {
+        "id": "crossPlatform",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "applicationFramework": {
+        "id": "applicationFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mobile": {
+        "id": "mobile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "cordova": {
+        "id": "cordova",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "shogun",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Shogun",
+    "url": "https://getshogun.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#24a4fc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "shogun",
+        "pathname": "/static/logos/shogun/shogun.svg",
+        "width": 256,
+        "height": 121,
+        "src": "https://www.republicofstackshirts.com/static/logos/shogun/shogun.svg"
+      },
+      {
+        "name": "shogunIcon",
+        "pathname": "/static/logos/shogun/shogunIcon.svg",
+        "width": 256,
+        "height": 121,
+        "src": "https://www.republicofstackshirts.com/static/logos/shogun/shogunIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "websiteBuilder": {
+        "id": "websiteBuilder",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

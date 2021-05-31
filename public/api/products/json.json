@@ -1,0 +1,51 @@
+{
+  "id": "json",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "JSON",
+    "url": "http://json.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#2f2f2f"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "json",
+        "pathname": "/static/logos/json/json.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/json/json.svg"
+      },
+      {
+        "name": "jsonIcon",
+        "pathname": "/static/logos/json/jsonIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/json/jsonIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "language": {
+        "id": "language",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

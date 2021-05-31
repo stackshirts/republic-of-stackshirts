@@ -1,0 +1,67 @@
+{
+  "id": "polymer",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Polymer",
+    "url": "https://www.polymer-project.org/1.0/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#6073d5"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "polymer",
+        "pathname": "/static/logos/polymer/polymer.svg",
+        "width": 256,
+        "height": 178,
+        "src": "https://www.republicofstackshirts.com/static/logos/polymer/polymer.svg"
+      },
+      {
+        "name": "polymerIcon",
+        "pathname": "/static/logos/polymer/polymerIcon.svg",
+        "width": 256,
+        "height": 178,
+        "src": "https://www.republicofstackshirts.com/static/logos/polymer/polymerIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "frontEnd": {
+        "id": "frontEnd",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "components": {
+        "id": "components",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "polyfill": {
+        "id": "polyfill",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

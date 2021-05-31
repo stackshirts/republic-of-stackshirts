@@ -1,0 +1,59 @@
+{
+  "id": "helpscout",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Help Scout",
+    "url": "https://www.helpscout.net/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1c547c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "helpscout",
+        "pathname": "/static/logos/helpscout/helpscout.svg",
+        "width": 256,
+        "height": 231,
+        "src": "https://www.republicofstackshirts.com/static/logos/helpscout/helpscout.svg"
+      },
+      {
+        "name": "helpscoutIcon",
+        "pathname": "/static/logos/helpscout/helpscoutIcon.svg",
+        "width": 256,
+        "height": 231,
+        "src": "https://www.republicofstackshirts.com/static/logos/helpscout/helpscoutIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "helpDesk": {
+        "id": "helpDesk",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "customerSupport": {
+        "id": "customerSupport",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

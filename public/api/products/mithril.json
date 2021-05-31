@@ -1,0 +1,59 @@
+{
+  "id": "mithril",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Mithril",
+    "url": "https://lhorie.github.io/mithril/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#5cac5c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "mithril",
+        "pathname": "/static/logos/mithril/mithril.svg",
+        "width": 256,
+        "height": 243,
+        "src": "https://www.republicofstackshirts.com/static/logos/mithril/mithril.svg"
+      },
+      {
+        "name": "mithrilIcon",
+        "pathname": "/static/logos/mithril/mithrilIcon.svg",
+        "width": 256,
+        "height": 243,
+        "src": "https://www.republicofstackshirts.com/static/logos/mithril/mithrilIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "mvcFramework": {
+        "id": "mvcFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

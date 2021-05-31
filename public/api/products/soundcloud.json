@@ -1,0 +1,51 @@
+{
+  "id": "soundcloud",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "soundcloud",
+    "url": "https://soundcloud.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f35d23"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "soundcloud",
+        "pathname": "/static/logos/soundcloud/soundcloud.svg",
+        "width": 256,
+        "height": 145,
+        "src": "https://www.republicofstackshirts.com/static/logos/soundcloud/soundcloud.svg"
+      },
+      {
+        "name": "soundcloudIcon",
+        "pathname": "/static/logos/soundcloud/soundcloudIcon.svg",
+        "width": 256,
+        "height": 145,
+        "src": "https://www.republicofstackshirts.com/static/logos/soundcloud/soundcloudIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "musicSharing": {
+        "id": "musicSharing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

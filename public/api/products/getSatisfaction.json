@@ -1,0 +1,59 @@
+{
+  "id": "getSatisfaction",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Get Satisfaction",
+    "url": "https://getsatisfaction.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f47c34"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "getSatisfaction",
+        "pathname": "/static/logos/getSatisfaction/getSatisfaction.svg",
+        "width": 512,
+        "height": 122,
+        "src": "https://www.republicofstackshirts.com/static/logos/getSatisfaction/getSatisfaction.svg"
+      },
+      {
+        "name": "getSatisfactionIcon",
+        "pathname": "/static/logos/getSatisfaction/getSatisfactionIcon.svg",
+        "width": 512,
+        "height": 122,
+        "src": "https://www.republicofstackshirts.com/static/logos/getSatisfaction/getSatisfactionIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "customerSupport": {
+        "id": "customerSupport",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "userFeedback": {
+        "id": "userFeedback",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

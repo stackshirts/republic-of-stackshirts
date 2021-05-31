@@ -1,0 +1,59 @@
+{
+  "id": "bitrise",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Bitrise",
+    "url": "https://www.bitrise.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1c1c1c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "bitrise",
+        "pathname": "/static/logos/bitrise/bitrise.svg",
+        "width": 256,
+        "height": 254,
+        "src": "https://www.republicofstackshirts.com/static/logos/bitrise/bitrise.svg"
+      },
+      {
+        "name": "bitriseIcon",
+        "pathname": "/static/logos/bitrise/bitriseIcon.svg",
+        "width": 256,
+        "height": 254,
+        "src": "https://www.republicofstackshirts.com/static/logos/bitrise/bitriseIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "continuousIntegration": {
+        "id": "continuousIntegration",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ios": {
+        "id": "ios",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

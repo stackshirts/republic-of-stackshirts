@@ -1,0 +1,51 @@
+{
+  "id": "swiftype",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Swiftype",
+    "url": "https://swiftype.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f45444"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "swiftype",
+        "pathname": "/static/logos/swiftype/swiftype.svg",
+        "width": 256,
+        "height": 315,
+        "src": "https://www.republicofstackshirts.com/static/logos/swiftype/swiftype.svg"
+      },
+      {
+        "name": "swiftypeIcon",
+        "pathname": "/static/logos/swiftype/swiftypeIcon.svg",
+        "width": 256,
+        "height": 315,
+        "src": "https://www.republicofstackshirts.com/static/logos/swiftype/swiftypeIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "searchService": {
+        "id": "searchService",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "magneto",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Magneto",
+    "url": "http://getmagneto.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#40306f"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "magneto",
+        "pathname": "/static/logos/magneto/magneto.svg",
+        "width": 256,
+        "height": 371,
+        "src": "https://www.republicofstackshirts.com/static/logos/magneto/magneto.svg"
+      },
+      {
+        "name": "magnetoIcon",
+        "pathname": "/static/logos/magneto/magnetoIcon.svg",
+        "width": 256,
+        "height": 371,
+        "src": "https://www.republicofstackshirts.com/static/logos/magneto/magnetoIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "testingFramework": {
+        "id": "testingFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "android": {
+        "id": "android",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mobile": {
+        "id": "mobile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "python": {
+        "id": "python",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

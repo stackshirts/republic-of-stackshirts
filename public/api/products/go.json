@@ -1,0 +1,51 @@
+{
+  "id": "go",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Go",
+    "url": "https://golang.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f6d2a2"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "gopher",
+        "pathname": "/static/logos/go/gopher.svg",
+        "width": 256,
+        "height": 348,
+        "src": "https://www.republicofstackshirts.com/static/logos/go/gopher.svg"
+      },
+      {
+        "name": "gopherIcon",
+        "pathname": "/static/logos/go/gopherIcon.svg",
+        "width": 256,
+        "height": 348,
+        "src": "https://www.republicofstackshirts.com/static/logos/go/gopherIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "language": {
+        "id": "language",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

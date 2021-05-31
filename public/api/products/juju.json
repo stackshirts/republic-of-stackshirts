@@ -1,0 +1,51 @@
+{
+  "id": "juju",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Juju",
+    "url": "http://juju.ubuntu.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#dc4c14"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "juju",
+        "pathname": "/static/logos/juju/juju.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/juju/juju.svg"
+      },
+      {
+        "name": "jujuIcon",
+        "pathname": "/static/logos/juju/jujuIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/juju/jujuIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "serviceOrchestration": {
+        "id": "serviceOrchestration",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "leveldb",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "LevelDB",
+    "url": "http://leveldb.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#479351"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "leveldb",
+        "pathname": "/static/logos/leveldb/leveldb.svg",
+        "width": 256,
+        "height": 329,
+        "src": "https://www.republicofstackshirts.com/static/logos/leveldb/leveldb.svg"
+      },
+      {
+        "name": "leveldbIcon",
+        "pathname": "/static/logos/leveldb/leveldbIcon.svg",
+        "width": 256,
+        "height": 329,
+        "src": "https://www.republicofstackshirts.com/static/logos/leveldb/leveldbIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "database": {
+        "id": "database",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "storage": {
+        "id": "storage",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

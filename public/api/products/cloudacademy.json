@@ -1,0 +1,59 @@
+{
+  "id": "cloudacademy",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "CloudAcademy",
+    "url": "https://cloudacademy.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1c74bc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "cloudacademy",
+        "pathname": "/static/logos/cloudacademy/cloudacademy.svg",
+        "width": 256,
+        "height": 278,
+        "src": "https://www.republicofstackshirts.com/static/logos/cloudacademy/cloudacademy.svg"
+      },
+      {
+        "name": "cloudacademyIcon",
+        "pathname": "/static/logos/cloudacademy/cloudacademyIcon.svg",
+        "width": 256,
+        "height": 278,
+        "src": "https://www.republicofstackshirts.com/static/logos/cloudacademy/cloudacademyIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "learning": {
+        "id": "learning",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "courses": {
+        "id": "courses",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

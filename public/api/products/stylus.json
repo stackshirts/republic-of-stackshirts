@@ -1,0 +1,59 @@
+{
+  "id": "stylus",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Stylus",
+    "url": "https://learnboost.github.io/stylus/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#343434"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "stylus",
+        "pathname": "/static/logos/stylus/stylus.svg",
+        "width": 512,
+        "height": 315,
+        "src": "https://www.republicofstackshirts.com/static/logos/stylus/stylus.svg"
+      },
+      {
+        "name": "stylusIcon",
+        "pathname": "/static/logos/stylus/stylusIcon.svg",
+        "width": 512,
+        "height": 315,
+        "src": "https://www.republicofstackshirts.com/static/logos/stylus/stylusIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "css": {
+        "id": "css",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "preprocessor": {
+        "id": "preprocessor",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

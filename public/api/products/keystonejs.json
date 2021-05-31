@@ -1,0 +1,67 @@
+{
+  "id": "keystonejs",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "KeystoneJS",
+    "url": "http://keystonejs.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3c91d4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "keystonejs",
+        "pathname": "/static/logos/keystonejs/keystonejs.svg",
+        "width": 256,
+        "height": 260,
+        "src": "https://www.republicofstackshirts.com/static/logos/keystonejs/keystonejs.svg"
+      },
+      {
+        "name": "keystonejsIcon",
+        "pathname": "/static/logos/keystonejs/keystonejsIcon.svg",
+        "width": 256,
+        "height": 260,
+        "src": "https://www.republicofstackshirts.com/static/logos/keystonejs/keystonejsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "contentManager": {
+        "id": "contentManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "webAppFramework": {
+        "id": "webAppFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "nodeJs": {
+        "id": "nodeJs",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "autocode",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "autocode",
+    "url": "http://autocode.crystal.sh/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#cac9e2"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "autocode",
+        "pathname": "/static/logos/autocode/autocode.svg",
+        "width": 256,
+        "height": 241,
+        "src": "https://www.republicofstackshirts.com/static/logos/autocode/autocode.svg"
+      },
+      {
+        "name": "autocodeIcon",
+        "pathname": "/static/logos/autocode/autocodeIcon.svg",
+        "width": 256,
+        "height": 241,
+        "src": "https://www.republicofstackshirts.com/static/logos/autocode/autocodeIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "scaffolding": {
+        "id": "scaffolding",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "generator": {
+        "id": "generator",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

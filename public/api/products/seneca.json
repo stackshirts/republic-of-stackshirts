@@ -1,0 +1,59 @@
+{
+  "id": "seneca",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Seneca",
+    "url": "http://senecajs.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#040404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "seneca",
+        "pathname": "/static/logos/seneca/seneca.svg",
+        "width": 256,
+        "height": 200,
+        "src": "https://www.republicofstackshirts.com/static/logos/seneca/seneca.svg"
+      },
+      {
+        "name": "senecaIcon",
+        "pathname": "/static/logos/seneca/senecaIcon.svg",
+        "width": 256,
+        "height": 200,
+        "src": "https://www.republicofstackshirts.com/static/logos/seneca/senecaIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "microservices": {
+        "id": "microservices",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "nodeJs": {
+        "id": "nodeJs",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

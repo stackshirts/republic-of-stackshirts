@@ -1,0 +1,59 @@
+{
+  "id": "unionpay",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "UnionPay",
+    "url": "http://www.unionpayintl.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#e21836"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "unionpay",
+        "pathname": "/static/logos/unionpay/unionpay.svg",
+        "width": 256,
+        "height": 160,
+        "src": "https://www.republicofstackshirts.com/static/logos/unionpay/unionpay.svg"
+      },
+      {
+        "name": "unionpayIcon",
+        "pathname": "/static/logos/unionpay/unionpayIcon.svg",
+        "width": 256,
+        "height": 160,
+        "src": "https://www.republicofstackshirts.com/static/logos/unionpay/unionpayIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "creditCard": {
+        "id": "creditCard",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "finance": {
+        "id": "finance",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

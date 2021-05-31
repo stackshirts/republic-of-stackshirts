@@ -1,0 +1,51 @@
+{
+  "id": "duckduckgo",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "DuckDuckGo",
+    "url": "https://duckduckgo.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#db5c34"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "duckduckgo",
+        "pathname": "/static/logos/duckduckgo/duckduckgo.svg",
+        "width": 256,
+        "height": 255,
+        "src": "https://www.republicofstackshirts.com/static/logos/duckduckgo/duckduckgo.svg"
+      },
+      {
+        "name": "duckduckgoIcon",
+        "pathname": "/static/logos/duckduckgo/duckduckgoIcon.svg",
+        "width": 256,
+        "height": 255,
+        "src": "https://www.republicofstackshirts.com/static/logos/duckduckgo/duckduckgoIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "searchEngine": {
+        "id": "searchEngine",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

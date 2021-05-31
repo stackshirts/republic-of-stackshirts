@@ -1,0 +1,51 @@
+{
+  "id": "codecov",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Codecov",
+    "url": "http://codecov.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#e4245c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "codecov",
+        "pathname": "/static/logos/codecov/codecov.svg",
+        "width": 256,
+        "height": 281,
+        "src": "https://www.republicofstackshirts.com/static/logos/codecov/codecov.svg"
+      },
+      {
+        "name": "codecovIcon",
+        "pathname": "/static/logos/codecov/codecovIcon.svg",
+        "width": 256,
+        "height": 281,
+        "src": "https://www.republicofstackshirts.com/static/logos/codecov/codecovIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "codeCoverage": {
+        "id": "codeCoverage",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

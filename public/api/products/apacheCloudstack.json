@@ -1,0 +1,59 @@
+{
+  "id": "apacheCloudstack",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Apache CloudStack",
+    "url": "https://cloudstack.apache.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#bbdbeb"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "apacheCloudstack",
+        "pathname": "/static/logos/apacheCloudstack/apacheCloudstack.svg",
+        "width": 257,
+        "height": 208,
+        "src": "https://www.republicofstackshirts.com/static/logos/apacheCloudstack/apacheCloudstack.svg"
+      },
+      {
+        "name": "apacheCloudstackIcon",
+        "pathname": "/static/logos/apacheCloudstack/apacheCloudstackIcon.svg",
+        "width": 257,
+        "height": 208,
+        "src": "https://www.republicofstackshirts.com/static/logos/apacheCloudstack/apacheCloudstackIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "cloudComputing": {
+        "id": "cloudComputing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "iaaS": {
+        "id": "iaaS",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

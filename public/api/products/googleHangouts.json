@@ -1,0 +1,51 @@
+{
+  "id": "googleHangouts",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Google Hangouts",
+    "url": "http://hangouts.google.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#759A55"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "googleHangouts",
+        "pathname": "/static/logos/googleHangouts/googleHangouts.svg",
+        "width": 256,
+        "height": 194,
+        "src": "https://www.republicofstackshirts.com/static/logos/googleHangouts/googleHangouts.svg"
+      },
+      {
+        "name": "googleHangoutsIcon",
+        "pathname": "/static/logos/googleHangouts/googleHangoutsIcon.svg",
+        "width": 256,
+        "height": 194,
+        "src": "https://www.republicofstackshirts.com/static/logos/googleHangouts/googleHangoutsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "emailService": {
+        "id": "videoConference",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

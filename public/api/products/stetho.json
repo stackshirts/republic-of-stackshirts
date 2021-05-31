@@ -1,0 +1,75 @@
+{
+  "id": "stetho",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Stetho",
+    "url": "http://facebook.github.io/stetho/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#4cac53"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "stetho",
+        "pathname": "/static/logos/stetho/stetho.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/stetho/stetho.svg"
+      },
+      {
+        "name": "stethoIcon",
+        "pathname": "/static/logos/stetho/stethoIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/stetho/stethoIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "debug": {
+        "id": "debug",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "android": {
+        "id": "android",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mobile": {
+        "id": "mobile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "facebook": {
+        "id": "facebook",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

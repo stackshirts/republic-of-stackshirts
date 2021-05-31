@@ -1,0 +1,67 @@
+{
+  "id": "atomic",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "atomic",
+    "url": "https://atomic.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#477af6"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "atomic",
+        "pathname": "/static/logos/atomic/atomic.svg",
+        "width": 256,
+        "height": 237,
+        "src": "https://www.republicofstackshirts.com/static/logos/atomic/atomic.svg"
+      },
+      {
+        "name": "atomicIcon",
+        "pathname": "/static/logos/atomic/atomicIcon.svg",
+        "width": 256,
+        "height": 237,
+        "src": "https://www.republicofstackshirts.com/static/logos/atomic/atomicIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "prototyping": {
+        "id": "prototyping",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ui": {
+        "id": "ui",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mobile": {
+        "id": "mobile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "wicket",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Wicket",
+    "url": "https://wicket.apache.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f34404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "wicket",
+        "pathname": "/static/logos/wicket/wicket.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/wicket/wicket.svg"
+      },
+      {
+        "name": "wicketIcon",
+        "pathname": "/static/logos/wicket/wicketIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/wicket/wicketIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "webAppFramework": {
+        "id": "webAppFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "java": {
+        "id": "java",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "testlodge",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "TestLodge",
+    "url": "http://www.testlodge.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#74b444"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "testlodge",
+        "pathname": "/static/logos/testlodge/testlodge.svg",
+        "width": 256,
+        "height": 219,
+        "src": "https://www.republicofstackshirts.com/static/logos/testlodge/testlodge.svg"
+      },
+      {
+        "name": "testlodgeIcon",
+        "pathname": "/static/logos/testlodge/testlodgeIcon.svg",
+        "width": 256,
+        "height": 219,
+        "src": "https://www.republicofstackshirts.com/static/logos/testlodge/testlodgeIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "testManagement": {
+        "id": "testManagement",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "testing": {
+        "id": "testing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

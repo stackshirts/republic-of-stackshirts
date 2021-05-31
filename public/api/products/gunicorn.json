@@ -1,0 +1,59 @@
+{
+  "id": "gunicorn",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Gunicorn",
+    "url": "http://gunicorn.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#4c9c4c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "gunicorn",
+        "pathname": "/static/logos/gunicorn/gunicorn.svg",
+        "width": 256,
+        "height": 156,
+        "src": "https://www.republicofstackshirts.com/static/logos/gunicorn/gunicorn.svg"
+      },
+      {
+        "name": "gunicornIcon",
+        "pathname": "/static/logos/gunicorn/gunicornIcon.svg",
+        "width": 256,
+        "height": 156,
+        "src": "https://www.republicofstackshirts.com/static/logos/gunicorn/gunicornIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "webServer": {
+        "id": "webServer",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "python": {
+        "id": "python",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "heroku",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Heroku",
+    "url": "https://www.heroku.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#6464a4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "heroku",
+        "pathname": "/static/logos/heroku/heroku.svg",
+        "width": 256,
+        "height": 400,
+        "src": "https://www.republicofstackshirts.com/static/logos/heroku/heroku.svg"
+      },
+      {
+        "name": "herokuIcon",
+        "pathname": "/static/logos/heroku/herokuIcon.svg",
+        "width": 256,
+        "height": 400,
+        "src": "https://www.republicofstackshirts.com/static/logos/heroku/herokuIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "cloudComputing": {
+        "id": "cloudComputing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "paas": {
+        "id": "paas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "cli": {
+        "id": "cli",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

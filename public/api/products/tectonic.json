@@ -1,0 +1,75 @@
+{
+  "id": "tectonic",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Tecnotic",
+    "url": "https://tectonic.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#6bc38b"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "tectonic",
+        "pathname": "/static/logos/tectonic/tectonic.svg",
+        "width": 256,
+        "height": 278,
+        "src": "https://www.republicofstackshirts.com/static/logos/tectonic/tectonic.svg"
+      },
+      {
+        "name": "tectonicIcon",
+        "pathname": "/static/logos/tectonic/tectonicIcon.svg",
+        "width": 256,
+        "height": 278,
+        "src": "https://www.republicofstackshirts.com/static/logos/tectonic/tectonicIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "containers": {
+        "id": "containers",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "coreos": {
+        "id": "coreos",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "kubernetes": {
+        "id": "kubernetes",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "caas": {
+        "id": "caas",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

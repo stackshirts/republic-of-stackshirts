@@ -1,0 +1,51 @@
+{
+  "id": "memcached",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Memcached",
+    "url": "http://memcached.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#6b5e5b"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "memcached",
+        "pathname": "/static/logos/memcached/memcached.svg",
+        "width": 254,
+        "height": 254,
+        "src": "https://www.republicofstackshirts.com/static/logos/memcached/memcached.svg"
+      },
+      {
+        "name": "memcachedIcon",
+        "pathname": "/static/logos/memcached/memcachedIcon.svg",
+        "width": 254,
+        "height": 254,
+        "src": "https://www.republicofstackshirts.com/static/logos/memcached/memcachedIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "objectCache": {
+        "id": "objectCache",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

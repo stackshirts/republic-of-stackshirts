@@ -1,0 +1,51 @@
+{
+  "id": "opera",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Opera",
+    "url": "http://www.opera.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#e91a28"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "opera",
+        "pathname": "/static/logos/opera/opera.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/opera/opera.svg"
+      },
+      {
+        "name": "operaIcon",
+        "pathname": "/static/logos/opera/operaIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/opera/operaIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "browser": {
+        "id": "browser",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

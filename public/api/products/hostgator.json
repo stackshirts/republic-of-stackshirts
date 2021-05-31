@@ -1,0 +1,51 @@
+{
+  "id": "hostgator",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "HostGator",
+    "url": "https://www.hostgator.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#2b5596"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "hostgator",
+        "pathname": "/static/logos/hostgator/hostgator.svg",
+        "width": 256,
+        "height": 348,
+        "src": "https://www.republicofstackshirts.com/static/logos/hostgator/hostgator.svg"
+      },
+      {
+        "name": "hostgatorIcon",
+        "pathname": "/static/logos/hostgator/hostgatorIcon.svg",
+        "width": 256,
+        "height": 348,
+        "src": "https://www.republicofstackshirts.com/static/logos/hostgator/hostgatorIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "webHosting": {
+        "id": "webHosting",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

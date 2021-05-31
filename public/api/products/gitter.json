@@ -1,0 +1,59 @@
+{
+  "id": "gitter",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Gitter",
+    "url": "https://gitter.im/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#e00957"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "gitter",
+        "pathname": "/static/logos/gitter/gitter.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/gitter/gitter.svg"
+      },
+      {
+        "name": "gitterIcon",
+        "pathname": "/static/logos/gitter/gitterIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/gitter/gitterIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "groupChat": {
+        "id": "groupChat",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "teamCollaboration": {
+        "id": "teamCollaboration",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

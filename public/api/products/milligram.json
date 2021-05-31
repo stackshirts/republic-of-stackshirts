@@ -1,0 +1,59 @@
+{
+  "id": "milligram",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Milligram.svg",
+    "url": "http://milligram.github.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#9b4dca"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "milligram",
+        "pathname": "/static/logos/milligram/milligram.svg",
+        "width": 256,
+        "height": 370,
+        "src": "https://www.republicofstackshirts.com/static/logos/milligram/milligram.svg"
+      },
+      {
+        "name": "milligramIcon",
+        "pathname": "/static/logos/milligram/milligramIcon.svg",
+        "width": 256,
+        "height": 370,
+        "src": "https://www.republicofstackshirts.com/static/logos/milligram/milligramIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "css": {
+        "id": "css",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "frontEndFramework": {
+        "id": "frontEndFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

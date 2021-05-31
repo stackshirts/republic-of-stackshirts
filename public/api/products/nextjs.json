@@ -1,0 +1,55 @@
+{
+  "id": "nextjs",
+  "type": "products",
+  "attributes": {
+    "name": "Nextjs",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#000"
+      }
+    ],
+    "logos": [
+      {
+        "name": "nextjs",
+        "src": "https://republicofstackshirts.com/static/logos/nextjs/nextjs.svg",
+        "pathname": "/static/logos/nextjs/nextjs.svg",
+        "height": 40,
+        "width": 66
+      },
+      {
+        "name": "nextjsIcon",
+        "src": "https://republicofstackshirts.com/static/logos/nextjs/nextjsIcon.svg",
+        "pathname": "/static/logos/nextjs/nextjsIcon.svg",
+        "height": 40,
+        "width": 66
+      }
+    ],
+    "package": {
+      "manager": "npm",
+      "packageId": "nextjs"
+    },
+    "url": "http://nextjs.com/",
+    "githubUrl": "https://github.com/vercel/next.js",
+    "updatedOn": {
+      "seconds": 1621283288,
+      "nanoseconds": 872000000
+    },
+    "createdOn": {
+      "seconds": 1621283288,
+      "nanoseconds": 872000000
+    }
+  },
+  "relationships": {
+    "productLabels": {
+      "fullStackFramework": {
+        "id": "fullStackFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1621283288,
+          "nanoseconds": 872000000
+        }
+      }
+    }
+  }
+}

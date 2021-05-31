@@ -1,0 +1,51 @@
+{
+  "id": "gleam",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Gleam",
+    "url": "https://gleam.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#d1d146"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "gleam",
+        "pathname": "/static/logos/gleam/gleam.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/gleam/gleam.svg"
+      },
+      {
+        "name": "gleamIcon",
+        "pathname": "/static/logos/gleam/gleamIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/gleam/gleamIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "businessGrowth": {
+        "id": "businessGrowth",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

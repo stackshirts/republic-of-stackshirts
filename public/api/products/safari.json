@@ -1,0 +1,51 @@
+{
+  "id": "safari",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Safari",
+    "url": "https://www.apple.com/safari/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#2f8cdb"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "safari",
+        "pathname": "/static/logos/safari/safari.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/safari/safari.svg"
+      },
+      {
+        "name": "safariIcon",
+        "pathname": "/static/logos/safari/safariIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/safari/safariIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "browser": {
+        "id": "browser",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

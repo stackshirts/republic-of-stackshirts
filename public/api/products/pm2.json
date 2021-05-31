@@ -1,0 +1,67 @@
+{
+  "id": "pm2",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "PM2",
+    "url": "https://github.com/Unitech/pm2",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#1cd4ec"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "pm2",
+        "pathname": "/static/logos/pm2/pm2.svg",
+        "width": 512,
+        "height": 88,
+        "src": "https://www.republicofstackshirts.com/static/logos/pm2/pm2.svg"
+      },
+      {
+        "name": "pm2Icon",
+        "pathname": "/static/logos/pm2/pm2Icon.svg",
+        "width": 512,
+        "height": 88,
+        "src": "https://www.republicofstackshirts.com/static/logos/pm2/pm2Icon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "processManager": {
+        "id": "processManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "cli": {
+        "id": "cli",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "nodeJs": {
+        "id": "nodeJs",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

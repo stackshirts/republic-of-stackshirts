@@ -1,0 +1,83 @@
+{
+  "id": "zenhub",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Zenhub",
+    "url": "https://www.zenhub.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3c4c9c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "zenhub",
+        "pathname": "/static/logos/zenhub/zenhub.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/zenhub/zenhub.svg"
+      },
+      {
+        "name": "zenhubIcon",
+        "pathname": "/static/logos/zenhub/zenhubIcon.svg",
+        "width": 256,
+        "height": 257,
+        "src": "https://www.republicofstackshirts.com/static/logos/zenhub/zenhubIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "projectManager": {
+        "id": "projectManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "agile": {
+        "id": "agile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "kanban": {
+        "id": "kanban",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "github": {
+        "id": "github",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "githubTools": {
+        "id": "githubTools",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

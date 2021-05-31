@@ -1,0 +1,59 @@
+{
+  "id": "grails",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Grails",
+    "url": "https://grails.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#7cbc54"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "grails",
+        "pathname": "/static/logos/grails/grails.svg",
+        "width": 256,
+        "height": 175,
+        "src": "https://www.republicofstackshirts.com/static/logos/grails/grails.svg"
+      },
+      {
+        "name": "grailsIcon",
+        "pathname": "/static/logos/grails/grailsIcon.svg",
+        "width": 256,
+        "height": 175,
+        "src": "https://www.republicofstackshirts.com/static/logos/grails/grailsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "fullStackFramework": {
+        "id": "fullStackFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "java": {
+        "id": "java",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "teamwork",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "teamwork",
+    "url": "https://www.teamwork.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#4cacfc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "teamwork",
+        "pathname": "/static/logos/teamwork/teamwork.svg",
+        "width": 256,
+        "height": 221,
+        "src": "https://www.republicofstackshirts.com/static/logos/teamwork/teamwork.svg"
+      },
+      {
+        "name": "teamworkIcon",
+        "pathname": "/static/logos/teamwork/teamworkIcon.svg",
+        "width": 256,
+        "height": 221,
+        "src": "https://www.republicofstackshirts.com/static/logos/teamwork/teamworkIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "projectManager": {
+        "id": "projectManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

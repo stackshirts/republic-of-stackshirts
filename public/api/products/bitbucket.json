@@ -1,0 +1,67 @@
+{
+  "id": "bitbucket",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Bitbucket",
+    "url": "https://bitbucket.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#245484"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "bitbucket",
+        "pathname": "/static/logos/bitbucket/bitbucket.svg",
+        "width": 256,
+        "height": 295,
+        "src": "https://www.republicofstackshirts.com/static/logos/bitbucket/bitbucket.svg"
+      },
+      {
+        "name": "bitbucketIcon",
+        "pathname": "/static/logos/bitbucket/bitbucketIcon.svg",
+        "width": 256,
+        "height": 295,
+        "src": "https://www.republicofstackshirts.com/static/logos/bitbucket/bitbucketIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "git": {
+        "id": "git",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "mercurial": {
+        "id": "mercurial",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "codeManager": {
+        "id": "codeManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

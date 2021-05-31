@@ -1,0 +1,59 @@
+{
+  "id": "stickermule",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "stickermule",
+    "url": "https://www.stickermule.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#e4632c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "stickermule",
+        "pathname": "/static/logos/stickermule/stickermule.svg",
+        "width": 256,
+        "height": 149,
+        "src": "https://www.republicofstackshirts.com/static/logos/stickermule/stickermule.svg"
+      },
+      {
+        "name": "stickermuleIcon",
+        "pathname": "/static/logos/stickermule/stickermuleIcon.svg",
+        "width": 256,
+        "height": 149,
+        "src": "https://www.republicofstackshirts.com/static/logos/stickermule/stickermuleIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "stickers": {
+        "id": "stickers",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "magnets": {
+        "id": "magnets",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

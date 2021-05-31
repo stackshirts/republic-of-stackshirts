@@ -1,0 +1,51 @@
+{
+  "id": "rest",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Rest",
+    "url": "http://www.w3.org/2001/sw/wiki/REST",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3b434e"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "rest",
+        "pathname": "/static/logos/rest/rest.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/rest/rest.svg"
+      },
+      {
+        "name": "restIcon",
+        "pathname": "/static/logos/rest/restIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/rest/restIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "architecture": {
+        "id": "architecture",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "launchkit",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "LaunchKit",
+    "url": "https://launchkit.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#0494f4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "launchkit",
+        "pathname": "/static/logos/launchkit/launchkit.svg",
+        "width": 256,
+        "height": 342,
+        "src": "https://www.republicofstackshirts.com/static/logos/launchkit/launchkit.svg"
+      },
+      {
+        "name": "launchkitIcon",
+        "pathname": "/static/logos/launchkit/launchkitIcon.svg",
+        "width": 256,
+        "height": 342,
+        "src": "https://www.republicofstackshirts.com/static/logos/launchkit/launchkitIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "mobile": {
+        "id": "mobile",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "marketing": {
+        "id": "marketing",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

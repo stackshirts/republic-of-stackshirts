@@ -1,0 +1,67 @@
+{
+  "id": "opengl",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Open GL",
+    "url": "https://www.opengl.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#5586a4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "opengl",
+        "pathname": "/static/logos/opengl/opengl.svg",
+        "width": 512,
+        "height": 224,
+        "src": "https://www.republicofstackshirts.com/static/logos/opengl/opengl.svg"
+      },
+      {
+        "name": "openglIcon",
+        "pathname": "/static/logos/opengl/openglIcon.svg",
+        "width": 512,
+        "height": 224,
+        "src": "https://www.republicofstackshirts.com/static/logos/opengl/openglIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "crossPlatform": {
+        "id": "crossPlatform",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "games": {
+        "id": "games",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "3D": {
+        "id": "3D",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

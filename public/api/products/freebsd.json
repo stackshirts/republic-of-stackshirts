@@ -1,0 +1,59 @@
+{
+  "id": "freebsd",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "FreeBSD",
+    "url": "https://www.freebsd.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#b4040c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "freebsd",
+        "pathname": "/static/logos/freebsd/freebsd.svg",
+        "width": 256,
+        "height": 252,
+        "src": "https://www.republicofstackshirts.com/static/logos/freebsd/freebsd.svg"
+      },
+      {
+        "name": "freebsdIcon",
+        "pathname": "/static/logos/freebsd/freebsdIcon.svg",
+        "width": 256,
+        "height": 252,
+        "src": "https://www.republicofstackshirts.com/static/logos/freebsd/freebsdIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "operationalSystem": {
+        "id": "operationalSystem",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "linux": {
+        "id": "linux",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "modx",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "MODX",
+    "url": "http://modx.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#73bc4f"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "modx",
+        "pathname": "/static/logos/modx/modx.svg",
+        "width": 256,
+        "height": 329,
+        "src": "https://www.republicofstackshirts.com/static/logos/modx/modx.svg"
+      },
+      {
+        "name": "modxIcon",
+        "pathname": "/static/logos/modx/modxIcon.svg",
+        "width": 256,
+        "height": 329,
+        "src": "https://www.republicofstackshirts.com/static/logos/modx/modxIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "contentManager": {
+        "id": "contentManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

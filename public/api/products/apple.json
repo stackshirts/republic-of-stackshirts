@@ -1,0 +1,59 @@
+{
+  "id": "apple",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Apple",
+    "url": "http://www.apple.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#040404"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "apple",
+        "pathname": "/static/logos/apple/apple.svg",
+        "width": 256,
+        "height": 315,
+        "src": "https://www.republicofstackshirts.com/static/logos/apple/apple.svg"
+      },
+      {
+        "name": "appleIcon",
+        "pathname": "/static/logos/apple/appleIcon.svg",
+        "width": 256,
+        "height": 315,
+        "src": "https://www.republicofstackshirts.com/static/logos/apple/appleIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "technology": {
+        "id": "technology",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "company": {
+        "id": "company",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

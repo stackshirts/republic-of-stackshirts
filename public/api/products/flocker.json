@@ -1,0 +1,67 @@
+{
+  "id": "flocker",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Flocker",
+    "url": "https://clusterhq.com/flocker/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#6cb4b4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "flocker",
+        "pathname": "/static/logos/flocker/flocker.svg",
+        "width": 256,
+        "height": 223,
+        "src": "https://www.republicofstackshirts.com/static/logos/flocker/flocker.svg"
+      },
+      {
+        "name": "flockerIcon",
+        "pathname": "/static/logos/flocker/flockerIcon.svg",
+        "width": 256,
+        "height": 223,
+        "src": "https://www.republicofstackshirts.com/static/logos/flocker/flockerIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "database": {
+        "id": "database",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "docker": {
+        "id": "docker",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "contentDelivery": {
+        "id": "contentDelivery",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

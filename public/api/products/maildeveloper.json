@@ -1,0 +1,67 @@
+{
+  "id": "maildeveloper",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "MailDeveloper",
+    "url": "https://maildeveloper.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#b4bac1"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "maildeveloper",
+        "pathname": "/static/logos/maildeveloper/maildeveloper.svg",
+        "width": 256,
+        "height": 163,
+        "src": "https://www.republicofstackshirts.com/static/logos/maildeveloper/maildeveloper.svg"
+      },
+      {
+        "name": "maildeveloperIcon",
+        "pathname": "/static/logos/maildeveloper/maildeveloperIcon.svg",
+        "width": 256,
+        "height": 163,
+        "src": "https://www.republicofstackshirts.com/static/logos/maildeveloper/maildeveloperIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "ui": {
+        "id": "ui",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "emailEditor": {
+        "id": "emailEditor",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "template": {
+        "id": "template",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

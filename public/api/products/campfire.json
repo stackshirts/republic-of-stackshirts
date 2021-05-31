@@ -1,0 +1,67 @@
+{
+  "id": "campfire",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Campfire",
+    "url": "https://campfirenow.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#ace0e8"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "campfire",
+        "pathname": "/static/logos/campfire/campfire.svg",
+        "width": 256,
+        "height": 214,
+        "src": "https://www.republicofstackshirts.com/static/logos/campfire/campfire.svg"
+      },
+      {
+        "name": "campfireIcon",
+        "pathname": "/static/logos/campfire/campfireIcon.svg",
+        "width": 256,
+        "height": 214,
+        "src": "https://www.republicofstackshirts.com/static/logos/campfire/campfireIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "projectManager": {
+        "id": "projectManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "groupChat": {
+        "id": "groupChat",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "teamCollaboration": {
+        "id": "teamCollaboration",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

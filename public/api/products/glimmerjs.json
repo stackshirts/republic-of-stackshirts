@@ -1,0 +1,59 @@
+{
+  "id": "glimmerjs",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Glimmer",
+    "url": "https://glimmerjs.com",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#f8835a"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "glimmerjs",
+        "pathname": "/static/logos/glimmerjs/glimmerjs.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/glimmerjs/glimmerjs.svg"
+      },
+      {
+        "name": "glimmerjsIcon",
+        "pathname": "/static/logos/glimmerjs/glimmerjsIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/glimmerjs/glimmerjsIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "javascript": {
+        "id": "javascript",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "uiFramework": {
+        "id": "uiFramework",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

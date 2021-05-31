@@ -1,0 +1,59 @@
+{
+  "id": "webmin",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Webmin",
+    "url": "http://www.webmin.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#97beef"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "webmin",
+        "pathname": "/static/logos/webmin/webmin.svg",
+        "width": 256,
+        "height": 281,
+        "src": "https://www.republicofstackshirts.com/static/logos/webmin/webmin.svg"
+      },
+      {
+        "name": "webminIcon",
+        "pathname": "/static/logos/webmin/webminIcon.svg",
+        "width": 256,
+        "height": 281,
+        "src": "https://www.republicofstackshirts.com/static/logos/webmin/webminIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "linux": {
+        "id": "linux",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "configurationManager": {
+        "id": "configurationManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

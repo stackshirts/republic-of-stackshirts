@@ -1,0 +1,59 @@
+{
+  "id": "khanAcademy",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#9ca857"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "khanAcademy",
+        "pathname": "/static/logos/khanAcademy/khanAcademy.svg",
+        "width": 256,
+        "height": 361,
+        "src": "https://www.republicofstackshirts.com/static/logos/khanAcademy/khanAcademy.svg"
+      },
+      {
+        "name": "khanAcademyIcon",
+        "pathname": "/static/logos/khanAcademy/khanAcademyIcon.svg",
+        "width": 256,
+        "height": 361,
+        "src": "https://www.republicofstackshirts.com/static/logos/khanAcademy/khanAcademyIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "learning": {
+        "id": "learning",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "courses": {
+        "id": "courses",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

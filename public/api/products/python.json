@@ -1,0 +1,51 @@
+{
+  "id": "python",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Python",
+    "url": "https://www.python.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3473a6"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "python",
+        "pathname": "/static/logos/python/python.svg",
+        "width": 256,
+        "height": 255,
+        "src": "https://www.republicofstackshirts.com/static/logos/python/python.svg"
+      },
+      {
+        "name": "pythonIcon",
+        "pathname": "/static/logos/python/pythonIcon.svg",
+        "width": 256,
+        "height": 255,
+        "src": "https://www.republicofstackshirts.com/static/logos/python/pythonIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "language": {
+        "id": "language",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

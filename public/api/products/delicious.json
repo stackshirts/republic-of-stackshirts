@@ -1,0 +1,51 @@
+{
+  "id": "delicious",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Delicious",
+    "url": "https://delicious.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#ececec"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "delicious",
+        "pathname": "/static/logos/delicious/delicious.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/delicious/delicious.svg"
+      },
+      {
+        "name": "deliciousIcon",
+        "pathname": "/static/logos/delicious/deliciousIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/delicious/deliciousIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "bookmarkManager": {
+        "id": "bookmarkManager",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

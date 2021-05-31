@@ -1,0 +1,59 @@
+{
+  "id": "airbnb",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Airbnb",
+    "url": "https://www.airbnb.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#e4545c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "airbnb",
+        "pathname": "/static/logos/airbnb/airbnb.svg",
+        "width": 256,
+        "height": 276,
+        "src": "https://www.republicofstackshirts.com/static/logos/airbnb/airbnb.svg"
+      },
+      {
+        "name": "airbnbIcon",
+        "pathname": "/static/logos/airbnb/airbnbIcon.svg",
+        "width": 256,
+        "height": 276,
+        "src": "https://www.republicofstackshirts.com/static/logos/airbnb/airbnbIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "lodging": {
+        "id": "lodging",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "marketplace": {
+        "id": "marketplace",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

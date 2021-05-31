@@ -1,0 +1,79 @@
+{
+  "id": "google",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Google",
+    "url": "http://www.google.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#3484f4"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "googleShort",
+        "pathname": "/static/logos/google/googleShort.svg",
+        "width": 256,
+        "height": 262,
+        "src": "https://www.republicofstackshirts.com/static/logos/google/googleShort.svg"
+      },
+      {
+        "name": "google",
+        "pathname": "/static/logos/google/google.svg",
+        "width": 512,
+        "height": 168,
+        "src": "https://www.republicofstackshirts.com/static/logos/google/google.svg"
+      },
+      {
+        "name": "google2014",
+        "pathname": "/static/logos/google/google2014.svg",
+        "width": 512,
+        "height": 178,
+        "src": "https://www.republicofstackshirts.com/static/logos/google/google2014.svg"
+      },
+      {
+        "name": "googleShortIcon",
+        "pathname": "/static/logos/google/googleShortIcon.svg",
+        "width": 256,
+        "height": 262,
+        "src": "https://www.republicofstackshirts.com/static/logos/google/googleShortIcon.svg"
+      },
+      {
+        "name": "googleIcon",
+        "pathname": "/static/logos/google/googleIcon.svg",
+        "width": 512,
+        "height": 168,
+        "src": "https://www.republicofstackshirts.com/static/logos/google/googleIcon.svg"
+      },
+      {
+        "name": "google2014Icon",
+        "pathname": "/static/logos/google/google2014Icon.svg",
+        "width": 512,
+        "height": 178,
+        "src": "https://www.republicofstackshirts.com/static/logos/google/google2014Icon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "searchEngine": {
+        "id": "searchEngine",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

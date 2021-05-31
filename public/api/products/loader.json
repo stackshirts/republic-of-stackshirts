@@ -1,0 +1,51 @@
+{
+  "id": "loader",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "loader",
+    "url": "https://loader.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#4c7cbc"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "loader",
+        "pathname": "/static/logos/loader/loader.svg",
+        "width": 256,
+        "height": 247,
+        "src": "https://www.republicofstackshirts.com/static/logos/loader/loader.svg"
+      },
+      {
+        "name": "loaderIcon",
+        "pathname": "/static/logos/loader/loaderIcon.svg",
+        "width": 256,
+        "height": 247,
+        "src": "https://www.republicofstackshirts.com/static/logos/loader/loaderIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "loadTesting": {
+        "id": "loadTesting",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

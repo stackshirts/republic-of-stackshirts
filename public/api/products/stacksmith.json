@@ -1,0 +1,59 @@
+{
+  "id": "stacksmith",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Stacksmith",
+    "url": "https://stacksmith.bitnami.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#2c4454"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "stacksmith",
+        "pathname": "/static/logos/stacksmith/stacksmith.svg",
+        "width": 256,
+        "height": 280,
+        "src": "https://www.republicofstackshirts.com/static/logos/stacksmith/stacksmith.svg"
+      },
+      {
+        "name": "stacksmithIcon",
+        "pathname": "/static/logos/stacksmith/stacksmithIcon.svg",
+        "width": 256,
+        "height": 280,
+        "src": "https://www.republicofstackshirts.com/static/logos/stacksmith/stacksmithIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "docker": {
+        "id": "docker",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "containers": {
+        "id": "containers",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

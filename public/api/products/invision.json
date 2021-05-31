@@ -1,0 +1,59 @@
+{
+  "id": "invision",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Invision",
+    "url": "http://www.invisionapp.com/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#dc3c5c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "invision",
+        "pathname": "/static/logos/invision/invision.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/invision/invision.svg"
+      },
+      {
+        "name": "invisionIcon",
+        "pathname": "/static/logos/invision/invisionIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/invision/invisionIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "prototyping": {
+        "id": "prototyping",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "ui": {
+        "id": "ui",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "bosun",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Bosun",
+    "url": "https://bosun.org/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#275fa2"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "bosun",
+        "pathname": "/static/logos/bosun/bosun.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/bosun/bosun.svg"
+      },
+      {
+        "name": "bosunIcon",
+        "pathname": "/static/logos/bosun/bosunIcon.svg",
+        "width": 256,
+        "height": 256,
+        "src": "https://www.republicofstackshirts.com/static/logos/bosun/bosunIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "monitoring": {
+        "id": "monitoring",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "serverMonitoring": {
+        "id": "serverMonitoring",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "openSource": {
+        "id": "openSource",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}

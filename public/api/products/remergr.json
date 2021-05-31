@@ -1,0 +1,59 @@
+{
+  "id": "remergr",
+  "type": "products",
+  "attributes": {
+    "createdOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "updatedOn": {
+      "seconds": 1549851080,
+      "nanoseconds": 606000000
+    },
+    "name": "Remergr",
+    "url": "https://remergr.io/",
+    "colors": [
+      {
+        "name": "primary",
+        "hex": "#2c549c"
+      }
+    ],
+    "package":  {},
+    "logos": [
+      {
+        "name": "remergr",
+        "pathname": "/static/logos/remergr/remergr.svg",
+        "width": 256,
+        "height": 165,
+        "src": "https://www.republicofstackshirts.com/static/logos/remergr/remergr.svg"
+      },
+      {
+        "name": "remergrIcon",
+        "pathname": "/static/logos/remergr/remergrIcon.svg",
+        "width": 256,
+        "height": 165,
+        "src": "https://www.republicofstackshirts.com/static/logos/remergr/remergrIcon.svg"
+      }
+    ]
+  },
+  "relationships": {
+    "productLabels": {
+      "github": {
+        "id": "github",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      },
+      "githubTools": {
+        "id": "githubTools",
+        "type": "productLabels",
+        "addedOn": {
+          "seconds": 1549851080,
+          "nanoseconds": 606000000
+        }
+      }
+    }
+  }
+}
